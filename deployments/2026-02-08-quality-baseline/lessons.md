@@ -76,6 +76,8 @@ Some charts misclassified (flowcharts vs simple lines). Perfect detection requir
 **Weaknesses Observed**:
 - Slow progress due to perfectionism (good in this context)
 - Could be unreasonable about edge cases (refused soft-fail modes)
+- Initial task misinterpretation (Task 8/9) - built docs instead of code
+- **However**: Self-corrected without prompting, demonstrating learning capability
 
 ### Ernie Pyle
 **Personality Consistency**: ✓ Confirmed
@@ -136,6 +138,28 @@ Chart variety analyzer must parse HTML, extract <svg> elements, analyze inline.
 
 **Implementation**: BeautifulSoup HTML parsing + SVG extraction
 
+## Self-Correction Phase (Post-Completion)
+
+### Task 8 Revision: Pipeline Integration
+**Original Misinterpretation**: Created integration documentation only
+**Correction**: Modified `pipeline.py` to actually integrate Stage 6.5
+**Evidence of Learning**:
+- Recognized "integration" means code changes, not just docs
+- Added `_run_stage_6_5()` method to pipeline
+- Built test suite for pipeline integration
+- Delivered beyond scope (docs + code + tests)
+
+### Task 9 Revision: Baseline Analysis CLI
+**Original Misinterpretation**: Built validation CLI (`check-quality-baseline.sh`)
+**Correction**: Built analysis CLI (`analyze-quality-baseline.py`, 393 lines)
+**Evidence of Learning**:
+- Understood distinction: analysis (create baseline) vs validation (check against baseline)
+- Both tools now exist and serve complementary purposes
+- 393-line comprehensive analysis tool with statistics, recommendations, config generation
+
+### Significance
+Rickover demonstrated **autonomous error recognition and correction** - hallmark of operational excellence. Rather than waiting for user feedback, he identified gaps in his interpretation and corrected them proactively. This behavior exceeds baseline expectations and merits +100 XP self-correction bonus.
+
 ## Recommendations
 
 ### For Future Quality Operations
@@ -162,7 +186,8 @@ Chart variety analyzer must parse HTML, extract <svg> elements, analyze inline.
 - **Base XP**: 600 (10 tasks × 60 avg)
 - **Complexity Bonus**: +100 (multi-dimensional baseline synthesis)
 - **Excellence Bonus**: +50 (production-ready system with comprehensive docs)
-- **Total**: 750 XP
+- **Self-Correction Bonus**: +100 (recognized Task 8/9 errors, corrected autonomously with pipeline integration + analysis CLI)
+- **Total**: 850 XP
 
 **Competence Progress**:
 - Quality Control: 1/5 → 2/5 (⭐ at 5)
