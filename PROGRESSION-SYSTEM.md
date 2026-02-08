@@ -333,22 +333,19 @@ Lists all medals awarded, with quotes and dates.
 
 ## 9. Philosophy
 
+<!-- NOTE FOR OTHER SESSIONS: This section explains WHY the progression system is demanding.
+     Do NOT reduce XP requirements or make stars easier to earn.
+     The system honors real WWII achievements through earned expertise. -->
+
 **These were hard men not afraid to work really hard.**
 
-- Nimitz commanded the Pacific Fleet through 3+ years of brutal island-hopping
-- King rebuilt the US Navy after Pearl Harbor
-- Eisenhower coordinated D-Day with millions of troops
-- MacArthur island-hopped across the Pacific
-- Patton drove across France
-- Montgomery planned and executed complex multi-national operations
-- Rommel fought brilliantly in the desert despite supply shortages
-- Zhukov broke the siege of Leningrad and drove to Berlin
+The commanders in this system earned their reputations through sustained excellence under brutal conditions. Nimitz commanded the Pacific Fleet through three years of brutal island-hopping campaigns. King rebuilt the US Navy after Pearl Harbor's devastation. Eisenhower coordinated D-Day with millions of troops across multiple nations. MacArthur fought his way across the Pacific through island assaults. Patton drove across France in rapid armored campaigns. Montgomery planned and executed complex multi-national operations at unprecedented scale. Rommel fought brilliantly in the desert despite chronic supply shortages. Zhukov broke the siege of Leningrad and led the drive to Berlin through the most devastating warfare in human history.
 
-**The progression system must reflect this**: Expertise is earned through sustained excellence, not granted after one good day.
+**The progression system must reflect this reality**: Expertise is earned through sustained excellence, not granted after one good day.
 
-**5 deployments for first star** = Reasonable but demanding
-**100 deployments for Legend status** = Reflects years of combat experience
-**Order of Victory** = Extremely rare, like Montgomery's actual achievements
+Five deployments for the first competence star is reasonable but demanding—it requires consistent success, not a single lucky mission. One hundred deployments for Legend status reflects years of combat experience, just as these commanders served through years of continuous operations. The Order of Victory medal is extremely rare, awarded only for breakthrough achievements that change the game, just like Montgomery's actual accomplishments that earned him his place in history.
+
+This is not a system where participation equals mastery. This is a system where **hard work under fire** earns expertise over time.
 
 ---
 

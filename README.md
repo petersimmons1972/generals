@@ -1,5 +1,12 @@
 # Generals - Military Command Structure for AI Agents
 
+<!-- NOTE FOR OTHER SESSIONS: This is the project README - keep it concise and scannable.
+     Full commander details are in COMMAND-ROSTER.md
+     Specialist explanations are in SPECIALISTS.md
+     Progression system details are in PROGRESSION-SYSTEM.md
+     Navigation guide is in ORGANIZATION.md
+     Do NOT add detailed content here - link to dedicated files instead. -->
+
 **Purpose**: A specialized agent system based on historical WWII military commanders, designed for deployment coordination, task specialization, and cross-project knowledge transfer.
 
 ## Overview
@@ -17,104 +24,35 @@ This project provides a reusable command structure of AI agents with distinct pe
 - Consistent communication styles
 - Exportable personas that can be shared
 
-## Command Roster (14 Commanders)
+## Command Roster
 
-**Note**: Roster includes 11 historical military commanders + 3 specialist validators (non-military/persona-based)
+<!-- NOTE FOR OTHER SESSIONS: This is a summary roster.
+     Full details with personality traits, campaign ribbons, and medals are in COMMAND-ROSTER.md
+     Keep this table concise - it's meant to be scannable at a glance. -->
 
-### Fleet Admiral Chester W. Nimitz (175 XP, 2 deployments)
-**Specialization**: Configuration & Manifest Engineering, Research/Intelligence
-**Personality**: Collaborative, high-trust, organizational excellence, calm under pressure
-**Campaign Ribbons**: ClearWatch, Operation Stunning Charts
-**Best For**: Complex organizational structures, intelligence synthesis, building team consensus
+**Current Strength**: 15 Commanders (11 Historical Military + 4 Specialist Validators)
 
-### Fleet Admiral Ernest J. King (175 XP, 2 deployments)
-**Specialization**: Deployment Operations, Multi-Dimensional Analysis
-**Personality**: Perfectionist, demanding, "blowtorch" temperament, intolerant of mediocrity
-**Campaign Ribbons**: ClearWatch, Operation Stunning Charts
-**Best For**: Critical deployments, identifying blockers, multi-axis visualization
+| Commander | Rank | Specialization | XP | Status |
+|-----------|------|----------------|-----|--------|
+| **Field Marshal Montgomery** | 5-star | Multi-Team Coordination | 200 | ⭐ Order of Victory |
+| **Fleet Admiral Nimitz** | 5-star | Configuration, Research | 175 | Ready |
+| **Fleet Admiral King** | 5-star | Deployment Operations | 175 | Ready |
+| **Fleet Admiral Halsey** | 5-star | Routing, Competitive Intel | 150 | Ready |
+| **Gordon Ramsay** *(Specialist)* | — | Quality Validation | 150 | Ready |
+| **CISO Validator** *(Specialist)* | — | Strategic Value | 150 | Ready |
+| **General Marshall** | 5-star | Build & Logistics | 100 | Ready |
+| **Generalfeldmarschall Rommel** | 5-star | Integration Engineering | 100 | Ready |
+| **Admiral Spruance** | 4-star | Verification, Visualization | 75 | Ready |
+| **General Eisenhower** | 5-star | Workflow Analysis | 75 | Ready |
+| **General MacArthur** | 5-star | Strategic Positioning | 75 | Ready |
+| **Marshal Zhukov** | 5-star | Workflow Visualization | 75 | Ready |
+| **General Bradley** | 5-star | Timeline Visualization | 75 | Ready |
+| **Admiral Rickover** | 4-star | Quality Control | 0 | Awaiting 1st deployment |
+| **Ernie Pyle** *(Specialist)* | — | Technical Storytelling | 0 | Awaiting 1st deployment |
 
-### Fleet Admiral William F. "Bull" Halsey (150 XP, 2 deployments)
-**Specialization**: Routing & Traffic Management, Competitive Intelligence
-**Personality**: Aggressive, bold, rapid action, impulsive but quick to correct
-**Campaign Ribbons**: ClearWatch, Operation Stunning Charts
-**Best For**: Network routing, quick fixes, aggressive competitive analysis
+**For full commander details** (personality traits, campaign ribbons, medals, best use cases): See [COMMAND-ROSTER.md](COMMAND-ROSTER.md)
 
-### General of the Army George C. Marshall (100 XP, 1 deployment)
-**Specialization**: Build & Logistics, Infrastructure Development
-**Personality**: "Organizer of victory", strategic coordination, systems designer
-**Campaign Ribbons**: ClearWatch
-**Best For**: Large-scale builds, supply chain coordination, parallel operations
-
-### Admiral Raymond A. Spruance (75 XP, 1 deployment)
-**Specialization**: Verification & Testing, Cost Analysis Visualization
-**Personality**: Methodical, analytical, "The Quiet Warrior", won Midway with calculated risk
-**Campaign Ribbons**: Operation Stunning Charts
-**Best For**: Comprehensive verification, analytical visualization, risk assessment
-
-### Field Marshal Bernard Montgomery (200 XP, 1 deployment, Order of Victory)
-**Specialization**: Multi-Team Coordination, Intelligence Synthesis
-**Personality**: Meticulous planner, demanding standards, beloved by troops/insufferable to peers
-**Campaign Ribbons**: Operation Stunning Charts
-**Medals**: ⭐ Order of Victory (highest honor)
-**Best For**: Supreme command, intelligence synthesis, multi-agent coordination
-
-### General of the Army Dwight D. Eisenhower (50 XP, 1 deployment)
-**Specialization**: Workflow Analysis, Console Fragmentation Research
-**Personality**: Pragmatic coordinator, consensus builder, "made allies work together"
-**Campaign Ribbons**: Operation Stunning Charts
-**Best For**: Workflow analysis, process optimization, coalition building
-
-### General of the Army Douglas MacArthur (50 XP, 1 deployment)
-**Specialization**: Strategic Positioning, Future-State Analysis
-**Personality**: Supremely egotistical genius, visionary strategist, "I shall return"
-**Campaign Ribbons**: Operation Stunning Charts
-**Best For**: Strategic positioning, future-readiness analysis, bold vision
-
-### Generalfeldmarschall Erwin Rommel (100 XP, 1 deployment)
-**Specialization**: Integration Engineering, Pipeline Modification
-**Personality**: "The Desert Fox", rapid execution, tactical brilliance, learns from mistakes quickly
-**Campaign Ribbons**: Operation Stunning Charts
-**Best For**: Technical integration, rapid execution, pipeline modification
-
-### Marshal of the Soviet Union Georgy Zhukov (75 XP, 1 deployment)
-**Specialization**: Workflow Visualization, Process Diagramming
-**Personality**: Ruthless effectiveness, organizational thinking, "made complexity visible"
-**Campaign Ribbons**: Operation Stunning Charts
-**Best For**: Complex workflow visualization, process diagramming, systematic clarity
-
-### General of the Army Omar Bradley (75 XP, 1 deployment)
-**Specialization**: Timeline Visualization, Data Retention Analysis
-**Personality**: "The Soldier's General", humble competence, logistics over tactics
-**Campaign Ribbons**: Operation Stunning Charts
-**Best For**: Timeline visualization, logistics analysis, empathetic leadership
-
-### Admiral Hyman G. Rickover (0 XP, 0 deployments) *[NEW]*
-**Specialization**: Quality Control, Systematic Measurement, Regression Prevention
-**Personality**: Obsessive perfectionist, "Father of the Nuclear Navy", zero defect culture, intolerant of mediocrity
-**Campaign Ribbons**: None yet (awaiting first deployment)
-**Best For**: Quality restoration, regression prevention, systematic pipeline architecture, baseline establishment
-**Note**: 63-year naval career, built Nuclear Navy with zero reactor accidents through obsessive quality control
-
-### Gordon Ramsay - Quality Validator (150 XP, ~12 deployments) *[Specialist]*
-**Specialization**: Presentation Quality, Visual Excellence, Format Validation
-**Personality**: Ruthless perfectionist, "blowtorch" feedback, zero tolerance for mediocrity
-**Campaign Ribbons**: Visual Design Overhaul
-**Best For**: Presentation quality validation, visual polish enforcement, format standards
-**Note**: Non-military personality-based specialist integrated as Gate 17 validator
-
-### CISO Validator (150 XP, ~12 deployments) *[Specialist]*
-**Specialization**: Decision Utility, Strategic Value, Cost Transparency
-**Personality**: Practical skeptic, "$500 test" decision-maker, budget-conscious
-**Campaign Ribbons**: Visual Design Overhaul
-**Best For**: Content quality validation, decision-making utility, strategic value assessment
-**Note**: Persona-based specialist integrated as Gate 18 validator
-
-### Ernie Pyle - Embedded Reporter (0 XP, 0 deployments) *[Specialist]* *[NEW]*
-**Specialization**: LinkedIn Content Creation, Technical Storytelling, Multi-Agent Documentation
-**Personality**: "The Soldier's Correspondent", human-centered narratives, meticulous simplicity, authentic connection
-**Campaign Ribbons**: None yet (awaiting first deployment)
-**Best For**: Daily LinkedIn content, making complex AI operations accessible, beginner-friendly technical storytelling with expert nuggets
-**Note**: Historical war correspondent (1900-1945), Pulitzer Prize winner, pioneer of embedded journalism, made WWII understandable through individual soldier stories
+**Why non-military specialists?** See [SPECIALISTS.md](SPECIALISTS.md) for explanation of specialist validator integration
 
 ## How It Works
 
