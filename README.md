@@ -17,9 +17,9 @@ This project provides a reusable command structure of AI agents with distinct pe
 - Consistent communication styles
 - Exportable personas that can be shared
 
-## Command Roster (13 Commanders)
+## Command Roster (14 Commanders)
 
-**Note**: Roster includes 11 historical military commanders + 2 specialist validators (non-military persona-based)
+**Note**: Roster includes 11 historical military commanders + 3 specialist validators (non-military/persona-based)
 
 ### Fleet Admiral Chester W. Nimitz (175 XP, 2 deployments)
 **Specialization**: Configuration & Manifest Engineering, Research/Intelligence
@@ -108,6 +108,13 @@ This project provides a reusable command structure of AI agents with distinct pe
 **Campaign Ribbons**: Visual Design Overhaul
 **Best For**: Content quality validation, decision-making utility, strategic value assessment
 **Note**: Persona-based specialist integrated as Gate 18 validator
+
+### Ernie Pyle - Embedded Reporter (0 XP, 0 deployments) *[Specialist]* *[NEW]*
+**Specialization**: LinkedIn Content Creation, Technical Storytelling, Multi-Agent Documentation
+**Personality**: "The Soldier's Correspondent", human-centered narratives, meticulous simplicity, authentic connection
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Daily LinkedIn content, making complex AI operations accessible, beginner-friendly technical storytelling with expert nuggets
+**Note**: Historical war correspondent (1900-1945), Pulitzer Prize winner, pioneer of embedded journalism, made WWII understandable through individual soldier stories
 
 ## How It Works
 
@@ -228,7 +235,7 @@ This means:
 
 **Status**: Active System / Proven Value
 **First Deployment**: 2026-02-07 (ClearWatch + Operation Stunning Charts)
-**Total Commanders**: 10 comprehensive profiles
+**Total Commanders**: 14 comprehensive profiles (11 military + 3 specialists)
 **Total XP**: 1,275 across all commanders
 **Success Rate**: 100% (13 deployments)
 
