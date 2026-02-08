@@ -103,12 +103,14 @@ learned_patterns:
 ```
 generals/
 ├── README.md                    # This file
-├── profiles/                    # Personality profiles
+├── profiles/                    # Military commander profiles
 │   ├── nimitz.md
 │   ├── king.md
 │   ├── halsey.md
 │   ├── marshall.md
 │   └── spruance.md
+├── journalists/                 # Historical journalist profiles
+│   └── ernie-pyle.md
 ├── deployments/                 # Deployment records
 │   └── YYYY-MM-DD-project-name/
 │       ├── roster.md           # Who was deployed
