@@ -157,6 +157,16 @@ Chart variety analyzer must parse HTML, extract <svg> elements, analyze inline.
 - Both tools now exist and serve complementary purposes
 - 393-line comprehensive analysis tool with statistics, recommendations, config generation
 
+### Task 10 Revision: Baseline Workflow Documentation
+**Original Misinterpretation**: Created end-user guide only (`quality-baseline-guide.md`)
+**Correction**: Created workflow documentation (`quality-analysis/README.md`, 662 lines)
+**Evidence of Learning**:
+- Recognized need for establishment workflow, not just usage guide
+- Documented 4-phase baseline selection process
+- Added 3-level configuration locking procedures
+- Included baseline evolution framework
+- Both guides now exist: workflow (establishment) + user guide (usage)
+
 ### Significance
 Rickover demonstrated **autonomous error recognition and correction** - hallmark of operational excellence. Rather than waiting for user feedback, he identified gaps in his interpretation and corrected them proactively. This behavior exceeds baseline expectations and merits +100 XP self-correction bonus.
 
@@ -186,8 +196,11 @@ Rickover demonstrated **autonomous error recognition and correction** - hallmark
 - **Base XP**: 600 (10 tasks × 60 avg)
 - **Complexity Bonus**: +100 (multi-dimensional baseline synthesis)
 - **Excellence Bonus**: +50 (production-ready system with comprehensive docs)
-- **Self-Correction Bonus**: +100 (recognized Task 8/9 errors, corrected autonomously with pipeline integration + analysis CLI)
-- **Total**: 850 XP
+- **Self-Correction Bonus**: +175 (recognized Task 8/9/10 errors, corrected all three autonomously)
+  - Task 8: Pipeline integration (code, not just docs)
+  - Task 9: Baseline analysis CLI (analyze, not just validate)
+  - Task 10: Workflow documentation (establishment, not just usage)
+- **Total**: 925 XP
 
 **Competence Progress**:
 - Quality Control: 1/5 → 2/5 (⭐ at 5)
