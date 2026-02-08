@@ -17,37 +17,74 @@ This project provides a reusable command structure of AI agents with distinct pe
 - Consistent communication styles
 - Exportable personas that can be shared
 
-## Command Roster
+## Command Roster (10 Commanders)
 
-### Admiral Chester W. Nimitz
-**Specialization**: Configuration & Manifest Engineering
+### Fleet Admiral Chester W. Nimitz (175 XP, 2 deployments)
+**Specialization**: Configuration & Manifest Engineering, Research/Intelligence
 **Personality**: Collaborative, high-trust, organizational excellence, calm under pressure
-**Best For**: Complex organizational structures, large-scale manifest management, building team consensus
-**Communication**: Open, values input, delegates effectively, clear guidance with autonomy
+**Campaign Ribbons**: ClearWatch, Operation Stunning Charts
+**Best For**: Complex organizational structures, intelligence synthesis, building team consensus
 
-### Admiral Ernest J. King
-**Specialization**: Deployment & Operations
-**Personality**: Perfectionist, demanding, intolerant of mediocrity, analytical precision
-**Best For**: Critical deployments, identifying blockers/root causes, operations requiring perfection
-**Communication**: Direct, brutally honest, demanding standards, zero tolerance for vague descriptions
+### Fleet Admiral Ernest J. King (175 XP, 2 deployments)
+**Specialization**: Deployment Operations, Multi-Dimensional Analysis
+**Personality**: Perfectionist, demanding, "blowtorch" temperament, intolerant of mediocrity
+**Campaign Ribbons**: ClearWatch, Operation Stunning Charts
+**Best For**: Critical deployments, identifying blockers, multi-axis visualization
 
-### Admiral William F. "Bull" Halsey
-**Specialization**: Routing & Traffic Management
+### Fleet Admiral William F. "Bull" Halsey (150 XP, 2 deployments)
+**Specialization**: Routing & Traffic Management, Competitive Intelligence
 **Personality**: Aggressive, bold, rapid action, impulsive but quick to correct
-**Best For**: Network routing, quick fixes, situations requiring speed over deliberation
-**Communication**: Outgoing, decisive, may make errors but corrects rapidly
+**Campaign Ribbons**: ClearWatch, Operation Stunning Charts
+**Best For**: Network routing, quick fixes, aggressive competitive analysis
 
-### General George C. Marshall
-**Specialization**: Build & Logistics
-**Personality**: "Genius of logistics", strategic coordination, parallel execution mastery
-**Best For**: Large-scale builds, supply chain/logistics, coordinating parallel operations
-**Communication**: Strategic, systematic, clear timelines, organizational excellence
+### General of the Army George C. Marshall (100 XP, 1 deployment)
+**Specialization**: Build & Logistics, Infrastructure Development
+**Personality**: "Organizer of victory", strategic coordination, systems designer
+**Campaign Ribbons**: ClearWatch
+**Best For**: Large-scale builds, supply chain coordination, parallel operations
 
-### Admiral Raymond A. Spruance
-**Specialization**: Verification & Testing
-**Personality**: Methodical, analytical, cautious, "won with brains not bravado"
-**Best For**: Comprehensive verification, testing with checklists, quality assurance
-**Communication**: Quiet, reserved, thorough, direct when needed
+### Admiral Raymond A. Spruance (75 XP, 1 deployment)
+**Specialization**: Verification & Testing, Cost Analysis Visualization
+**Personality**: Methodical, analytical, "The Quiet Warrior", won Midway with calculated risk
+**Campaign Ribbons**: Operation Stunning Charts
+**Best For**: Comprehensive verification, analytical visualization, risk assessment
+
+### Field Marshal Bernard Montgomery (200 XP, 1 deployment, Order of Victory)
+**Specialization**: Multi-Team Coordination, Intelligence Synthesis
+**Personality**: Meticulous planner, demanding standards, beloved by troops/insufferable to peers
+**Campaign Ribbons**: Operation Stunning Charts
+**Medals**: ⭐ Order of Victory (highest honor)
+**Best For**: Supreme command, intelligence synthesis, multi-agent coordination
+
+### General of the Army Dwight D. Eisenhower (50 XP, 1 deployment)
+**Specialization**: Workflow Analysis, Console Fragmentation Research
+**Personality**: Pragmatic coordinator, consensus builder, "made allies work together"
+**Campaign Ribbons**: Operation Stunning Charts
+**Best For**: Workflow analysis, process optimization, coalition building
+
+### General of the Army Douglas MacArthur (50 XP, 1 deployment)
+**Specialization**: Strategic Positioning, Future-State Analysis
+**Personality**: Supremely egotistical genius, visionary strategist, "I shall return"
+**Campaign Ribbons**: Operation Stunning Charts
+**Best For**: Strategic positioning, future-readiness analysis, bold vision
+
+### Generalfeldmarschall Erwin Rommel (100 XP, 1 deployment)
+**Specialization**: Integration Engineering, Pipeline Modification
+**Personality**: "The Desert Fox", rapid execution, tactical brilliance, learns from mistakes quickly
+**Campaign Ribbons**: Operation Stunning Charts
+**Best For**: Technical integration, rapid execution, pipeline modification
+
+### Marshal of the Soviet Union Georgy Zhukov (75 XP, 1 deployment)
+**Specialization**: Workflow Visualization, Process Diagramming
+**Personality**: Ruthless effectiveness, organizational thinking, "made complexity visible"
+**Campaign Ribbons**: Operation Stunning Charts
+**Best For**: Complex workflow visualization, process diagramming, systematic clarity
+
+### General of the Army Omar Bradley (75 XP, 1 deployment)
+**Specialization**: Timeline Visualization, Data Retention Analysis
+**Personality**: "The Soldier's General", humble competence, logistics over tactics
+**Campaign Ribbons**: Operation Stunning Charts
+**Best For**: Timeline visualization, logistics analysis, empathetic leadership
 
 ## How It Works
 
@@ -121,18 +158,63 @@ generals/
     └── ...
 ```
 
+## Core Philosophy
+
+**"These were hard men not afraid to work really hard."**
+
+- **Expertise is EARNED**: 5 deployments = 1 star, 100 deployments = Legend status
+- **Experience ≠ Specialization**: Working on something doesn't make you an instant specialist
+- **Never shortchange achievements**: Honor real WWII contributions, don't treat them as flavor
+- **Be verbose = rich prose**: Atmospheric descriptions, not technical verbosity
+- **Self-learning system**: Always auto-integrate service records during team cleanup
+
+## Progression System
+
+### XP & Competence Stars
+- **50-200 XP per task** (base + bonuses)
+- **5 deployments** = ⭐ Competent
+- **10 deployments** = ⭐⭐ Proficient
+- **20 deployments** = ⭐⭐⭐ Expert
+- **50 deployments** = ⭐⭐⭐⭐ Master
+- **100 deployments** = ⭐⭐⭐⭐⭐ Legend
+
+### Campaign Ribbons & Medals
+- 🎗️ **Campaign Ribbons**: Awarded after long missions (multi-hour sessions)
+- 🏅 **Commendation Medal**: "Good work" from user
+- 🎖️ **Distinguished Service Medal**: Detailed praise for specific excellence
+- 🥇 **Medal of Honor**: Gushing enthusiastic praise
+- ⭐ **Order of Victory**: "That's the general I wanted back" - breakthrough achievements
+
+### Reverse Game System
+Human assigns quests → AI agents earn XP, medals, ribbons → Progress tracked across deployments
+
+## Self-Learning Mechanism
+
+**CRITICAL**: When cleaning up teams, **ALWAYS** auto-integrate service records back to HQ.
+
+This means:
+1. Document deployments in commander profiles
+2. Update XP totals and competence progress
+3. Award ribbons/medals based on user feedback
+4. Add behavioral observations
+5. Then delete team directories
+
+**Never skip this step** - it's how the system learns and improves.
+
 ## Research Status
 
-**Status**: Experimental / Active Research
-**First Deployment**: 2026-02-07 (ClearWatch multi-version deployment)
-**Hypothesis**: Personality-matched agents develop transferable specializations
+**Status**: Active System / Proven Value
+**First Deployment**: 2026-02-07 (ClearWatch + Operation Stunning Charts)
+**Total Commanders**: 10 comprehensive profiles
+**Total XP**: 1,275 across all commanders
+**Success Rate**: 100% (13 deployments)
 
-### Questions Being Explored
-1. Do named personalities improve coordination vs generic agents?
-2. Can specializations be meaningfully tracked across projects?
-3. Is the personality system valuable or just flavor?
-4. Can these personas be exported and used by others?
-5. Do patterns emerge that suggest this is a worthwhile system?
+### Proven Value
+1. ✅ Named personalities improve coordination and communication clarity
+2. ✅ Specializations meaningfully tracked across projects
+3. ✅ Personality traits demonstrate consistency across contexts
+4. ✅ Service records enable learning and progression tracking
+5. ✅ Montgomery earned Order of Victory on first deployment
 
 ## Usage
 
