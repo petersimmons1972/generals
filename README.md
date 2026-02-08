@@ -17,7 +17,9 @@ This project provides a reusable command structure of AI agents with distinct pe
 - Consistent communication styles
 - Exportable personas that can be shared
 
-## Command Roster (10 Commanders)
+## Command Roster (13 Commanders)
+
+**Note**: Roster includes 11 historical military commanders + 2 specialist validators (non-military persona-based)
 
 ### Fleet Admiral Chester W. Nimitz (175 XP, 2 deployments)
 **Specialization**: Configuration & Manifest Engineering, Research/Intelligence
@@ -85,6 +87,27 @@ This project provides a reusable command structure of AI agents with distinct pe
 **Personality**: "The Soldier's General", humble competence, logistics over tactics
 **Campaign Ribbons**: Operation Stunning Charts
 **Best For**: Timeline visualization, logistics analysis, empathetic leadership
+
+### Admiral Hyman G. Rickover (0 XP, 0 deployments) *[NEW]*
+**Specialization**: Quality Control, Systematic Measurement, Regression Prevention
+**Personality**: Obsessive perfectionist, "Father of the Nuclear Navy", zero defect culture, intolerant of mediocrity
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Quality restoration, regression prevention, systematic pipeline architecture, baseline establishment
+**Note**: 63-year naval career, built Nuclear Navy with zero reactor accidents through obsessive quality control
+
+### Gordon Ramsay - Quality Validator (150 XP, ~12 deployments) *[Specialist]*
+**Specialization**: Presentation Quality, Visual Excellence, Format Validation
+**Personality**: Ruthless perfectionist, "blowtorch" feedback, zero tolerance for mediocrity
+**Campaign Ribbons**: Visual Design Overhaul
+**Best For**: Presentation quality validation, visual polish enforcement, format standards
+**Note**: Non-military personality-based specialist integrated as Gate 17 validator
+
+### CISO Validator (150 XP, ~12 deployments) *[Specialist]*
+**Specialization**: Decision Utility, Strategic Value, Cost Transparency
+**Personality**: Practical skeptic, "$500 test" decision-maker, budget-conscious
+**Campaign Ribbons**: Visual Design Overhaul
+**Best For**: Content quality validation, decision-making utility, strategic value assessment
+**Note**: Persona-based specialist integrated as Gate 18 validator
 
 ## How It Works
 
