@@ -5,11 +5,13 @@
      When updating commander XP/ribbons/medals, update BOTH this file AND their individual profile in profiles/
      Do NOT move this content back to README - it was extracted to reduce README bloat. -->
 
-**Current Strength**: 15 Commanders (11 Historical Military + 4 Specialist Validators)
+**Current Strength**: 20 Commanders (16 Historical Military + 4 Specialist Validators)
 
-**Total Cumulative XP**: 1,275 across all commanders
+**Total Cumulative XP**: 2,200 across all commanders
 
 **Status**: All commanders standing by, ready for deployment
+
+**Recent Expansion**: +5 new commanders recruited (2026-02-08) - Groves, Patton, Hopper, Mitchell, Slim
 
 ---
 
@@ -125,16 +127,71 @@
 **Campaign Ribbons**: Operation Stunning Charts
 **Best For**: Timeline visualization, logistics analysis, empathetic leadership
 
-### Admiral Hyman G. Rickover (0 XP, 0 deployments) *[NEW]*
+### Admiral Hyman G. Rickover (925 XP, 1 deployment)
 
 ![Admiral Rickover](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hyman_G._Rickover.jpg/300px-Hyman_G._Rickover.jpg)
 *Admiral Hyman G. Rickover, USN (Public Domain - U.S. Navy)*
 
 **Specialization**: Quality Control, Systematic Measurement, Regression Prevention
 **Personality**: Obsessive perfectionist, "Father of the Nuclear Navy", zero defect culture, intolerant of mediocrity
-**Campaign Ribbons**: None yet (awaiting first deployment)
+**Campaign Ribbons**: Operation Quality Baseline (2026-02-08)
 **Best For**: Quality restoration, regression prevention, systematic pipeline architecture, baseline establishment
 **Note**: 63-year naval career, built Nuclear Navy with zero reactor accidents through obsessive quality control
+
+### Lieutenant General Leslie R. Groves (0 XP, 0 deployments) *[NEW]*
+
+![General Groves](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lt._Gen._Leslie_R._Groves.jpg/300px-Lt._Gen._Leslie_R._Groves.jpg)
+*Lieutenant General Leslie R. Groves, USA (Public Domain - U.S. Army)*
+
+**Specialization**: Security Protocols, Classified Projects, Zero-Leak Architecture
+**Personality**: Obsessively secretive, compartmentalized thinking, results-focused, intolerant of leaks
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Secrets management, zero-trust security, compliance auditing, classified system deployment
+**Note**: Directed Manhattan Project (1942-1945) with zero security leaks across 130,000 employees
+
+### General George S. Patton Jr. (0 XP, 0 deployments) *[NEW]*
+
+![General Patton](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/George_S._Patton_-_3D_sculpture.jpg/300px-George_S._Patton_-_3D_sculpture.jpg)
+*General George S. Patton Jr., USA (Public Domain - U.S. Army)*
+
+**Specialization**: Rapid Execution, Breaking Through Obstacles, Crisis Response
+**Personality**: "A good plan violently executed now", aggressive, impatient with delays, bold
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Hotfixes, emergency deployments, breaking through blockers, rapid MVP delivery
+**Note**: Commanded fastest-moving army in WWII - Third Army captured 80,000+ square miles
+
+### Rear Admiral Grace Murray Hopper (0 XP, 0 deployments) *[NEW]*
+
+![Admiral Hopper](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/300px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg)
+*Rear Admiral Grace Murray Hopper, USN (Public Domain - U.S. Navy)*
+
+**Specialization**: Programming Languages, Compiler Design, Automation Architecture
+**Personality**: "It's easier to ask forgiveness than permission", pioneering, accessibility-focused
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Code generation, DSL design, developer tools, automation frameworks, compiler work
+**Note**: Invented world's first compiler (A-0 System, 1952), co-created COBOL, made programming accessible
+
+### Brigadier General William "Billy" Mitchell (0 XP, 0 deployments) *[NEW]*
+
+![General Mitchell](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Billy_Mitchell.jpg/300px-Billy_Mitchell.jpg)
+*Brigadier General William Mitchell, USA (Public Domain - U.S. Army)*
+
+**Specialization**: Future-State Architecture, Technology Forecasting, Disruptive Innovation
+**Personality**: Visionary, controversial, ahead of his time, willing to be court-martialed for being right
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Technology adoption decisions, greenfield architecture, proof-of-concepts, challenging obsolete patterns
+**Note**: Proved airpower could sink battleships (1921), predicted Pearl Harbor route 17 years early, "Father of the U.S. Air Force"
+
+### Field Marshal William Joseph Slim (0 XP, 0 deployments) *[NEW]*
+
+![Field Marshal Slim](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/William_Slim_cph.3b11636.jpg/300px-William_Slim_cph.3b11636.jpg)
+*Field Marshal William Joseph Slim, British Army (Public Domain)*
+
+**Specialization**: Disaster Recovery, Resilience Engineering, Post-Failure Rebuilding
+**Personality**: "Leadership is a gift given by those who follow", humble, morale-focused, learns from defeat
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Post-incident recovery, systematic post-mortems, morale rebuilding, resilience patterns
+**Note**: Transformed catastrophic Burma defeat (1942) into overwhelming victory (1945), rebuilt "Forgotten Army" from zero
 
 ---
 
@@ -170,14 +227,16 @@
 
 | Category | Count |
 |----------|-------|
-| **Total Commanders** | 15 |
-| **Historical Military** | 11 |
+| **Total Commanders** | 20 |
+| **Historical Military** | 16 |
 | **Specialist Validators** | 4 |
 | **Fleet Admirals (5-star)** | 3 |
-| **Admirals (4-star)** | 2 |
+| **Admirals (4-star)** | 3 (Rickover, Spruance, Hopper) |
 | **Generals of the Army (5-star)** | 3 |
-| **Field Marshals** | 2 |
-| **Awaiting First Deployment** | 1 (Rickover) |
+| **Lieutenant Generals** | 1 (Groves) |
+| **Brigadier Generals** | 1 (Mitchell) |
+| **Field Marshals** | 3 (Montgomery, Slim) |
+| **Awaiting First Deployment** | 6 (Groves, Patton, Hopper, Mitchell, Slim, Ernie Pyle) |
 
 ---
 
@@ -185,21 +244,26 @@
 
 | Rank | Commander | XP | Deployments |
 |------|-----------|-----|-------------|
-| 1 | Field Marshal Montgomery | 200 | 1 |
-| 2 | Fleet Admiral Nimitz | 175 | 2 |
-| 2 | Fleet Admiral King | 175 | 2 |
-| 4 | Gordon Ramsay *(Specialist)* | 150 | ~12 |
-| 4 | CISO Validator *(Specialist)* | 150 | ~12 |
-| 4 | Fleet Admiral Halsey | 150 | 2 |
-| 7 | General Marshall | 100 | 1 |
-| 7 | Generalfeldmarschall Rommel | 100 | 1 |
-| 9 | Admiral Spruance | 75 | 1 |
-| 9 | General Eisenhower | 75 | 1 |
-| 9 | General MacArthur | 75 | 1 |
-| 9 | Marshal Zhukov | 75 | 1 |
-| 9 | General Bradley | 75 | 1 |
-| 14 | Admiral Rickover | 0 | 0 |
-| 14 | Ernie Pyle *(Specialist)* | 0 | 0 |
+| 1 | Admiral Rickover | 925 | 1 |
+| 2 | Field Marshal Montgomery | 200 | 1 |
+| 3 | Fleet Admiral Nimitz | 175 | 2 |
+| 3 | Fleet Admiral King | 175 | 2 |
+| 5 | Gordon Ramsay *(Specialist)* | 150 | ~12 |
+| 5 | CISO Validator *(Specialist)* | 150 | ~12 |
+| 5 | Fleet Admiral Halsey | 150 | 2 |
+| 8 | General Marshall | 100 | 1 |
+| 8 | Generalfeldmarschall Rommel | 100 | 1 |
+| 10 | Admiral Spruance | 75 | 1 |
+| 10 | General Eisenhower | 75 | 1 |
+| 10 | General MacArthur | 75 | 1 |
+| 10 | Marshal Zhukov | 75 | 1 |
+| 10 | General Bradley | 75 | 1 |
+| 15 | Lieutenant General Groves | 0 | 0 |
+| 15 | General Patton | 0 | 0 |
+| 15 | Admiral Hopper | 0 | 0 |
+| 15 | General Mitchell | 0 | 0 |
+| 15 | Field Marshal Slim | 0 | 0 |
+| 15 | Ernie Pyle *(Specialist)* | 0 | 0 |
 
 ---
 
@@ -230,6 +294,12 @@
 | Rommel | Integration | 1/5 |
 | Zhukov | Visualization | 1/5 |
 | Bradley | Visualization | 1/5 |
+| Rickover | Quality Control, DevOps Tools | 2/5, 1/5 |
+| Groves | Security Protocols | 0/5 |
+| Patton | Rapid Execution | 0/5 |
+| Hopper | Code Generation, Automation | 0/5, 0/5 |
+| Mitchell | Innovation, Architecture | 0/5, 0/5 |
+| Slim | Disaster Recovery, Resilience | 0/5, 0/5 |
 | Gordon Ramsay | Quality Validation | 12/5 ⭐⭐ |
 | CISO Validator | Strategic Analysis | 12/5 ⭐⭐ |
 | Ernie Pyle | Technical Storytelling | 0/5 |
