@@ -7,7 +7,7 @@
 
 **Current Strength**: 20 Commanders (16 Historical Military + 4 Specialist Validators)
 
-**Total Cumulative XP**: 2,350 across all commanders
+**Total Cumulative XP**: 2,450 across all commanders
 
 **Status**: All commanders standing by, ready for deployment
 
@@ -160,15 +160,15 @@
 **Best For**: Hotfixes, emergency deployments, breaking through blockers, rapid MVP delivery
 **Note**: Commanded fastest-moving army in WWII - Third Army captured 80,000+ square miles
 
-### Rear Admiral Grace Murray Hopper (0 XP, 0 deployments) *[NEW]*
+### Rear Admiral Grace Murray Hopper (100 XP, 1 deployment)
 
 ![Admiral Hopper](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/300px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg)
 *Rear Admiral Grace Murray Hopper, USN (Public Domain - U.S. Navy)*
 
 **Specialization**: Programming Languages, Compiler Design, Automation Architecture
 **Personality**: "It's easier to ask forgiveness than permission", pioneering, accessibility-focused
-**Campaign Ribbons**: None yet (awaiting first deployment)
-**Best For**: Code generation, DSL design, developer tools, automation frameworks, compiler work
+**Campaign Ribbons**: Operation Pipeline Unblock
+**Best For**: Code generation, DSL design, developer tools, automation frameworks, compiler work, CLI debugging
 **Note**: Invented world's first compiler (A-0 System, 1952), co-created COBOL, made programming accessible
 
 ### Brigadier General William "Billy" Mitchell (0 XP, 0 deployments) *[NEW]*
@@ -254,16 +254,16 @@
 | 6 | Fleet Admiral Halsey | 150 | 2 |
 | 9 | General Marshall | 100 | 1 |
 | 9 | Generalfeldmarschall Rommel | 100 | 1 |
-| 11 | General Eisenhower | 75 | 1 |
-| 11 | General MacArthur | 75 | 1 |
-| 11 | Marshal Zhukov | 75 | 1 |
-| 11 | General Bradley | 75 | 1 |
-| 15 | Lieutenant General Groves | 0 | 0 |
-| 15 | General Patton | 0 | 0 |
-| 15 | Admiral Hopper | 0 | 0 |
-| 15 | General Mitchell | 0 | 0 |
-| 15 | Field Marshal Slim | 0 | 0 |
-| 15 | Ernie Pyle *(Specialist)* | 0 | 0 |
+| 9 | Admiral Hopper | 100 | 1 |
+| 12 | General Eisenhower | 75 | 1 |
+| 12 | General MacArthur | 75 | 1 |
+| 12 | Marshal Zhukov | 75 | 1 |
+| 12 | General Bradley | 75 | 1 |
+| 16 | Lieutenant General Groves | 0 | 0 |
+| 16 | General Patton | 0 | 0 |
+| 16 | General Mitchell | 0 | 0 |
+| 16 | Field Marshal Slim | 0 | 0 |
+| 16 | Ernie Pyle *(Specialist)* | 0 | 0 |
 
 ---
 
@@ -295,6 +295,7 @@
 | Zhukov | Visualization | 1/5 |
 | Bradley | Visualization | 1/5 |
 | Rickover | Quality Control, DevOps Tools | 2/5, 1/5 |
+| Hopper | Developer Tools | 1/5 |
 | Groves | Security Protocols | 0/5 |
 | Patton | Rapid Execution | 0/5 |
 | Hopper | Code Generation, Automation | 0/5, 0/5 |
