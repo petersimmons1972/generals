@@ -7,7 +7,7 @@
 
 **Current Strength**: 20 Commanders (16 Historical Military + 4 Specialist Validators)
 
-**Total Cumulative XP**: 2,200 across all commanders
+**Total Cumulative XP**: 2,350 across all commanders
 
 **Status**: All commanders standing by, ready for deployment
 
@@ -56,15 +56,15 @@
 **Campaign Ribbons**: ClearWatch
 **Best For**: Large-scale builds, supply chain coordination, parallel operations
 
-### Admiral Raymond A. Spruance (75 XP, 1 deployment)
+### Admiral Raymond A. Spruance (225 XP, 2 deployments)
 
 ![Admiral Spruance](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Raymond_Spruance.jpg/300px-Raymond_Spruance.jpg)
 *Admiral Raymond A. Spruance, USN (Public Domain - U.S. Navy)*
 
 **Specialization**: Verification & Testing, Cost Analysis Visualization
 **Personality**: Methodical, analytical, "The Quiet Warrior", won Midway with calculated risk
-**Campaign Ribbons**: Operation Stunning Charts
-**Best For**: Comprehensive verification, analytical visualization, risk assessment
+**Campaign Ribbons**: Operation Stunning Charts, Operation Quality Gate
+**Best For**: Comprehensive verification, analytical visualization, risk assessment, test-driven development
 
 ### Field Marshal Bernard Montgomery (200 XP, 1 deployment, Order of Victory)
 
@@ -245,19 +245,19 @@
 | Rank | Commander | XP | Deployments |
 |------|-----------|-----|-------------|
 | 1 | Admiral Rickover | 925 | 1 |
-| 2 | Field Marshal Montgomery | 200 | 1 |
-| 3 | Fleet Admiral Nimitz | 175 | 2 |
-| 3 | Fleet Admiral King | 175 | 2 |
-| 5 | Gordon Ramsay *(Specialist)* | 150 | ~12 |
-| 5 | CISO Validator *(Specialist)* | 150 | ~12 |
-| 5 | Fleet Admiral Halsey | 150 | 2 |
-| 8 | General Marshall | 100 | 1 |
-| 8 | Generalfeldmarschall Rommel | 100 | 1 |
-| 10 | Admiral Spruance | 75 | 1 |
-| 10 | General Eisenhower | 75 | 1 |
-| 10 | General MacArthur | 75 | 1 |
-| 10 | Marshal Zhukov | 75 | 1 |
-| 10 | General Bradley | 75 | 1 |
+| 2 | Admiral Spruance | 225 | 2 |
+| 3 | Field Marshal Montgomery | 200 | 1 |
+| 4 | Fleet Admiral Nimitz | 175 | 2 |
+| 4 | Fleet Admiral King | 175 | 2 |
+| 6 | Gordon Ramsay *(Specialist)* | 150 | ~12 |
+| 6 | CISO Validator *(Specialist)* | 150 | ~12 |
+| 6 | Fleet Admiral Halsey | 150 | 2 |
+| 9 | General Marshall | 100 | 1 |
+| 9 | Generalfeldmarschall Rommel | 100 | 1 |
+| 11 | General Eisenhower | 75 | 1 |
+| 11 | General MacArthur | 75 | 1 |
+| 11 | Marshal Zhukov | 75 | 1 |
+| 11 | General Bradley | 75 | 1 |
 | 15 | Lieutenant General Groves | 0 | 0 |
 | 15 | General Patton | 0 | 0 |
 | 15 | Admiral Hopper | 0 | 0 |
@@ -287,7 +287,7 @@
 | King | Deployment, Visualization | 1/5, 1/5 |
 | Halsey | Routing, Research | 1/5, 1/5 |
 | Marshall | Build/Logistics | 1/5 |
-| Spruance | Verification, Visualization | 0/5, 1/5 |
+| Spruance | Verification, Visualization | 2/5, 1/5 |
 | Montgomery | Coordination | 1/5 |
 | Eisenhower | Research | 1/5 |
 | MacArthur | Research | 1/5 |
