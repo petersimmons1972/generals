@@ -1,0 +1,103 @@
+{
+  "personal": {
+    "name": "Peter Simmons",
+    "title": "Senior Sales Engineer",
+    "location": "Holly Springs, GA 30115",
+    "email": "peter.simmons.ga@gmail.com",
+    "phone": "+1-404-786-1683"
+  },
+  "currentRole": {
+    "company": "SentinelOne",
+    "position": "Senior Sales Engineer",
+    "startDate": "November 2021",
+    "status": "Present"
+  },
+  "experience": {
+    "yearsTotal": "20+",
+    "specialization": "Enterprise Security, Sales Engineering",
+    "focus": "EDR, XDR, SIEM, Network Security, Endpoint Security"
+  },
+  "previousRole": {
+    "company": "McAfee",
+    "position": "SR Enterprise Sales Engineer",
+    "startDate": "April 2005",
+    "endDate": "November 2021",
+    "tenure": "16+ years"
+  },
+  "education": {
+    "degree": "Bachelor of Business Administration",
+    "major": "Computer Information Systems",
+    "school": "Georgia State University",
+    "location": "Atlanta, GA"
+  },
+  "technicalSkills": {
+    "security": [
+      "EDR",
+      "XDR",
+      "SIEM",
+      "Network Security",
+      "Endpoint Security",
+      "Linux/Windows Systems",
+      "Troubleshooting"
+    ],
+    "cloudInfrastructure": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Ansible",
+      "CI/CD Pipelines"
+    ],
+    "aiAutomation": [
+      "1,000+ hours AI development",
+      "Claude",
+      "ChatGPT",
+      "Ollama",
+      "n8n"
+    ]
+  },
+  "businessSkills": [
+    "Consultative sales",
+    "POC execution",
+    "Public speaking",
+    "Process improvement",
+    "Technical documentation"
+  ],
+  "achievements": [
+    {
+      "description": "3 DOW 30 companies converted to new customers",
+      "category": "Sales Excellence"
+    },
+    {
+      "description": "$50M annual regional revenue managed",
+      "category": "Revenue Leadership"
+    },
+    {
+      "description": "500,000+ largest customer endpoint count",
+      "category": "Enterprise Scale"
+    },
+    {
+      "description": "6+ major enterprise accounts (100,000+ endpoints each)",
+      "category": "Enterprise Scale"
+    },
+    {
+      "description": "Conference speaker (McAfee FOCUS/MPOWER) with highest attendance sessions outside keynotes",
+      "category": "Thought Leadership"
+    },
+    {
+      "description": "Authored technical white papers and documentation",
+      "category": "Technical Communication"
+    },
+    {
+      "description": "Provided product feedback resulting in lasting improvements",
+      "category": "Product Innovation"
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-08",
+    "source": "https://resume.petersimmons.com",
+    "verified": true
+  }
+}

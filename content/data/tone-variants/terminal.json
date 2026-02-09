@@ -1,0 +1,38 @@
+{
+  "variantId": "terminal",
+  "commander": "Admiral Hyman G. Rickover",
+  "voice": "Technical, precise, command-line aesthetic",
+  "emotionalRegister": "Expert authority, zero-defect culture",
+  "transformations": {
+    "headline": "$ whoami --role=\"Enterprise Security Engineer\"",
+    "tagline": "> 20+ years production security operations | Status: Available",
+    "aboutIntro": "```\n$ whoami --experience\n> Senior Sales Engineer @ SentinelOne (2021-Present)\n> SR Enterprise Sales Engineer @ McAfee (2005-2021)\n> Years in production: 20+\n> Specialization: Enterprise security architecture\n> Credential: BBA Computer Information Systems\n> Status: Available for engagement\n```",
+    "experience": "```bash\n$ query-achievements --format=production\n\nDOW_30_CONVERSIONS=3\nANNUAL_REVENUE_MANAGED=$50M\nLARGEST_DEPLOYMENT=500000+endpoints\nMAJOR_ACCOUNTS=6 (100K+ endpoints each)\nCONFERENCE_SESSIONS=highest_attended\nTENURE_MCAFEE=16years\n\n# All metrics verified in production\n```",
+    "education": "```\n$ cat credentials.txt\nDegree: Bachelor of Business Administration\nMajor: Computer Information Systems\nInstitution: Georgia State University\nLocation: Atlanta, GA\nStatus: Verified\n```",
+    "currentRole": "```\n$ current-role --verbose\nCompany: SentinelOne\nPosition: Senior Sales Engineer\nStart: November 2021\nStatus: Present\nMode: Production\n```",
+    "previousRole": "```\n$ role-history | grep McAfee\nMcAfee | SR Enterprise Sales Engineer | Apr 2005 - Nov 2021 | 16 years\n```",
+    "approach": "$ execute-workflow --mode=production\n> Discovery → Architecture → POC → Validation → Deploy",
+    "cta": {
+      "primary": "$ schedule-consultation",
+      "secondary": "$ execute-security-assessment",
+      "tertiary": "> Initialize engagement"
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Variable, structured like code comments or CLI output",
+    "Word choice: Technical terminology, system metaphors, engineering language",
+    "Tone: Expert practitioner, technical precision, no hand-holding",
+    "POV: System perspective ('Execute', 'Deploy', 'Analyze')",
+    "Pacing: Structured, hierarchical, command-oriented"
+  ],
+  "exampleContent": {
+    "serviceDescription": "```\n$ list-services --category=security\n\n[enterprise-security]\n  - EDR/XDR architecture (100K+ endpoints)\n  - SIEM integration pipelines\n  - Multi-cloud security (AWS|Azure|GCP)\n\n[infrastructure]\n  - Kubernetes cluster management\n  - Terraform IaC\n  - CI/CD pipeline architecture\n\n[ai-automation]\n  - LLM orchestration (1000+ hours)\n  - Workflow automation (n8n)\n  - Agent development\n```",
+    "achievementStatement": "```bash\n# Production metrics (verified)\nexport DOW_30_CONVERSIONS=3\nexport REVENUE_MANAGED=50000000\nexport MAX_ENDPOINTS=500000\nexport CONFERENCE_RANK=\"highest_attended\"\necho \"Status: All metrics production-verified\"\n```",
+    "skillsIntro": "```yaml\ntechnical_stack:\n  security: [EDR, XDR, SIEM, Network, Endpoint]\n  cloud: [AWS, Azure, GCP, Kubernetes, Docker]\n  iac: [Terraform, Ansible]\n  ai: [Claude, ChatGPT, Ollama, n8n]\n  experience: 20+years\n  status: production_ready\n```"
+  },
+  "avoidPatterns": [
+    "Marketing language: 'Let's unlock your potential!'",
+    "Non-technical metaphors",
+    "Excessive explanation"
+  ]
+}

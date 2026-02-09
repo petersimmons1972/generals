@@ -1,0 +1,38 @@
+{
+  "variantId": "docs",
+  "commander": "Rear Admiral Grace M. Hopper",
+  "voice": "Instructional, clear, technical documentation",
+  "emotionalRegister": "Helpful expertise, accessible teaching",
+  "transformations": {
+    "headline": "Enterprise Security Guidance: 20+ Years of Practical Experience",
+    "tagline": "Learn from proven methodologies and real-world implementations",
+    "aboutIntro": "With over 20 years in enterprise security operations and sales engineering, I help organizations understand and implement security best practices. Currently serving as Senior Sales Engineer at SentinelOne (November 2021-Present), with 16 years of prior experience as SR Enterprise Sales Engineer at McAfee. Whether you're evaluating security solutions for the first time or optimizing existing programs at scale (up to 500,000+ endpoints), I can guide you through the process with proven methodologies and practical examples.",
+    "experience": "Over 20 years of hands-on enterprise security experience provides a foundation for helping organizations at any stage of their security journey. This includes:\n\n**Enterprise Conversions**: Successfully converted 3 DOW 30 companies from competitive security platforms—learn the evaluation frameworks and decision criteria that matter.\n\n**Revenue Management**: Managed $50M in annual regional revenue across major enterprise accounts—understand how to balance technical excellence with business outcomes.\n\n**Large-Scale Deployments**: Architected and supported security implementations up to 500,000+ endpoints—see the patterns that work at enterprise scale.\n\n**Technical Communication**: Delivered highest-attended conference sessions outside keynotes and authored technical documentation used across customer base—experience translating complex concepts for diverse audiences.",
+    "education": "Bachelor of Business Administration in Computer Information Systems from Georgia State University, Atlanta, GA. This educational foundation combines technical understanding with business context—essential for effective security consultation.",
+    "currentRole": "**Current Position**: Senior Sales Engineer at SentinelOne (November 2021-Present)\n\n**What This Means**: Providing technical consultation for organizations evaluating enterprise security solutions. This includes technical discovery, architecture design, proof-of-concept execution, and post-sales technical guidance.",
+    "previousRole": "**Previous Position**: SR Enterprise Sales Engineer at McAfee (April 2005 - November 2021)\n\n**Duration**: 16 years\n\n**Key Learnings**: Built expertise in enterprise security architecture, consultative sales engineering, stakeholder management, and long-term customer relationships. These years established the foundation for current approach.",
+    "approach": "**Step 1: Discovery**\nUnderstand your organization's security needs, constraints, and goals. This isn't about pushing solutions—it's about understanding your unique context.\n\n**Step 2: Design**\nDevelop security architecture that aligns with your business objectives and available resources. This includes technology selection, implementation planning, and operational considerations.\n\n**Step 3: Validation**\nExecute proof-of-concept projects that test real scenarios in your environment. Learn what works before committing to large-scale deployment.\n\n**Step 4: Implementation**\nGuide deployment with proven methodologies and practical examples from 20+ years of experience.\n\n**Step 5: Optimization**\nContinuous improvement based on operational feedback and evolving threats.",
+    "cta": {
+      "primary": "Learn how we protect your data.",
+      "secondary": "Read the documentation.",
+      "tertiary": "Get started with security."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Clear, instructional. Step-by-step when needed.",
+    "Word choice: Technical but accessible, teaching-oriented",
+    "Tone: Patient expert, 'let me show you how'",
+    "POV: Instructional second-person ('You can...', 'To do this...')",
+    "Pacing: Progressive disclosure, building complexity"
+  ],
+  "exampleContent": {
+    "serviceDescription": "**Enterprise Security Architecture**\n\nI help organizations design and implement security architecture for large-scale environments (100,000+ endpoints). This includes:\n\n1. **EDR/XDR Architecture**: Endpoint detection and response systems that scale reliably\n2. **SIEM Integration**: Security information and event management pipelines for threat detection\n3. **Multi-Cloud Security**: Architecture across AWS, Azure, and GCP environments\n4. **Network Security**: Comprehensive network security strategy and implementation\n\n**Who This Helps**: Organizations managing 100,000+ endpoints, companies scaling security infrastructure, teams requiring multi-cloud security strategy.\n\n**Expected Outcomes**: Scalable security architecture, reduced tool sprawl, improved threat detection, enterprise-grade security posture.",
+    "achievementStatement": "**Proven Track Record**:\n\n- **3 DOW 30 Conversions**: Successfully converted three Fortune 50 companies from competitive security platforms. Learn the evaluation frameworks that work for highly scrutinized enterprises.\n\n- **$50M Revenue Management**: Managed $50M in annual regional revenue across 6+ major enterprise accounts. Understand how to balance technical excellence with business outcomes.\n\n- **500,000+ Endpoint Deployment**: Architected and supported largest customer deployment at 500,000+ endpoints. See the patterns that work at enterprise scale.\n\n- **Conference Speaking**: Delivered highest-attended sessions outside keynotes at McAfee FOCUS/MPOWER conferences. Experience translating complex security topics for diverse audiences.",
+    "skillsIntro": "**Technical Skills (20+ Years)**:\n\n**Security Specialization**: EDR, XDR, SIEM, Network Security, Endpoint Security, Linux/Windows Systems\n\n**Cloud Infrastructure**: AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible, CI/CD Pipelines\n\n**AI & Automation**: 1,000+ hours developing AI automation solutions using Claude, ChatGPT, Ollama, and n8n\n\n**Business Skills**: Consultative sales, POC execution, stakeholder management, technical communication, public speaking\n\n**How to Use These Skills**: Whether you need technical consultation, architecture design, or implementation guidance, this experience base provides practical, proven approaches to enterprise security challenges."
+  },
+  "avoidPatterns": [
+    "Assume expert-level knowledge without explanation",
+    "Marketing language instead of instructional clarity",
+    "Vague statements without specific, actionable guidance"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "variantId": "flat",
+  "commander": "General Omar Bradley",
+  "voice": "Approachable, simple, 'soldier's general'",
+  "emotionalRegister": "Friendly competence, humble authority",
+  "transformations": {
+    "headline": "Enterprise Security That Actually Works",
+    "tagline": "20+ years helping organizations stay secure—no jargon, just results",
+    "aboutIntro": "I've been working in enterprise security for over 20 years, and I'm currently a Senior Sales Engineer at SentinelOne. Before that, I spent 16 years at McAfee helping organizations protect their infrastructure. I've worked with some pretty impressive companies—3 from the DOW 30—and helped manage about $50M in security infrastructure. The largest deployment I've worked on was over 500,000 endpoints. But honestly, what I'm most proud of is helping organizations find security solutions that actually work for them, not just in theory but in their real-world environments.",
+    "experience": "Over 20 years, I've learned that good security isn't about the fanciest tools—it's about understanding what your organization actually needs. I've converted 3 DOW 30 companies from their existing security platforms, managed about $50M in annual revenue for a region, and worked on deployments as large as 500,000+ endpoints. I've also spoken at conferences (turns out people liked my sessions—they were the highest attended outside the keynotes), and written documentation that customers actually found useful. But the real experience comes from listening to what organizations struggle with and finding practical solutions.",
+    "education": "I have a Bachelor of Business Administration in Computer Information Systems from Georgia State University. It gave me a good foundation, but honestly, most of what I know comes from working with customers over the years and learning what actually works in real environments.",
+    "currentRole": "I'm a Senior Sales Engineer at SentinelOne, where I've been since November 2021. What that means in practice: I talk with organizations about their security needs, help them figure out if our solutions are a good fit, run proof-of-concept projects to test things out, and stick around after the sale to make sure everything actually works like it should.",
+    "previousRole": "Before SentinelOne, I spent 16 years at McAfee as a Senior Enterprise Sales Engineer (April 2005 through November 2021). Those years taught me a lot about enterprise security, but more importantly, they taught me how to listen to customers, understand their actual problems (not just the ones they think they have), and build relationships based on honesty and follow-through.",
+    "approach": "I start by listening. What are you trying to protect? What's working? What's not? What constraints do you have—budget, staff, existing tools? Then we figure out what makes sense for your situation. If that means a proof-of-concept to test things out, great. If it means recommending something that isn't what I'm selling because it's a better fit, that's fine too. The goal is to help you build security that works in your environment, with your team, for your threats.",
+    "cta": {
+      "primary": "Let's talk about your needs.",
+      "secondary": "Security made simple.",
+      "tertiary": "Start a conversation."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Conversational, like talking to a colleague",
+    "Word choice: Plain English, everyday language, no jargon unless explained",
+    "Tone: Friendly expert, approachable but competent",
+    "POV: Conversational 'I' or 'we', relatable",
+    "Pacing: Natural speech rhythm"
+  ],
+  "exampleContent": {
+    "serviceDescription": "**Enterprise Security Architecture**\n\nI help organizations design security solutions that work in the real world—not just in vendor demos. That includes things like EDR, XDR, and SIEM, which are just different ways of saying \"tools that help you detect and respond to security threats.\" I've worked on deployments from 10,000 to 500,000+ endpoints, so whether you're a mid-sized company or a Fortune 100 organization, I've probably seen something similar to your situation.\n\nI also work with cloud infrastructure (AWS, Azure, GCP) and tools like Kubernetes and Terraform. These aren't as complicated as they sound—they're just ways to manage your infrastructure more efficiently. If you're not sure what you need or where to start, that's exactly the kind of conversation I'm good at having.",
+    "achievementStatement": "**Things I'm Proud Of**:\n\n- Helped 3 DOW 30 companies switch from their existing security platforms. These are big, careful organizations that don't make changes lightly, so earning their trust meant something.\n\n- Managed about $50M in annual revenue across several major accounts. That sounds like a big number (it is), but really it means I've worked with a lot of organizations over a long time and built relationships they found valuable enough to maintain.\n\n- Worked on a deployment covering 500,000+ endpoints. That's a lot of computers to protect, and it taught me a ton about what works at serious scale.\n\n- My conference sessions at McAfee events were the highest attended outside the keynotes. Turns out people appreciate security talks that explain things clearly without assuming you already know everything.",
+    "skillsIntro": "**What I Know**:\n\nI've spent 20+ years working with enterprise security tools like EDR, XDR, SIEM, and network security. I'm comfortable with cloud platforms (AWS, Azure, GCP) and infrastructure tools (Kubernetes, Docker, Terraform, Ansible). I've also spent over 1,000 hours working with AI automation—not because it's trendy, but because it genuinely helps with repetitive security tasks.\n\nBut technical skills are only part of the story. I'm good at talking with executives about business outcomes and with technical teams about implementation details. I know how to run proof-of-concept projects that actually test what matters. And I've learned how to communicate clearly—whether that's in a conference presentation or a one-on-one conversation."
+  },
+  "avoidPatterns": [
+    "Technical jargon without explanation",
+    "Corporate formality: 'We leverage best-in-class solutions'",
+    "Pretension: 'Our revolutionary approach'"
+  ]
+}

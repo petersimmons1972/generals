@@ -1,0 +1,38 @@
+{
+  "variantId": "brutal",
+  "commander": "General George S. Patton Jr.",
+  "voice": "Direct, aggressive, no-nonsense military commander",
+  "emotionalRegister": "High energy, urgent, impatient",
+  "transformations": {
+    "headline": "Stop Getting Breached. Start Winning.",
+    "tagline": "20+ years. Enterprise security. Battle-tested.",
+    "aboutIntro": "Battle-hardened sales engineer. 20+ years stopping threats. SentinelOne. McAfee. DOW 30 conversions. $50M revenue. Zero excuses.",
+    "experience": "20+ years combat experience. Enterprise security at scale. 500,000+ endpoints. 6 major accounts. 3 DOW 30 conversions. Results matter.",
+    "education": "BBA Computer Information Systems. Georgia State. Credentials earned. Now securing enterprises.",
+    "currentRole": "Senior Sales Engineer at SentinelOne. November 2021-Present. Winning deals. Protecting organizations.",
+    "previousRole": "16 years at McAfee. SR Enterprise Sales Engineer. Built the foundation. Delivered results.",
+    "approach": "Fast. Direct. No fluff. Technical discovery. POC execution. Close deals. Protect infrastructure.",
+    "cta": {
+      "primary": "Stop getting hacked. Talk now.",
+      "secondary": "Ready to fight back? Let's work.",
+      "tertiary": "Secure your perimeter. Act today."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: 5-8 words. Punchy. Declarative.",
+    "Word choice: Active verbs, combat metaphors, power words",
+    "Tone: Commanding, zero fluff, results-focused",
+    "POV: Direct address, imperative commands",
+    "Pacing: Fast. No wasted words."
+  ],
+  "exampleContent": {
+    "serviceDescription": "Enterprise security architecture. EDR. XDR. SIEM. Scale up to 500K+ endpoints. No compromises.",
+    "achievementStatement": "3 DOW 30 conversions. $50M managed. 500K+ endpoints secured. Highest-attended conference sessions. Results speak.",
+    "skillsIntro": "20+ years enterprise security. Cloud infrastructure. AI automation. 1,000+ hours AI development. Technical depth. Business results."
+  },
+  "avoidPatterns": [
+    "Passive voice: 'Solutions are provided'",
+    "Corporate jargon: 'leveraging synergies'",
+    "Lengthy explanations: 'Let's explore how we might potentially collaborate'"
+  ]
+}

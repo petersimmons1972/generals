@@ -1,0 +1,38 @@
+{
+  "variantId": "editorial",
+  "commander": "Field Marshal William J. Slim",
+  "voice": "Narrative, storytelling, magazine-like",
+  "emotionalRegister": "Engaging, informative, editorial authority",
+  "transformations": {
+    "headline": "Two Decades of Enterprise Security: From McAfee to SentinelOne",
+    "tagline": "A career built on technical depth, trusted relationships, and measurable results",
+    "aboutIntro": "Over two decades in enterprise security have taught me one fundamental truth: technology alone doesn't protect organizations—people, process, and partnership do. As a Senior Sales Engineer at SentinelOne since November 2021, and with 16 years at McAfee before that, I've worked with some of the world's largest organizations to build security programs that actually work. Three DOW 30 conversions, $50M in managed revenue, and deployments reaching 500,000+ endpoints tell part of the story. But the real narrative is in the relationships built, the challenges solved, and the trust earned along the way.",
+    "experience": "Twenty years in enterprise security creates patterns you learn to recognize. The careful evaluation process at DOW 30 companies. The complexity of scaling security to 500,000+ endpoints. The balancing act of managing $50M in regional revenue while maintaining technical excellence. Each experience—from conference stages where my sessions drew the highest attendance outside keynotes, to technical white papers that became customer reference materials—has shaped how I approach security consultation today.",
+    "education": "A Bachelor of Business Administration in Computer Information Systems from Georgia State University provided the foundation. But the real education came from 16 years at McAfee and ongoing work at SentinelOne—learning from customers, evolving with threats, and understanding that security is as much about business context as technical capability.",
+    "currentRole": "Since November 2021, I've served as Senior Sales Engineer at SentinelOne, bringing two decades of enterprise security experience to organizations evaluating next-generation endpoint protection. It's consultative work—understanding unique business challenges, designing proof-of-concept environments that test real scenarios, and building relationships that extend beyond the initial sale.",
+    "previousRole": "Sixteen years at McAfee (April 2005 through November 2021) shaped my approach to enterprise security. Starting as an Enterprise Sales Engineer, I built relationships with Fortune 500 companies, converted competitive accounts, and learned that technical expertise means nothing without the ability to listen, translate, and deliver on promises. Those years taught me how to speak multiple languages—technical teams want depth, executives want business outcomes, and both want honesty.",
+    "approach": "Discovery first. Understand the organization, the challenges, the constraints. Then design solutions that fit reality, not theory. Execute proof-of-concept projects that test actual use cases. Build relationships based on transparency and follow-through. Measure outcomes, learn from what works and what doesn't, and evolve the approach over time.",
+    "cta": {
+      "primary": "Read our security insights.",
+      "secondary": "Explore the full story.",
+      "tertiary": "Continue the conversation."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Varied for rhythm. Narrative flow.",
+    "Word choice: Storytelling verbs, scene-setting, journalistic clarity",
+    "Tone: Authoritative narrator, engaging but professional",
+    "POV: Narrative 'I' or first-person perspective, story-driven",
+    "Pacing: Magazine article rhythm, natural breaks"
+  ],
+  "exampleContent": {
+    "serviceDescription": "Enterprise security architecture isn't just about deploying tools—it's about understanding how organizations actually work. Over 20 years, I've designed EDR, XDR, and SIEM architectures for environments ranging from 10,000 to 500,000+ endpoints. Each one required technical depth, certainly, but also the ability to navigate organizational complexity, manage stakeholder expectations, and deliver solutions that teams could actually operate. Cloud infrastructure (AWS, Azure, GCP), Kubernetes orchestration, infrastructure-as-code—these aren't buzzwords, they're the foundation of modern security architecture, and I've spent years learning how to implement them in real-world environments where perfection gives way to pragmatism.",
+    "achievementStatement": "Three DOW 30 conversions stand out—not because of their size, though that mattered, but because of what they represented. Highly scrutinized organizations with rigorous evaluation processes chose to trust a new security partner. $50M in annual regional revenue reflects years of relationship-building and technical consultation. That largest deployment—500,000+ endpoints—tested everything I knew about scale, performance, and operational reality. And those conference sessions that drew the highest attendance outside keynotes? They were validation that technical communication matters, that people want depth delivered clearly.",
+    "skillsIntro": "Twenty-plus years in enterprise security creates a particular kind of technical depth. EDR, XDR, SIEM, network security, endpoint protection—these are the daily tools. Cloud infrastructure across AWS, Azure, and GCP. Kubernetes, Docker, Terraform, Ansible for infrastructure automation. Over 1,000 hours developing AI automation solutions, because security operations needs every efficiency gain available. But technical skills alone don't create outcomes. Consultative sales, stakeholder management, clear communication, and the ability to translate between technical and business contexts—those skills matter just as much."
+  },
+  "avoidPatterns": [
+    "Bullet-point lists without context",
+    "Sales pitch tone",
+    "Fragmented sentences without narrative flow"
+  ]
+}

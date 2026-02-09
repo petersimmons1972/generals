@@ -1,0 +1,149 @@
+{
+  "services": [
+    {
+      "id": "sales-engineering",
+      "title": "Enterprise Sales Engineering",
+      "category": "Technical Consulting",
+      "description": "Technical pre-sales consultation for enterprise security solutions. POC design and execution, technical discovery, solution architecture, and stakeholder engagement.",
+      "capabilities": [
+        "Technical discovery and requirements analysis",
+        "POC/pilot design and execution",
+        "Solution architecture for enterprise environments",
+        "Executive and technical stakeholder presentations",
+        "Competitive differentiation and technical comparison",
+        "Post-sales technical consultation and expansion planning"
+      ],
+      "idealFor": [
+        "Enterprise organizations evaluating security solutions",
+        "Companies requiring technical validation before purchase",
+        "Organizations seeking consultative sales approach",
+        "Teams needing POC execution expertise"
+      ],
+      "outcomes": [
+        "Clear technical fit assessment",
+        "Risk-reduced purchasing decisions",
+        "Successful POC/pilot execution",
+        "Stakeholder alignment on technical approach"
+      ]
+    },
+    {
+      "id": "security-architecture",
+      "title": "Enterprise Security Architecture",
+      "category": "Security Consulting",
+      "description": "Security architecture design and implementation guidance for enterprise environments. Specialization in EDR, XDR, SIEM, and endpoint security at scale.",
+      "capabilities": [
+        "EDR/XDR architecture design for 100,000+ endpoint environments",
+        "SIEM integration and threat intelligence workflows",
+        "Multi-cloud security architecture (AWS, Azure, GCP)",
+        "Network security and endpoint protection strategy",
+        "Linux/Windows system security hardening",
+        "Security tooling evaluation and implementation planning"
+      ],
+      "idealFor": [
+        "Enterprises managing 100,000+ endpoints",
+        "Organizations scaling security infrastructure",
+        "Companies evaluating security tool consolidation",
+        "Teams requiring multi-cloud security strategy"
+      ],
+      "outcomes": [
+        "Scalable security architecture",
+        "Reduced security tool sprawl",
+        "Improved threat detection and response",
+        "Enterprise-grade security posture"
+      ]
+    },
+    {
+      "id": "ai-automation",
+      "title": "AI Engineering & Automation",
+      "category": "AI/Automation",
+      "description": "AI-powered workflow automation and process optimization. 1,000+ hours developing intelligent automation systems using Claude, ChatGPT, Ollama, and n8n.",
+      "capabilities": [
+        "AI workflow automation design and implementation",
+        "Process optimization using LLM orchestration",
+        "Custom AI agent development",
+        "Integration automation (n8n, API orchestration)",
+        "Intelligent document processing and analysis",
+        "Technical troubleshooting automation"
+      ],
+      "idealFor": [
+        "Organizations seeking to automate repetitive technical tasks",
+        "Teams wanting to leverage AI for process improvement",
+        "Companies evaluating AI integration opportunities",
+        "Technical teams needing workflow optimization"
+      ],
+      "outcomes": [
+        "Reduced manual workload through intelligent automation",
+        "Improved process efficiency and accuracy",
+        "Scalable AI-powered workflows",
+        "Measurable time and cost savings"
+      ]
+    },
+    {
+      "id": "infrastructure-automation",
+      "title": "Cloud Infrastructure & DevOps",
+      "category": "Infrastructure",
+      "description": "Cloud infrastructure automation using Kubernetes, Docker, Terraform, and Ansible. CI/CD pipeline design and implementation for multi-cloud environments.",
+      "capabilities": [
+        "Kubernetes cluster design and management",
+        "Infrastructure-as-Code using Terraform",
+        "Configuration management with Ansible",
+        "Docker containerization and orchestration",
+        "CI/CD pipeline architecture and implementation",
+        "Multi-cloud infrastructure management (AWS, Azure, GCP)"
+      ],
+      "idealFor": [
+        "Organizations modernizing infrastructure",
+        "Teams adopting containerization and orchestration",
+        "Companies requiring multi-cloud strategy",
+        "Technical teams needing automation expertise"
+      ],
+      "outcomes": [
+        "Automated, repeatable infrastructure deployment",
+        "Reduced manual configuration errors",
+        "Scalable, resilient infrastructure",
+        "Faster deployment cycles"
+      ]
+    },
+    {
+      "id": "technical-communication",
+      "title": "Technical Communication & Training",
+      "category": "Education",
+      "description": "Technical content creation, conference speaking, and stakeholder communication. Proven track record of highest-attended conference sessions and impactful technical documentation.",
+      "capabilities": [
+        "Conference presentations and keynotes",
+        "Technical white paper authoring",
+        "Executive and technical documentation",
+        "Stakeholder communication strategy",
+        "Technical training and enablement",
+        "Public speaking and presentation coaching"
+      ],
+      "idealFor": [
+        "Organizations needing technical thought leadership",
+        "Companies developing technical content strategy",
+        "Teams requiring stakeholder communication expertise",
+        "Technical leaders seeking presentation coaching"
+      ],
+      "outcomes": [
+        "Clear, impactful technical communication",
+        "Increased stakeholder engagement",
+        "Enhanced technical credibility",
+        "Effective knowledge transfer"
+      ]
+    }
+  ],
+  "approach": {
+    "philosophy": "Consultative, technical, outcome-focused",
+    "methodology": "Discovery → Design → Validation → Implementation → Optimization",
+    "principles": [
+      "Technical accuracy over marketing hype",
+      "Practical solutions over theoretical frameworks",
+      "Scalability and sustainability built-in",
+      "Clear communication with all stakeholders",
+      "Evidence-based recommendations"
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-08",
+    "basedOn": "20+ years enterprise security and sales engineering experience"
+  }
+}

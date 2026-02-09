@@ -1,0 +1,38 @@
+{
+  "variantId": "dark",
+  "commander": "Lieutenant General Leslie R. Groves",
+  "voice": "Serious, intense, security-focused",
+  "emotionalRegister": "Focused intensity, mission-critical",
+  "transformations": {
+    "headline": "Your Security. Our Mission.",
+    "tagline": "20+ years defending critical infrastructure. Zero tolerance for preventable breaches.",
+    "aboutIntro": "Enterprise security is not a checkbox exercise. It's a mission. Senior Sales Engineer at SentinelOne. November 2021-Present. Before that: 16 years at McAfee defending enterprise environments. 3 DOW 30 conversions. $50M annual revenue secured. 500,000+ endpoints protected. Every deployment is critical infrastructure. Every breach is preventable. Zero compromises.",
+    "experience": "20+ years defending enterprise infrastructure at scale. 3 DOW 30 conversions: organizations that understood security is mission-critical, not a vendor relationship. $50M annual regional revenue: accounts where failure is not an option. 500,000+ endpoint deployment: critical infrastructure that must remain operational and secure. Conference speaking: highest attendance because organizations recognize when someone takes security seriously. This is not a sales role. This is a security mission.",
+    "education": "Bachelor of Business Administration in Computer Information Systems. Georgia State University. Foundation established. Real education came from 20 years defending critical infrastructure against persistent threats.",
+    "currentRole": "Senior Sales Engineer. SentinelOne. November 2021-Present. Mission: Defend enterprise organizations through next-generation endpoint protection. No marketing hype. Technical consultation for organizations that understand security is non-negotiable.",
+    "previousRole": "SR Enterprise Sales Engineer. McAfee. April 2005 - November 2021. 16 years. Mission-focused security consultation. Built reputation defending critical infrastructure. Organizations that needed security, not sales pitches. Zero tolerance for inadequate protection.",
+    "approach": "Mission-first approach. Discover threats. Design defenses. Validate under realistic conditions. Deploy with precision. Monitor continuously. Security is not a project. It's an ongoing mission.",
+    "cta": {
+      "primary": "Protect what matters.",
+      "secondary": "Secure your organization.",
+      "tertiary": "Defend against threats."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Terse. Serious. Weight to every word.",
+    "Word choice: Security language, threat focus, mission terminology",
+    "Tone: Serious professional, high stakes, zero tolerance for failure",
+    "POV: Security-first perspective",
+    "Pacing: Deliberate, weighted, serious"
+  ],
+  "exampleContent": {
+    "serviceDescription": "**Enterprise Security Architecture - Mission Critical**\n\nEDR. XDR. SIEM. Not buzzwords. Defense systems for critical infrastructure. Deployed at 100,000+ endpoint scale. Tested under real threat conditions.\n\nMulti-cloud security architecture. AWS. Azure. GCP. Every cloud environment is attack surface. Defense requires comprehensive coverage. No gaps. No assumptions.\n\nKubernetes security. Container protection. Infrastructure-as-Code security validation. Modern infrastructure requires modern defenses.\n\nAI-powered security automation. 1,000+ hours building intelligent defense systems. Not hype. Operational security augmentation. Threat detection. Response automation. Mission-critical capability.\n\nZero tolerance for inadequate protection.",
+    "achievementStatement": "**Mission Record**:\n\n**3 DOW 30 Secured**: Converted critical infrastructure to comprehensive endpoint protection. Organizations where security failure is not acceptable. Mission accomplished.\n\n**$50M Infrastructure Defended**: Annual regional revenue representing critical enterprise systems. Every dollar represents infrastructure that must remain secure and operational.\n\n**500,000+ Endpoints Protected**: Largest deployment. Critical infrastructure at scale. Architecture designed for security, not convenience. Mission: defend. Result: defended.\n\n**Security Communication**: Highest-attended conference sessions. Organizations recognize serious security expertise. Not marketing. Not sales. Security mission communication.",
+    "skillsIntro": "**Defense Capabilities - 20+ Years**:\n\n**Core Security**: EDR, XDR, SIEM, Network Security, Endpoint Protection. Linux/Windows system hardening. 20+ years defending enterprise infrastructure.\n\n**Infrastructure Defense**: AWS, Azure, GCP security architecture. Kubernetes cluster hardening. Docker security. Terraform secure configuration. Ansible security automation. Critical infrastructure protection.\n\n**AI Security Operations**: 1,000+ hours developing intelligent security automation. Threat detection augmentation. Response automation. Security operations at scale.\n\n**Mission**: Defend critical infrastructure. Prevent breaches. Maintain operational security. No compromises."
+  },
+  "avoidPatterns": [
+    "Lighthearted tone: 'Security can be fun!'",
+    "Casual language: 'Let's chat about security'",
+    "Humor or playfulness"
+  ]
+}

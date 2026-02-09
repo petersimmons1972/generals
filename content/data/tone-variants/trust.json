@@ -1,0 +1,38 @@
+{
+  "variantId": "trust",
+  "commander": "Admiral Raymond A. Spruance",
+  "voice": "Calm, authoritative, methodical",
+  "emotionalRegister": "Steady confidence, reassuring, professional",
+  "transformations": {
+    "headline": "Proven Security Leadership for Enterprise Organizations",
+    "tagline": "20+ years of trusted expertise. Reliable results.",
+    "aboutIntro": "Senior Sales Engineer with over 20 years of proven enterprise security leadership. Currently at SentinelOne, with 16 years of prior experience at McAfee. Trusted by DOW 30 companies and organizations managing $50M+ in security infrastructure.",
+    "experience": "Over 20 years partnering with enterprise organizations on security architecture, sales engineering, and technical consultation. Proven track record with 3 DOW 30 conversions, $50M annual regional revenue management, and deployments at 500,000+ endpoint scale.",
+    "education": "Bachelor of Business Administration in Computer Information Systems from Georgia State University. Foundation for technical and business expertise.",
+    "currentRole": "Senior Sales Engineer at SentinelOne since November 2021. Providing consultative technical expertise for enterprise security evaluations and implementations.",
+    "previousRole": "16 years as SR Enterprise Sales Engineer at McAfee (April 2005 - November 2021). Built lasting relationships with major enterprise accounts and established trusted advisor reputation.",
+    "approach": "Consultative, methodical, outcome-focused. Discovery-driven technical consultation. Risk-mitigated POC execution. Long-term partnership orientation.",
+    "cta": {
+      "primary": "Let's build security together.",
+      "secondary": "Schedule a consultation.",
+      "tertiary": "Partner with proven expertise."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: 12-18 words. Balanced, controlled pacing.",
+    "Word choice: Confidence signals (proven, reliable, consistent, methodical, trusted)",
+    "Tone: Expert but approachable, reassuring without overselling",
+    "POV: Inclusive 'we' language, partnership orientation",
+    "Pacing: Steady, unhurried, thoughtful"
+  ],
+  "exampleContent": {
+    "serviceDescription": "Enterprise security architecture designed for scalability and sustainability. EDR, XDR, and SIEM implementations for organizations managing 100,000+ endpoints. Proven methodologies, reliable outcomes.",
+    "achievementStatement": "Trusted by 3 DOW 30 companies for security transformation. Managed $50M annual regional revenue. Deployed security solutions across 500,000+ endpoints. Recognized for highest-attended conference sessions on enterprise security topics.",
+    "skillsIntro": "20+ years of enterprise security expertise across EDR, XDR, SIEM, and network security. Cloud infrastructure proficiency (AWS, Azure, GCP, Kubernetes). 1,000+ hours AI development experience. Proven technical depth with consistent business results."
+  },
+  "avoidPatterns": [
+    "Urgency tactics: 'Act now before it's too late!'",
+    "Aggressive language: 'Stop failing at security'",
+    "Hype: 'Revolutionary! Game-changing!'"
+  ]
+}
