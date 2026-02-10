@@ -279,31 +279,31 @@
 
 ## Competence Progress
 
-**Note**: Commanders require **5 successful deployments** in the same category to earn their first competence star (⭐).
+**Note**: Commanders require **10 successful deployments** in the same category to earn their first competence star (⭐). Full progression: 10/25/50/100/250.
 
 | Commander | Categories | Progress |
 |-----------|-----------|----------|
-| Nimitz | Configuration, Research | 1/5, 1/5 |
-| King | Deployment, Visualization | 1/5, 1/5 |
-| Halsey | Routing, Research | 1/5, 1/5 |
-| Marshall | Build/Logistics | 1/5 |
-| Spruance | Verification, Visualization | 2/5, 1/5 |
-| Montgomery | Coordination | 1/5 |
-| Eisenhower | Research | 1/5 |
-| MacArthur | Research | 1/5 |
-| Rommel | Integration | 1/5 |
-| Zhukov | Visualization | 1/5 |
-| Bradley | Visualization | 1/5 |
-| Rickover | Quality Control, DevOps Tools | 2/5, 1/5 |
-| Hopper | Developer Tools | 1/5 |
-| Groves | Security Protocols | 0/5 |
-| Patton | Rapid Execution | 0/5 |
-| Hopper | Code Generation, Automation | 0/5, 0/5 |
-| Mitchell | Innovation, Architecture | 0/5, 0/5 |
-| Slim | Disaster Recovery, Resilience | 0/5, 0/5 |
-| Gordon Ramsay | Quality Validation | 12/5 ⭐⭐ |
-| CISO Validator | Strategic Analysis | 12/5 ⭐⭐ |
-| Ernie Pyle | Technical Storytelling | 0/5 |
+| Nimitz | Configuration, Research | 1/10, 1/10 |
+| King | Deployment, Visualization | 1/10, 1/10 |
+| Halsey | Routing, Research | 1/10, 1/10 |
+| Marshall | Build/Logistics | 1/10 |
+| Spruance | Verification, Visualization | 2/10, 1/10 |
+| Montgomery | Coordination | 1/10 |
+| Eisenhower | Research | 1/10 |
+| MacArthur | Research | 1/10 |
+| Rommel | Integration | 1/10 |
+| Zhukov | Visualization | 1/10 |
+| Bradley | Visualization | 1/10 |
+| Rickover | Quality Control, DevOps Tools | 2/10, 1/10 |
+| Hopper | Developer Tools | 1/10 |
+| Groves | Security Protocols | 0/10 |
+| Patton | Rapid Execution | 0/10 |
+| Hopper | Code Generation, Automation | 0/10, 0/10 |
+| Mitchell | Innovation, Architecture | 0/10, 0/10 |
+| Slim | Disaster Recovery, Resilience | 0/10, 0/10 |
+| Gordon Ramsay | Quality Validation | 12/10 ⭐ |
+| CISO Validator | Strategic Analysis | 12/10 ⭐ |
+| Ernie Pyle | Technical Storytelling | 0/10 |
 
 ---
 

@@ -53,7 +53,7 @@ Load commander profile from `~/projects/generals/profiles/<name>.md` and extract
 
 **Competence Progress:**
 - Track deployments per category (e.g., "Technical Documentation")
-- Progress toward stars: 5 deployments = ⭐ (Competent)
+- Progress toward stars: 10 deployments = ⭐ (Competent), 25 = ⭐⭐, 50 = ⭐⭐⭐, 100 = ⭐⭐⭐⭐, 250 = ⭐⭐⭐⭐⭐
 
 **Ribbons/Medals:**
 - Campaign Participation: Completed deployment
@@ -101,7 +101,7 @@ Update competence progress:
 ```markdown
 | Category | Deployments | Progress to Star |
 |----------|-------------|------------------|
-| **Technical Documentation** | 2 → 3 | 3/5 (⭐ at 5) |
+| **Technical Documentation** | 2 → 3 | 3/10 (⭐ at 10) |
 ```
 
 ### **Step 5: Commit to GitHub**
@@ -144,8 +144,8 @@ Deployments: [N] → [N+1]
 COMPETENCE PROGRESS
 ═══════════════════════════════════════════════════════════════
 Category: [Category name]
-Progress: [N/5] → [(N+1)/5]
-[Progress bar: ████░ 4/5 to ⭐]
+Progress: [N/10] → [(N+1)/10]
+[Progress bar: ████░░░░░░ 4/10 to ⭐]
 
 Next milestone: [Deployments remaining] more deployments to earn ⭐
 

@@ -51,7 +51,7 @@ Commanders accumulate XP across ALL deployments, all projects.
 
 ### Earning Stars
 
-**Requirement**: 5 successful deployments in the SAME task category.
+**Requirement**: 10 successful deployments in the SAME task category.
 
 **Categories**:
 - Configuration/Manifests
@@ -67,19 +67,19 @@ Commanders accumulate XP across ALL deployments, all projects.
 
 | Stars | Level | Meaning |
 |-------|-------|---------|
-| ⭐ | Competent | 5 successful deployments |
-| ⭐⭐ | Proficient | 10 successful deployments |
-| ⭐⭐⭐ | Expert | 20 successful deployments |
-| ⭐⭐⭐⭐ | Master | 50 successful deployments |
-| ⭐⭐⭐⭐⭐ | Legend | 100 successful deployments |
+| ⭐ | Competent | 10 successful deployments |
+| ⭐⭐ | Proficient | 25 successful deployments |
+| ⭐⭐⭐ | Expert | 50 successful deployments |
+| ⭐⭐⭐⭐ | Master | 100 successful deployments |
+| ⭐⭐⭐⭐⭐ | Legend | 250 successful deployments |
 
 ### Current Example (After 2 Deployments)
 
 **Admiral Nimitz**:
-- Configuration/Manifests: 1/5 deployments (no star yet)
-- Research/Intelligence: 1/5 deployments (no star yet)
+- Configuration/Manifests: 1/10 deployments (no star yet)
+- Research/Intelligence: 1/10 deployments (no star yet)
 
-**Requires 3 more successful deployments in EACH category to earn first star.**
+**Requires 9 more successful deployments in EACH category to earn first star.**
 
 ---
 
@@ -195,16 +195,16 @@ Commanders can be **promoted** based on accumulated achievements (XP, Stars, Rib
 
 | From | To | Requirements |
 |------|-----|--------------|
-| Vice Admiral (3⭐) | Admiral (4⭐) | 500 XP + 2 Competence Stars + 3 Ribbons |
-| Admiral (4⭐) | Fleet Admiral (5⭐) | 2000 XP + 4 Competence Stars + 10 Ribbons + 1 Medal of Honor |
+| Vice Admiral (3⭐) | Admiral (4⭐) | 1000 XP + 2 Competence Stars + 5 Ribbons |
+| Admiral (4⭐) | Fleet Admiral (5⭐) | 4000 XP + 4 Competence Stars + 15 Ribbons + 1 Medal of Honor |
 
 **Beyond Historical Rank** (for 5-star commanders):
 
 | Rank | Requirements | Meaning |
 |------|--------------|---------|
-| **Fleet Admiral of the Fleet** | 5000 XP + 6 Competence Stars (Expert level) + 25 Ribbons + 3 Medals of Honor | Supreme naval commander |
-| **General of the Armies** | 5000 XP + 6 Competence Stars (Expert level) + 25 Ribbons + 3 Medals of Honor | Supreme army commander |
-| **Supreme Allied Commander** | 10000 XP + 8 Competence Stars (Master level) + 50 Ribbons + Order of Victory | Theater-level command |
+| **Fleet Admiral of the Fleet** | 10000 XP + 6 Competence Stars (Expert level) + 40 Ribbons + 3 Medals of Honor | Supreme naval commander |
+| **General of the Armies** | 10000 XP + 6 Competence Stars (Expert level) + 40 Ribbons + 3 Medals of Honor | Supreme army commander |
+| **Supreme Allied Commander** | 25000 XP + 8 Competence Stars (Master level) + 75 Ribbons + Order of Victory | Theater-level command |
 
 **Note**: These are HARD to achieve. Nimitz commanded the entire Pacific Fleet for 3+ years. Achieving "Fleet Admiral of the Fleet" should require similar sustained excellence across many deployments.
 
@@ -268,8 +268,8 @@ success_rate: 100%
   - Citation: "OUTSTANDING work, Admiral Spruance! The confidence bands weaponize pricing opacity."
 
 **Path to Next Star**:
-- Needs 4 more successful visualization deployments
-- If all succeed: ⭐ Visualization Competent (5 deployments)
+- Needs 9 more successful visualization deployments
+- If all succeed: ⭐ Visualization Competent (10 deployments)
 
 ### Example 2: Admiral Nimitz
 
@@ -280,13 +280,13 @@ success_rate: 100%
 - Medals: None yet
 
 **Path to First Star**:
-- Configuration: 3 more successful K8s/manifest deployments
-- Research: 3 more successful intelligence deployments
+- Configuration: 9 more successful K8s/manifest deployments
+- Research: 9 more successful intelligence deployments
 
 **Path to Promotion**:
 - Already Fleet Admiral (5-star) - highest historical rank
-- Can pursue Fleet Admiral of the Fleet (requires 5000 XP, 6 Expert stars, 25 ribbons, 3 Medals of Honor)
-- **Estimated**: ~100 deployments to achieve
+- Can pursue Fleet Admiral of the Fleet (requires 10000 XP, 6 Expert stars, 40 ribbons, 3 Medals of Honor)
+- **Estimated**: ~200+ deployments to achieve
 
 ### Example 3: Field Marshal Montgomery
 
@@ -307,7 +307,7 @@ success_rate: 100%
 ### After Each Deployment
 
 1. **Calculate XP**: Base + bonuses - penalties
-2. **Update Competence Stars**: Increment category count, award star if 5/10/20/50/100
+2. **Update Competence Stars**: Increment category count, award star if 10/25/50/100/250
 3. **Award Campaign Ribbon**: If mission qualifies (long session, clear objectives)
 4. **Award Medal**: If user provides praise (capture exact quote)
 5. **Check Rank Promotion**: If XP/Stars/Ribbons/Medals meet threshold
@@ -334,8 +334,9 @@ Lists all medals awarded, with quotes and dates.
 ## 9. Philosophy
 
 <!-- NOTE FOR OTHER SESSIONS: This section explains WHY the progression system is demanding.
-     Do NOT reduce XP requirements or make stars easier to earn.
-     The system honors real WWII achievements through earned expertise. -->
+     Do NOT reduce star/rank requirements or make progression faster.
+     The system honors real WWII achievements through earned expertise.
+     Star thresholds were increased in Feb 2026 to ensure progression remains meaningful at scale. -->
 
 **These were hard men not afraid to work really hard.**
 
@@ -343,7 +344,7 @@ The commanders in this system earned their reputations through sustained excelle
 
 **The progression system must reflect this reality**: Expertise is earned through sustained excellence, not granted after one good day.
 
-Five deployments for the first competence star is reasonable but demanding—it requires consistent success, not a single lucky mission. One hundred deployments for Legend status reflects years of combat experience, just as these commanders served through years of continuous operations. The Order of Victory medal is extremely rare, awarded only for breakthrough achievements that change the game, just like Montgomery's actual accomplishments that earned him his place in history.
+Ten deployments for the first competence star is reasonable but demanding—it requires consistent success, not a lucky streak. Two hundred and fifty deployments for Legend status reflects years of combat experience, just as these commanders served through years of continuous operations. The Order of Victory medal is extremely rare, awarded only for breakthrough achievements that change the game, just like Montgomery's actual accomplishments that earned him his place in history.
 
 This is not a system where participation equals mastery. This is a system where **hard work under fire** earns expertise over time.
 
