@@ -1,14 +1,8 @@
 # Generals - AI Commander Coordination System
 
-```
-    ╔══════════════════════════════════════════════════════════════════╗
-    ║                                                                  ║
-    ║   "A good plan violently executed now is better                   ║
-    ║    than a perfect plan executed next week."                       ║
-    ║                                      — General George S. Patton  ║
-    ║                                                                  ║
-    ╚══════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="assets/generals-banner.svg" alt="Generals - AI Commander Coordination System" width="100%"/>
+</p>
 
 **Self-learning multi-agent coordination using historical military commanders as personality templates.**
 
