@@ -226,6 +226,28 @@ Generals is a **completely local system**:
 - Claude Code (core tools: Task, Read, Edit, Write, Bash, TeamCreate)
 - Git (for committing service records)
 - This repository cloned locally
+- **Experimental Agent Teams flag enabled** (see below)
+
+### **Required: Agent Teams Flag**
+
+Generals uses Claude Code's **Agent Teams** feature (introduced with Opus 4.6, February 2026) to spawn and coordinate multiple commander instances in parallel. This feature is currently a **research preview** and requires an experimental flag.
+
+**You must enable this before using Generals.** Claude Code cannot enable it automatically — it requires manual configuration.
+
+**Option A: Environment variable (per-session)**
+```bash
+export CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
+claude
+```
+
+**Option B: Shell profile (persistent)**
+```bash
+# Add to your ~/.bashrc, ~/.zshrc, or equivalent:
+export CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
+```
+Then restart your terminal or run `source ~/.bashrc`.
+
+**Without this flag**, TeamCreate, SendMessage, and multi-agent coordination will not be available, and Generals will fail to spawn commander teams.
 
 ### **Recommended:**
 - Superpowers skills (optional, enhances coordination)
