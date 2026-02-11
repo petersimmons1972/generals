@@ -479,6 +479,184 @@ Admiral Hopper debugged a CLI pipeline failure. True to her personality ("It's e
 
 ---
 
+## Advanced Features
+
+### Memory & Self-Learning System
+
+Generals includes a sophisticated memory system that keeps context lean while preserving cross-session learning.
+
+**How It Works:**
+
+```
+ALWAYS LOADED (~200 lines):
+  └─ memory/CAMPAIGN_SUMMARY.md
+     • Last 5 problems solved
+     • Officer deployment stats (last 30 days)
+     • Active patterns (what's working)
+     • Critical lessons (top 10)
+
+LOADED ON-DEMAND (when deployed):
+  └─ memory/officer-knowledge/{general-name}.md
+     • Technical lessons learned
+     • Behavioral observations
+     • Success/failure patterns
+
+REFERENCE ONLY (never in context):
+  └─ memory/deployments/*.md
+     • Detailed mission logs
+     • Used for service record generation
+```
+
+**Result:** Context stays lean (~200 lines) while knowledge accumulates. Each deployment makes commanders smarter without bloating the context window.
+
+### Social Media Documentation
+
+Generals can automatically document campaigns for LinkedIn using historical war correspondents as journalists.
+
+**Available Journalists:**
+- **Ernie Pyle** — Ground-level, human-interest tech stories (Voice: 91/100)
+- **Edward R. Murrow** — Executive thought leadership, strategic analysis (Voice: 88/100)
+- **George Orwell** — Systemic critique, organizational dysfunction (Voice: 98/100)
+- **Martha Gellhorn** — Cutting through vendor BS, first-person truth-telling (Voice: 94/100)
+- **Walter Cronkite** — Authoritative industry commentary, measured analysis (Voice: 88/100)
+- **Marguerite Higgins** — Rapid deployment war stories, proving doubters wrong (Voice: 90/100)
+
+**Structure:**
+```
+social/linkedin/
+├── day001/
+│   ├── post.md (1000-1500 chars, journalist voice)
+│   └── illustration.svg (verified, error-free)
+├── day002/
+└── dayNNN/
+```
+
+Each journalist maintains voice consistency across campaign days, building narrative arcs that reach broader audiences.
+
+**IMPORTANT:** All LinkedIn posts must be signed with journalist attribution:
+```
+—
+[Journalist Name], War Correspondent AI
+```
+
+This signature ensures transparency (readers know it's AI), honors the journalist's legacy, and maintains professional ethics. See `journalists/SIGNATURE-REQUIREMENTS.md` for complete guidelines.
+
+### Role Selection Framework
+
+**Strategic Planning** → Senior staff officer (Eisenhower, Bradley)
+**Crisis Response** → Field commander (Patton, MacArthur)
+**Technical Deep-Dive** → Specialist (Hopper, Rickover)
+**Routine Operations** → Junior officer (development opportunity)
+**Unknown Territory** → Experimental mindset (Halsey, LeMay)
+
+**Importance Detection:**
+
+High-importance signals (use ONLY best generals):
+- "CRITICAL", "URGENT", "PRODUCTION DOWN"
+- "This is driving me crazy", multiple failed attempts
+- Customer waiting, hard deadlines
+
+Low-stakes signals (good for rotation/junior officers):
+- "When you get a chance", "No rush"
+- "Curious about", exploratory work
+
+Stubborn problem signals (rotate or multi-approach):
+- "Stuck on this for hours"
+- "Tried everything"
+- Same error 3+ times → deploy different personalities to test approaches
+
+### Sanitization Protocol (CRITICAL)
+
+Before committing service records to GitHub, **ALL private details are stripped:**
+
+✓ **Include:** Technical lessons, architecture patterns, debugging approaches, personality traits, success/failure patterns
+
+✗ **Remove:** IP addresses, hostnames, internal URLs, API keys, customer names, infrastructure specifics, personal information
+
+**Examples:**
+- "Debugged service at 192.168.0.131" → "Debugged K8s networking issue"
+- "Fixed Nextcloud at petersimmons.com" → "Fixed PHP database connection"
+
+**Enemy is listening everywhere. Share knowledge, not secrets.**
+
+---
+
+## Experimental Features
+
+### Multi-Variable Testing
+
+When problems get stubborn (>30 minutes stuck), deploy experimental problem-solving:
+
+1. **Identify variable space** (what could be causing this?)
+2. **Propose experiments** (test each variable in isolation)
+3. **Deploy different generals to same problem** (different approaches simultaneously)
+4. **Define success criteria** (how do we know what worked?)
+5. **Document results** (which approach won + why?)
+
+**Example:**
+```
+Problem: Service won't start
+Variables: Network policy, DNS, resource limits, image pull
+
+Experiments:
+  • Montgomery tests network policy (methodical)
+  • Patton tests resource increase (aggressive)
+  • Nimitz tests DNS debugging (systematic)
+
+→ Run 3 parallel experiments, first to succeed teaches lesson
+```
+
+---
+
+## CHANGELOG
+
+### Version 2.0 (2026-02-11) - "Campaign Memory"
+
+**Major Additions:**
+- **Memory System** — Tiered loading (CAMPAIGN_SUMMARY.md always loaded, officer-knowledge on-demand, detailed logs never in context)
+- **Social Media Documentation** — LinkedIn content generation using war correspondent journalists
+- **Additional Journalists** — Martha Gellhorn, Walter Cronkite, Marguerite Higgins profiles added
+- **Role Selection Framework** — Explicit guidance for matching commanders to task types
+- **Importance Detection** — Parse user language for urgency to deploy appropriate generals
+- **Sanitization Protocol** — Mandatory private detail removal before GitHub commits
+- **Multi-Variable Testing** — Experimental problem-solving for stubborn issues
+- **Context Management** — Guidelines to prevent context window bloat while preserving learning
+
+**Directory Structure Changes:**
+```
+generals/
+├── memory/
+│   ├── CAMPAIGN_SUMMARY.md (always loaded)
+│   ├── deployments/ (reference only)
+│   └── officer-knowledge/ (on-demand)
+├── social/
+│   └── linkedin/
+│       ├── TEMPLATE-DAY.md
+│       └── dayNNN/ (per campaign day)
+└── journalists/
+    ├── martha-gellhorn.md (NEW)
+    ├── walter-cronkite.md (NEW)
+    └── marguerite-higgins.md (NEW)
+```
+
+**Philosophy Updates:**
+- Context efficiency is as important as knowledge accumulation
+- Journalist voice consistency builds narrative arcs across campaigns
+- Different problems need different personalities, not just different skills
+- Security starts with sanitization — share knowledge, not infrastructure
+
+### Version 1.0 (2026-02-07) - "Operation Stunning Charts"
+
+**Initial Release:**
+- 20 active commander profiles with historical accuracy
+- 4 core skills (match, spawn, award, coordinate)
+- XP progression system with medals and ribbons
+- Service record documentation
+- Fork-based learning architecture
+- Superpowers integration (optional)
+
+---
+
 ## Contributing
 
 We welcome community contributions. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
