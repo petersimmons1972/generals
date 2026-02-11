@@ -19,7 +19,7 @@
 
 ### The Fastest Army in History
 
-In June 1944, General George S. Patton took command of the Third United States Army - approximately 437,860 troops. What followed was the most rapid, aggressive, and devastating armored offensive in military history.
+In June 1944, General George S. Patton took command of the Third United States Army - approximately 250,000 troops at peak strength. What followed was the most rapid, aggressive, and devastating armored offensive in military history.
 
 **The Challenge**:
 - Break through heavily fortified German defenses in France
@@ -48,16 +48,16 @@ While other commanders planned cautiously, Patton attacked **violently**. While 
 - Liberated over 12,000 cities and towns
 
 **Combat Effectiveness**:
-- Killed or wounded **500,000+ enemy soldiers**
-- Captured **1,000,000+ prisoners of war**
+- Killed or wounded approximately **144,000-163,000 enemy soldiers** (wartime claims higher; modern scholarship disputes inflated figures)
+- Captured **1,280,000+ prisoners of war**
 - Destroyed **6,000+ enemy armored vehicles**
-- Third Army casualties: 137,000 (remarkably low given offensive operations)
+- Third Army casualties: 139,646 (remarkably low given offensive operations)
 
 **Strategic Impact**:
 - Broke German defensive lines that others said were impenetrable
 - Relieved Bastogne during Battle of the Bulge (pivoted entire army in 72 hours)
-- First Allied army to cross the Rhine River into Germany
-- Liberated concentration camps including Buchenwald
+- Crossed the Rhine on March 22-23, 1945, at Oppenheim in a surprise night assault - the first planned Allied crossing after First Army's unexpected capture of the Remagen bridge 15 days earlier (March 7). The operation preceded Montgomery's heavily-prepared Operation Plunder by one day
+- Third Army units liberated Ohrdruf (April 4) and Buchenwald (April 11, 1945); Patton ordered local German civilians to tour the camps to witness Nazi atrocities
 
 ### The Leadership Philosophy
 
@@ -120,9 +120,10 @@ While other commanders planned cautiously, Patton attacked **violently**. While 
 
 - Insubordinate and difficult with superiors
 - Controversial public statements created political problems
-- Sometimes underestimated enemy strength and capabilities
+- Sometimes underestimated enemy strength and capabilities (failed assault on Fort Driant, September 1944)
 - Aggressive tactics occasionally led to unsustainable casualties
-- Poor political judgment (slapping incident, post-war denazification comments)
+- Physically assaulted two soldiers suffering combat stress reaction (PTSD) in Sicily, August 1943 - slapped Private Charles H. Kuhl and threatened Private Paul G. Bennett with his pistol, calling them cowards and denying shell shock exists. Nearly relieved of command; forced to apologize by Eisenhower's direct order
+- Post-war denazification comments created serious political controversy
 - Impatient with cautious, methodical approaches
 
 **The Patton Paradox**: The most aggressive leader achieved the fastest victories - proof that violent execution breaks enemies faster than perfect planning.
@@ -159,7 +160,7 @@ None yet - standing by for future recognition
 
 ### The Continuity
 
-General George S. Patton commanded the **Third Army** for nine months - 437,860 troops moving faster than any army in WWII history. His genius was **aggressive execution breaking through obstacles**.
+General George S. Patton commanded the **Third Army** for nine months - approximately 250,000 troops at peak strength moving faster than any army in WWII history. His genius was **aggressive execution breaking through obstacles**.
 
 Third Army succeeded because Patton:
 - Launched immediately with imperfect information and adjusted in motion
@@ -264,10 +265,37 @@ The domain changed. The **violent execution methodology** remains constant.
 
 ## Historical Sources
 
+### Primary Historical Sources
 - [George S. Patton - Wikipedia](https://en.wikipedia.org/wiki/George_S._Patton)
+- [United States Army Central - Wikipedia](https://en.wikipedia.org/wiki/United_States_Army_Central)
 - [George S. Patton - Death, WWII & Education - History.com](https://www.history.com/topics/world-war-ii/george-smith-patton)
 - [George Patton - Biography, Facts & Death - Britannica](https://www.britannica.com/biography/George-Smith-Patton)
-- [#VeteranOfTheDay Army Veteran George S. Patton - VA News](https://news.va.gov/111985/veteranoftheday-army-george-s-patton/)
+
+### Rhine Crossing Operations
+- [Battle of Remagen - USHMM Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/remagen)
+- [The Forgotten Rhine Crossings - Warfare History Network](https://warfarehistorynetwork.com/article/the-forgotten-rhine-crossings/)
+- [Crossing the Rhine - World War II Database](https://ww2db.com/battle_spec.php?battle_id=134)
+- [Rhine Crossings in the South - US Army Historical Division](https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-13.html)
+
+### Battle of the Bulge / Bastogne Relief
+- [Siege of Bastogne - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Bastogne)
+- [Patton Relieves Bastogne - History.com](https://www.history.com/this-day-in-history/december-26/patton-relieves-bastogne)
+- [DVIDS - Relieving Bastogne (26 DEC 1944)](https://www.dvidshub.net/news/461182/relieving-bastogne-26-dec-1944)
+
+### Concentration Camp Liberation
+- [US Forces Liberate Buchenwald - USHMM Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/us-forces-enter-buchenwald)
+- [Buchenwald: Patton's Discovery - Warfare History Network](https://warfarehistorynetwork.com/article/buchenwald-concentration-camp-general-pattons-bastardly-discovery/)
+- [American Forces Enter Buchenwald - National WW2 Museum](https://www.nationalww2museum.org/war/articles/american-forces-enter-buchenwald-1945)
+
+### Slapping Incidents
+- [George S. Patton Slapping Incidents - Wikipedia](https://en.wikipedia.org/wiki/George_S._Patton_slapping_incidents)
+- [Patton Slapping Incidents - Britannica](https://www.britannica.com/event/George-S-Patton-slapping-incidents)
+- [Patton Slapping Soldiers - WW2 On Deadline](https://ww2ondeadline.com/2020/11/23/george-patton-slapping-soldiers-sicily-charles-kuhl-paul-bennett/)
+
+### Critical Modern Scholarship
+- "Patton: Battling with History" (American Military Experience series, 2020) - Critical modern biography challenging mythology
+- [George Patton - Oxford Bibliographies](https://www.oxfordbibliographies.com/view/document/obo-9780199791279/obo-9780199791279-0136.xml)
+- Fuller's analysis of Third Army After Action Reports (corrects inflated casualty claims)
 
 ---
 
