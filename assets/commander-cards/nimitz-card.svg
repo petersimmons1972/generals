@@ -31,7 +31,7 @@
   <text x="125" y="238" font-family="system-ui" font-size="10" fill="#94A3B8" text-anchor="middle">XP: 225 | Deployments: 3</text>
 
   <!-- Traits -->
-  <g transform="translate(25, 253)">
+  <g transform="translate(25, 243)">
     <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">TRAITS:</text>
     <text x="0" y="17" font-family="system-ui" font-size="9.5" fill="#F8FAFC">🤝 Coalition building</text>
     <text x="0" y="31" font-family="system-ui" font-size="9.5" fill="#F8FAFC">📊 Data-driven decisions</text>
@@ -39,7 +39,7 @@
   </g>
 
   <!-- Best for -->
-  <g transform="translate(25, 315)">
+  <g transform="translate(25, 305)">
     <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">BEST FOR:</text>
     <text x="0" y="17" font-family="system-ui" font-size="9" fill="#10B981">• Cost optimization</text>
     <text x="0" y="31" font-family="system-ui" font-size="9" fill="#10B981">• Technical visualization</text>
