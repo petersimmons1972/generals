@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 350" role="img" aria-label="Gordon Ramsay Specialist Commander Card">
+  <defs>
+    <linearGradient id="ramsay-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E293B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0F172A;stop-opacity:1" />
+    </linearGradient>
+    <clipPath id="ramsay-clip">
+      <rect x="75" y="80" width="100" height="100" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="250" height="350" fill="url(#ramsay-bg)" stroke="#DC2626" stroke-width="3" rx="12"/>
+
+  <!-- Stars rating -->
+  <text x="125" y="25" font-family="system-ui" font-size="16" fill="#D4A574" text-anchor="middle">⭐⭐⭐⭐⭐</text>
+
+  <!-- Name -->
+  <text x="125" y="50" font-family="system-ui" font-size="15" fill="#F8FAFC" text-anchor="middle" font-weight="bold">GORDON RAMSAY</text>
+  <text x="125" y="68" font-family="system-ui" font-size="11" fill="#94A3B8" text-anchor="middle">Specialist (Non-Military)</text>
+
+  <!-- Portrait photo -->
+  <image href="ramsay-100x100.jpg" x="75" y="80" width="100" height="100" clip-path="url(#ramsay-clip)" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="75" y="80" width="100" height="100" fill="none" stroke="#D4A574" stroke-width="2" rx="8"/>
+
+  <!-- Personality type -->
+  <rect x="25" y="184" width="200" height="28" fill="#DC2626" rx="6"/>
+  <text x="125" y="203" font-family="system-ui" font-size="13" fill="#F8FAFC" text-anchor="middle" font-weight="bold">🔥 QUALITY ENFORCER</text>
+
+  <!-- Stats -->
+  <text x="125" y="224" font-family="system-ui" font-size="10" fill="#94A3B8" text-anchor="middle">XP: 150 | Deployments: 12</text>
+
+  <!-- Traits -->
+  <g transform="translate(25, 238)">
+    <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">TRAITS:</text>
+    <text x="0" y="17" font-family="system-ui" font-size="9.5" fill="#F8FAFC">💥 Zero tolerance</text>
+    <text x="0" y="31" font-family="system-ui" font-size="9.5" fill="#F8FAFC">🎨 Visual excellence</text>
+    <text x="0" y="45" font-family="system-ui" font-size="9.5" fill="#FFA500">⚠️  Abrasive feedback</text>
+  </g>
+
+  <!-- Best for -->
+  <g transform="translate(25, 294)">
+    <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">BEST FOR:</text>
+    <text x="0" y="17" font-family="system-ui" font-size="9" fill="#10B981">• Presentation quality</text>
+    <text x="0" y="31" font-family="system-ui" font-size="9" fill="#10B981">• Format validation</text>
+  </g>
+</svg>

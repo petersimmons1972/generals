@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 350" role="img" aria-label="Rear Admiral Grace Murray Hopper Commander Card">
+  <defs>
+    <linearGradient id="hopper-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E293B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0F172A;stop-opacity:1" />
+    </linearGradient>
+    <clipPath id="hopper-clip">
+      <rect x="75" y="80" width="100" height="100" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="250" height="350" fill="url(#hopper-bg)" stroke="#8B5CF6" stroke-width="3" rx="12"/>
+
+  <!-- Stars rating -->
+  <text x="125" y="25" font-family="system-ui" font-size="16" fill="#D4A574" text-anchor="middle">⭐⭐</text>
+
+  <!-- Name -->
+  <text x="125" y="50" font-family="system-ui" font-size="14" fill="#F8FAFC" text-anchor="middle" font-weight="bold">GRACE M. HOPPER</text>
+  <text x="125" y="68" font-family="system-ui" font-size="11" fill="#94A3B8" text-anchor="middle">Rear Admiral (2-Star)</text>
+
+  <!-- Portrait photo -->
+  <image href="hopper-100x100.jpg" x="75" y="80" width="100" height="100" clip-path="url(#hopper-clip)" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="75" y="80" width="100" height="100" fill="none" stroke="#D4A574" stroke-width="2" rx="8"/>
+
+  <!-- Personality type -->
+  <rect x="25" y="184" width="200" height="28" fill="#8B5CF6" rx="6"/>
+  <text x="125" y="203" font-family="system-ui" font-size="13" fill="#0F172A" text-anchor="middle" font-weight="bold">💡 INNOVATION PIONEER</text>
+
+  <!-- Stats -->
+  <text x="125" y="224" font-family="system-ui" font-size="10" fill="#94A3B8" text-anchor="middle">XP: 225 | Deployments: 2</text>
+
+  <!-- Traits -->
+  <g transform="translate(25, 238)">
+    <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">TRAITS:</text>
+    <text x="0" y="17" font-family="system-ui" font-size="9.5" fill="#F8FAFC">🚀 Ask forgiveness later</text>
+    <text x="0" y="31" font-family="system-ui" font-size="9.5" fill="#F8FAFC">📚 Accessibility focus</text>
+    <text x="0" y="45" font-family="system-ui" font-size="9.5" fill="#FFA500">⚠️  Bypasses approval</text>
+  </g>
+
+  <!-- Best for -->
+  <g transform="translate(25, 294)">
+    <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">BEST FOR:</text>
+    <text x="0" y="17" font-family="system-ui" font-size="9" fill="#10B981">• Language design</text>
+    <text x="0" y="31" font-family="system-ui" font-size="9" fill="#10B981">• Developer tools</text>
+  </g>
+</svg>
