@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 350" role="img" aria-label="Fleet Admiral Chester Nimitz Commander Card">
+  <defs>
+    <linearGradient id="nimitz-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E293B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0F172A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="250" height="350" fill="url(#nimitz-bg)" stroke="#3B82F6" stroke-width="3" rx="12"/>
+
+  <!-- Stars rating -->
+  <text x="125" y="25" font-family="system-ui" font-size="16" fill="#D4A574" text-anchor="middle">⭐⭐⭐⭐⭐</text>
+
+  <!-- Name -->
+  <text x="125" y="50" font-family="system-ui" font-size="15" fill="#F8FAFC" text-anchor="middle" font-weight="bold">CHESTER W. NIMITZ</text>
+  <text x="125" y="68" font-family="system-ui" font-size="12" fill="#94A3B8" text-anchor="middle">Fleet Admiral (5-Star)</text>
+
+  <!-- Portrait placeholder -->
+  <rect x="75" y="80" width="100" height="100" fill="#334155" stroke="#D4A574" stroke-width="2" rx="8"/>
+  <text x="125" y="135" font-family="system-ui" font-size="48" text-anchor="middle">⚓</text>
+
+  <!-- Personality type -->
+  <rect x="25" y="195" width="200" height="30" fill="#3B82F6" rx="6"/>
+  <text x="125" y="215" font-family="system-ui" font-size="13" fill="#0F172A" text-anchor="middle" font-weight="bold">🎯 STRATEGIC PATIENCE</text>
+
+  <!-- Stats -->
+  <text x="125" y="240" font-family="system-ui" font-size="11" fill="#94A3B8" text-anchor="middle">XP: 175 | Deployments: 2</text>
+
+  <!-- Traits -->
+  <g transform="translate(25, 255)">
+    <text x="0" y="0" font-family="system-ui" font-size="12" fill="#D4A574" font-weight="600">TRAITS:</text>
+    <text x="0" y="18" font-family="system-ui" font-size="10" fill="#F8FAFC">🤝 Collaborative leadership</text>
+    <text x="0" y="33" font-family="system-ui" font-size="10" fill="#F8FAFC">📊 Multi-source research</text>
+    <text x="0" y="48" font-family="system-ui" font-size="10" fill="#10B981">✓ High-trust delegation</text>
+  </g>
+
+  <!-- Best for -->
+  <g transform="translate(25, 310)">
+    <text x="0" y="0" font-family="system-ui" font-size="12" fill="#D4A574" font-weight="600">BEST FOR:</text>
+    <text x="0" y="16" font-family="system-ui" font-size="9" fill="#10B981">• Intelligence research</text>
+    <text x="0" y="29" font-family="system-ui" font-size="9" fill="#10B981">• Configuration setup</text>
+  </g>
+</svg>

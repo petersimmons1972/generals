@@ -1,0 +1,138 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Grid pattern for military map aesthetic -->
+    <pattern id="hero-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(212, 165, 116, 0.08)" stroke-width="1"/>
+    </pattern>
+
+    <!-- Gradient for depth -->
+    <linearGradient id="hero-bg-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E293B;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Gold glow for emphasis -->
+    <filter id="hero-glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#hero-bg-gradient)"/>
+  <rect width="1200" height="300" fill="url(#hero-grid)"/>
+
+  <!-- Top border accent -->
+  <rect width="1200" height="2" fill="#D4A574"/>
+
+  <!-- Stage 1: Commander Portrait -->
+  <g transform="translate(100, 75)">
+    <!-- Portrait frame -->
+    <rect x="0" y="0" width="120" height="120" fill="none" stroke="#D4A574" stroke-width="2" rx="4"/>
+
+    <!-- Stylized commander profile -->
+    <circle cx="60" cy="45" r="22" fill="#D4A574" opacity="0.3"/>
+    <path d="M 40 60 Q 60 50 80 60 L 80 80 Q 60 90 40 80 Z" fill="#D4A574" opacity="0.5"/>
+    <rect x="45" y="85" width="30" height="25" fill="#D4A574" opacity="0.4" rx="2"/>
+
+    <!-- Rank insignia -->
+    <g transform="translate(35, 95)">
+      <polygon points="0,0 5,8 -5,8" fill="#D4A574" opacity="0.7"/>
+      <polygon points="15,0 20,8 10,8" fill="#D4A574" opacity="0.7"/>
+      <polygon points="30,0 35,8 25,8" fill="#D4A574" opacity="0.7"/>
+      <polygon points="45,0 50,8 40,8" fill="#D4A574" opacity="0.7"/>
+    </g>
+
+    <!-- Label -->
+    <text x="60" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#F8FAFC" text-anchor="middle">COMMANDER</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <g transform="translate(260, 135)">
+    <line x1="0" y1="0" x2="60" y2="0" stroke="#D4A574" stroke-width="2" opacity="0.6"/>
+    <polygon points="60,0 50,4 50,-4" fill="#D4A574" opacity="0.6"/>
+  </g>
+
+  <!-- Stage 2: Team Formation -->
+  <g transform="translate(380, 75)">
+    <!-- Formation grid -->
+    <rect x="0" y="0" width="120" height="120" fill="none" stroke="#D4A574" stroke-width="2" rx="4"/>
+
+    <!-- Team nodes (5 agents in formation) -->
+    <circle cx="60" cy="30" r="12" fill="#D4A574" opacity="0.7"/>
+    <circle cx="30" cy="60" r="10" fill="#D4A574" opacity="0.6"/>
+    <circle cx="60" cy="60" r="10" fill="#D4A574" opacity="0.6"/>
+    <circle cx="90" cy="60" r="10" fill="#D4A574" opacity="0.6"/>
+    <circle cx="60" cy="90" r="10" fill="#D4A574" opacity="0.6"/>
+
+    <!-- Connection lines -->
+    <line x1="60" y1="30" x2="30" y2="60" stroke="#D4A574" stroke-width="1.5" opacity="0.3"/>
+    <line x1="60" y1="30" x2="60" y2="60" stroke="#D4A574" stroke-width="1.5" opacity="0.3"/>
+    <line x1="60" y1="30" x2="90" y2="60" stroke="#D4A574" stroke-width="1.5" opacity="0.3"/>
+    <line x1="60" y1="60" x2="60" y2="90" stroke="#D4A574" stroke-width="1.5" opacity="0.3"/>
+
+    <!-- Label -->
+    <text x="60" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#F8FAFC" text-anchor="middle">FORMATION</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <g transform="translate(540, 135)">
+    <line x1="0" y1="0" x2="60" y2="0" stroke="#D4A574" stroke-width="2" opacity="0.6"/>
+    <polygon points="60,0 50,4 50,-4" fill="#D4A574" opacity="0.6"/>
+  </g>
+
+  <!-- Stage 3: Victory -->
+  <g transform="translate(660, 75)">
+    <!-- Victory frame -->
+    <rect x="0" y="0" width="120" height="120" fill="none" stroke="#D4A574" stroke-width="2" rx="4"/>
+
+    <!-- Trophy/medal icon -->
+    <circle cx="60" cy="50" r="25" fill="none" stroke="#D4A574" stroke-width="3" opacity="0.6"/>
+    <polygon points="60,30 65,45 80,47 70,57 73,72 60,65 47,72 50,57 40,47 55,45" fill="#D4A574" opacity="0.7" filter="url(#hero-glow)"/>
+
+    <!-- Ribbon -->
+    <path d="M 50 75 L 50 100 L 55 95 L 60 100 L 65 95 L 70 100 L 70 75" fill="#D4A574" opacity="0.4"/>
+
+    <!-- Label -->
+    <text x="60" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#F8FAFC" text-anchor="middle">VICTORY</text>
+  </g>
+
+  <!-- Right side content -->
+  <g transform="translate(850, 90)">
+    <!-- Main title -->
+    <text x="0" y="0" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="700" fill="#F8FAFC" letter-spacing="-0.5">
+      GENERALS
+    </text>
+
+    <!-- Subtitle line 1 -->
+    <text x="0" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="400" fill="#D4A574" opacity="0.9">
+      Give your AI agents personality,
+    </text>
+
+    <!-- Subtitle line 2 -->
+    <text x="0" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="400" fill="#D4A574" opacity="0.9">
+      memory, and purpose
+    </text>
+
+    <!-- Feature bullets -->
+    <g transform="translate(0, 80)">
+      <circle cx="0" cy="-3" r="2" fill="#D4A574" opacity="0.6"/>
+      <text x="10" y="0" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#F8FAFC" opacity="0.7">
+        Persistent commander profiles with XP
+      </text>
+    </g>
+
+    <g transform="translate(0, 100)">
+      <circle cx="0" cy="-3" r="2" fill="#D4A574" opacity="0.6"/>
+      <text x="10" y="0" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#F8FAFC" opacity="0.7">
+        Campaign ribbons &amp; medals from missions
+      </text>
+    </g>
+  </g>
+
+  <!-- Bottom accent -->
+  <rect y="298" width="1200" height="2" fill="#D4A574" opacity="0.5"/>
+</svg>
