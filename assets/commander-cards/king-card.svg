@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 350" role="img" aria-label="Fleet Admiral Ernest King Commander Card">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 350" role="img" aria-label="Fleet Admiral Ernest King Commander Card">
   <defs>
     <linearGradient id="king-bg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#1E293B;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0F172A;stop-opacity:1" />
     </linearGradient>
+    <clipPath id="king-clip">
+      <rect x="75" y="80" width="100" height="100" rx="8"/>
+    </clipPath>
   </defs>
 
   <!-- Card background -->
@@ -14,31 +17,31 @@
 
   <!-- Name -->
   <text x="125" y="50" font-family="system-ui" font-size="15" fill="#F8FAFC" text-anchor="middle" font-weight="bold">ERNEST J. KING</text>
-  <text x="125" y="68" font-family="system-ui" font-size="12" fill="#94A3B8" text-anchor="middle">Fleet Admiral (5-Star)</text>
+  <text x="125" y="68" font-family="system-ui" font-size="11" fill="#94A3B8" text-anchor="middle">Fleet Admiral (5-Star)</text>
 
-  <!-- Portrait placeholder -->
-  <rect x="75" y="80" width="100" height="100" fill="#334155" stroke="#D4A574" stroke-width="2" rx="8"/>
-  <text x="125" y="135" font-family="system-ui" font-size="48" text-anchor="middle">🔥</text>
+  <!-- Portrait photo -->
+  <image href="king-100x100.jpg" x="75" y="80" width="100" height="100" clip-path="url(#king-clip)" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="75" y="80" width="100" height="100" fill="none" stroke="#D4A574" stroke-width="2" rx="8"/>
 
   <!-- Personality type -->
-  <rect x="25" y="195" width="200" height="30" fill="#F59E0B" rx="6"/>
-  <text x="125" y="215" font-family="system-ui" font-size="13" fill="#0F172A" text-anchor="middle" font-weight="bold">⚡ CLINICAL PRECISION</text>
+  <rect x="25" y="195" width="200" height="28" fill="#F59E0B" rx="6"/>
+  <text x="125" y="214" font-family="system-ui" font-size="13" fill="#0F172A" text-anchor="middle" font-weight="bold">🔥 THE BLOWTORCH</text>
 
   <!-- Stats -->
-  <text x="125" y="240" font-family="system-ui" font-size="11" fill="#94A3B8" text-anchor="middle">XP: 175 | Deployments: 2</text>
+  <text x="125" y="238" font-family="system-ui" font-size="10" fill="#94A3B8" text-anchor="middle">XP: 175 | Deployments: 2</text>
 
   <!-- Traits -->
-  <g transform="translate(25, 255)">
-    <text x="0" y="0" font-family="system-ui" font-size="12" fill="#D4A574" font-weight="600">TRAITS:</text>
-    <text x="0" y="18" font-family="system-ui" font-size="10" fill="#F8FAFC">🔥 Blowtorch temperament</text>
-    <text x="0" y="33" font-family="system-ui" font-size="10" fill="#F8FAFC">🎯 Perfectionist standards</text>
-    <text x="0" y="48" font-family="system-ui" font-size="10" fill="#EF4444">⚠️  Harsh, demanding</text>
+  <g transform="translate(25, 253)">
+    <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">TRAITS:</text>
+    <text x="0" y="17" font-family="system-ui" font-size="9.5" fill="#F8FAFC">⚡ Zero tolerance vagueness</text>
+    <text x="0" y="31" font-family="system-ui" font-size="9.5" fill="#F8FAFC">🎯 Clinical precision</text>
+    <text x="0" y="45" font-family="system-ui" font-size="9.5" fill="#EF4444">⚠️  Demanding standards</text>
   </g>
 
   <!-- Best for -->
-  <g transform="translate(25, 310)">
-    <text x="0" y="0" font-family="system-ui" font-size="12" fill="#D4A574" font-weight="600">BEST FOR:</text>
-    <text x="0" y="16" font-family="system-ui" font-size="9" fill="#10B981">• Visual design perfection</text>
-    <text x="0" y="29" font-family="system-ui" font-size="9" fill="#10B981">• Root cause analysis</text>
+  <g transform="translate(25, 305)">
+    <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">BEST FOR:</text>
+    <text x="0" y="17" font-family="system-ui" font-size="9" fill="#10B981">• Deployment operations</text>
+    <text x="0" y="31" font-family="system-ui" font-size="9" fill="#10B981">• Blocker identification</text>
   </g>
 </svg>
