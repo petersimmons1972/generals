@@ -39,7 +39,7 @@
   </g>
 
   <!-- Best for -->
-  <g transform="translate(25, 305)">
+  <g transform="translate(25, 315)">
     <text x="0" y="0" font-family="system-ui" font-size="11" fill="#D4A574" font-weight="600">BEST FOR:</text>
     <text x="0" y="17" font-family="system-ui" font-size="9" fill="#10B981">• Deployment operations</text>
     <text x="0" y="31" font-family="system-ui" font-size="9" fill="#10B981">• Blocker identification</text>
