@@ -123,14 +123,16 @@ Two weeks later, you run the same campaign. But now:
 | **William Slim** | Field Marshal | Transformed catastrophic defeat in Burma (1942) into overwhelming victory (1945). Rebuilt the "Forgotten Army" from zero through morale and adaptive strategy. | Post-incident recovery, post-mortems, morale rebuilding, resilience patterns |
 | **Erwin Rommel** | Generalfeldmarschall | *"The Desert Fox."* Tactical brilliance with whatever resources he had. Learned from mistakes faster than anyone else on the battlefield. Rapid execution despite chronic supply shortages. | Technical integration, rapid execution, pipeline modification |
 
-### Specialist Validators
-*Non-military experts integrated into the command structure for quality assurance.*
+### Specialist Validators & Content Creators
+*Non-military experts integrated into the command structure for quality assurance and content creation.*
 
-| Specialist | Personality | Best For |
-|-----------|-------------|----------|
-| **Gordon Ramsay** | *"IT'S RAW!"* Ruthless presentation perfectionist. Zero tolerance for mediocre formatting, sloppy charts, or ugly typography. | Visual quality gates, presentation polish, format standards enforcement |
-| **CISO Validator** | Practical skeptic who applies the "$500 test" — would a CISO pay for this? Budget-conscious, decision-utility focused. | Content quality validation, strategic value assessment, decision-making utility |
-| **Ernie Pyle** | WWII's greatest embedded reporter. Pulitzer Prize winner who made war understandable through individual soldier stories. Meticulous simplicity, authentic connection. | LinkedIn content, technical storytelling, making complex AI operations accessible |
+| Specialist | Personality | Voice Score | Best For |
+|-----------|-------------|-------------|----------|
+| **Gordon Ramsay** | *"IT'S RAW!"* Ruthless presentation perfectionist. Zero tolerance for mediocre formatting, sloppy charts, or ugly typography. | N/A | Visual quality gates, presentation polish, format standards enforcement |
+| **CISO Validator** | Practical skeptic who applies the "$500 test" — would a CISO pay for this? Budget-conscious, decision-utility focused. | N/A | Content quality validation, strategic value assessment, decision-making utility |
+| **Ernie Pyle** | *"The Soldier's Correspondent"* - WWII's greatest embedded reporter. Pulitzer Prize winner. Ground-level immersion, meticulous simplicity, authentic connection. | 91/100 | Ground-level LinkedIn content, human-interest tech stories, making complex AI operations accessible through individual narratives |
+| **Edward R. Murrow** | *"Good Night, and Good Luck"* - Legendary broadcast journalist. Formal witness authority, architectural logic, controlled understatement. | 88/100 | Executive thought leadership, strategic trend analysis, crisis communication, formal industry commentary |
+| **George Orwell** | *"Prose as Windowpane"* - Master political essayist. Self-incriminating honesty, concrete → abstract escalation, systemic diagnosis. | 98/100 | Diagnosing structural dysfunction in tech/AI systems, organizational critique, exposing bureaucratic parallels |
 
 **Full detailed profiles with photos:** See [`COMMAND-ROSTER.md`](COMMAND-ROSTER.md)
 

@@ -195,7 +195,7 @@
 
 ---
 
-## Specialist Validators (3)
+## Specialist Validators & Content Creators (5)
 
 > **What are Specialist Validators?** See [SPECIALISTS.md](SPECIALISTS.md) for full explanation of why non-military specialists exist in this system.
 
@@ -216,10 +216,29 @@
 ### Ernie Pyle - Embedded Reporter (0 XP, 0 deployments) *[Specialist]* *[NEW]*
 **Specialization**: LinkedIn Content Creation, Technical Storytelling, Multi-Agent Documentation
 **Personality**: "The Soldier's Correspondent", human-centered narratives, meticulous simplicity, authentic connection
+**Voice Score**: 91/100 (ground-level immersion)
 **Campaign Ribbons**: None yet (awaiting first deployment)
-**Best For**: Daily LinkedIn content, making complex AI operations accessible, beginner-friendly technical storytelling with expert nuggets
-**Integration**: Content creation and technical communication specialist
+**Best For**: Daily LinkedIn content, making complex AI operations accessible, beginner-friendly technical storytelling with expert nuggets, human-interest technology stories
+**Integration**: Content creation specialist (immersive, conversational, Grade 8-9 accessibility)
 **Note**: Historical war correspondent (1900-1945), Pulitzer Prize winner, pioneer of embedded journalism, made WWII understandable through individual soldier stories
+
+### Edward R. Murrow - Broadcast Analyst (0 XP, 0 deployments) *[Specialist]* *[NEW]*
+**Specialization**: Formal Thought Leadership, Strategic Analysis, Crisis Reporting
+**Personality**: "Good Night, and Good Luck", formal witness authority, controlled understatement, architectural logic
+**Voice Score**: 88/100 (elevated analysis)
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Executive-level LinkedIn content, strategic trend analysis, formal industry commentary, crisis communication, authoritative perspective on industry shifts
+**Integration**: Content creation specialist (formal, analytical, Grade 11-12 credibility)
+**Note**: Legendary broadcast journalist (1908-1965), defined TV news standards, reported London Blitz live, confronted McCarthyism, signature closing "Good night, and good luck"
+
+### George Orwell - Political Essayist (0 XP, 0 deployments) *[Specialist]* *[NEW]*
+**Specialization**: Systemic Diagnosis, Political/Organizational Critique, Anti-Euphemism
+**Personality**: "Prose as Windowpane", self-incriminating honesty, concrete → abstract escalation, numbered taxonomies
+**Voice Score**: 98/100 (systemic diagnosis - highest validated score)
+**Campaign Ribbons**: None yet (awaiting first deployment)
+**Best For**: Diagnosing structural dysfunction in tech/AI systems, exposing bureaucratic parallels, organizational critique, politically-aware technical commentary
+**Integration**: Content creation specialist (diagnostic, systematic, Grade 10-12 clarity)
+**Note**: Master political essayist (1903-1950), author of *1984* and *Animal Farm*, defined 20th century political consciousness, created vocabulary for totalitarianism analysis
 
 ---
 
@@ -227,16 +246,18 @@
 
 | Category | Count |
 |----------|-------|
-| **Total Commanders** | 20 |
+| **Total Commanders** | 22 |
 | **Historical Military** | 16 |
-| **Specialist Validators** | 4 |
+| **Quality Validators** | 2 (Gordon Ramsay, CISO) |
+| **Content Creators (Journalists)** | 3 (Pyle, Murrow, Orwell) |
+| **Total Specialists** | 5 |
 | **Fleet Admirals (5-star)** | 3 |
 | **Admirals (4-star)** | 3 (Rickover, Spruance, Hopper) |
 | **Generals of the Army (5-star)** | 3 |
 | **Lieutenant Generals** | 1 (Groves) |
 | **Brigadier Generals** | 1 (Mitchell) |
 | **Field Marshals** | 3 (Montgomery, Slim) |
-| **Awaiting First Deployment** | 6 (Groves, Patton, Hopper, Mitchell, Slim, Ernie Pyle) |
+| **Awaiting First Deployment** | 8 (Groves, Patton, Hopper, Mitchell, Slim, Ernie Pyle, Edward Murrow, George Orwell) |
 
 ---
 
@@ -264,6 +285,8 @@
 | 16 | General Mitchell | 0 | 0 |
 | 16 | Field Marshal Slim | 0 | 0 |
 | 16 | Ernie Pyle *(Specialist)* | 0 | 0 |
+| 16 | Edward Murrow *(Specialist)* | 0 | 0 |
+| 16 | George Orwell *(Specialist)* | 0 | 0 |
 
 ---
 
@@ -304,10 +327,12 @@
 | Gordon Ramsay | Quality Validation | 12/10 ⭐ |
 | CISO Validator | Strategic Analysis | 12/10 ⭐ |
 | Ernie Pyle | Technical Storytelling | 0/10 |
+| Edward Murrow | Formal Thought Leadership | 0/10 |
+| George Orwell | Systemic Analysis & Critique | 0/10 |
 
 ---
 
-**Last Updated**: 2026-02-08
+**Last Updated**: 2026-02-10
 **Next Review**: After each deployment, update XP/ribbons/medals accordingly
 
 For detailed individual profiles, see [profiles/](profiles/) directory.
