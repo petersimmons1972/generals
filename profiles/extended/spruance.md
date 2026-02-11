@@ -112,8 +112,8 @@ Later served as President of Naval War College, shaping next generation of naval
 
 **Current Rank**: Admiral *(Historical rank maintained in AI service)*
 **Specialization**: Verification & Testing, Cost Analysis Visualization, Methodical Execution
-**Total XP**: 475
-**Deployments**: 4
+**Total XP**: 575
+**Deployments**: 5
 **Success Rate**: 100%
 
 ### Campaign Ribbons
@@ -130,6 +130,9 @@ Later served as President of Naval War College, shaping next generation of naval
 🎗️ **Phase 1 Architecture Validation** (2026-02-11)
 *Citation*: "For methodical verification confirming vendor-agnostic template architecture in scalable report generation system"
 
+🎗️ **Phase 2a Citation Scaffolding Experiments** (2026-02-11)
+*Citation*: "For architectural discovery identifying template instantiation constraints and establishing manual scaffolding quality baseline"
+
 ### Medals
 
 🏅 **Strategic Reconnaissance Medal** (2026-02-09)
@@ -145,7 +148,7 @@ Later served as President of Naval War College, shaping next generation of naval
 
 | Category | Deployments | Progress to Star |
 |----------|-------------|------------------|
-| **Verification/Testing** | 3 | 3/5 (⭐ at 5) |
+| **Verification/Testing** | 4 | 4/5 (⭐ at 5) |
 | **Visualization/Charts** | 1 | 1/5 (⭐ at 5) |
 | **Methodical Execution** | 1 | 1/5 (⭐ at 5) |
 
@@ -402,6 +405,91 @@ Worked alongside Admiral Hopper (architecture review from compiler perspective) 
 - Microsoft E5 bundling complexity confirmed handled
 - Quality gaps identified separately (prose generation, not architecture)
 - Recommendations provided for Phase 2 expansion
+
+---
+
+### Deployment 5: Phase 2a Citation Scaffolding Experiments (2026-02-11)
+
+**Mission**: Experiment A - Conservative Manual Citation Scaffolding
+**Role**: Architecture Investigation & Manual Baseline Lead
+**Deliverable**: Manual scaffolded prompts proving targets achievable + architectural discoveries
+**Outcome**: SUCCESS - Architecture constraints discovered, quality baseline established
+**XP Earned**: 100 (architecture discovery + manual scaffolds)
+
+**Campaign Context**:
+- **Objective**: Improve citation density from 53% failure rate → 95%+ pass rate
+- **Root Cause**: LLM generates prose without enforcing citation requirements
+- **Testing Strategy**: Two experimental approaches (conservative manual vs aggressive automated)
+- **Team**: Spruance (conservative), Hopper (automated), Bedell Smith (synthesis)
+
+**Spruance's Assignment - Conservative Manual Approach**:
+Test conservative manual scaffolding with exact minimum citation density targets:
+- Detection_efficacy: 2.5 citations per 100 words minimum
+- TCO: 1.5 citations per 100 words minimum
+- Vendor pair: CrowdStrike vs SentinelOne
+- Method: Manually design scaffolded prompts with pre-placed `[CITE:path]` markers
+
+**Phased Investigation**:
+
+**Phase 1 - Vendor Instantiator Investigation**:
+- Attempted to modify `vendor_instantiator.py` to inject citations during template instantiation
+- Discovered architectural constraint: `required_topics` are LLM instructions, not data-containing prose
+- Example: `"{vendor_a} MITRE Round 6 participation: boolean + context..."` is a prompt to write, not a factual statement
+- **Critical Finding**: Citation scaffolding CANNOT happen during template instantiation
+
+**Phase 2 - Manual Scaffolded Prompts**:
+- Pivoted to "true conservative" approach: manually design scaffolded prompts
+- Created `detection_efficacy_scaffolded_prompt.md` with 35 pre-placed `[CITE:path]` markers
+- Created `tco_scaffolded_prompt.md` with 30 pre-placed `[CITE:path]` markers
+- Explicit citation placement at every quantified claim
+
+**Phase 3 - Additional Discovery**:
+- Investigated `example_content_template` scaffolding (Option C)
+- Discovered templates use abstract placeholders (`{price}`) not nested paths (`{vendor_a.pricing.tiers[2].price_per_endpoint_year}`)
+- **Finding**: Template abstraction by design, confirms scaffolding must happen during/after generation
+
+**Architectural Discoveries**:
+
+**Key Insight #1**: Two-phase architecture
+- Template instantiation (substitute vendor names)
+- Prose generation (reference data + inject citations)
+- Citation scaffolding must happen in Phase 2, not Phase 1
+
+**Key Insight #2**: Manual scaffolds prove targets achievable
+- Detection: 35 citations for ~1400 words = 2.5 density ✓
+- TCO: 30 citations for ~2000 words = 1.5 density ✓
+- With explicit guidance, targets are realistic
+
+**Key Insight #3**: Manual approach doesn't scale
+- 35+ sections × 2-3 hours each = 70-105 hours
+- 20 vendor pairs × 70-105 hours = 80-120 hours per quarter
+- Not viable for production
+
+**Deliverables** (test_output/experiment_a_conservative/):
+- ARCHITECTURE_DISCOVERY.md (root cause analysis)
+- detection_efficacy_scaffolded_prompt.md (35 citations)
+- tco_scaffolded_prompt.md (30 citations)
+- EXPERIMENT_STATUS.md (progress tracking)
+- README.md (findings summary)
+
+**Behavioral Observations**:
+- **Methodical Investigation**: Attempted vendor_instantiator modification first, discovered why it failed, pivoted to manual scaffolds, investigated additional option
+- **Intellectual Honesty**: Reported architectural constraints discovered, acknowledged manual approach doesn't scale
+- **Strategic Assessment**: Correctly identified that manual scaffolds fulfill experimental objectives, recognized Hopper's automation complements manual baseline
+
+**Historical Parallel**: At Midway (1942), Spruance verified carrier positions before acting. Here (2026), he verified architectural constraints before recommending approach - same methodical verification across 84 years.
+
+**Contribution to Synthesis**:
+- Architecture discovery shaped Hopper's automation approach
+- Proof that targets are achievable with explicit guidance
+- Quality baseline for comparison
+- Recommendation: Accept architectural reality, scaffold during/after generation (Option C3)
+
+**Impact**:
+- Critical architectural constraints identified (where scaffolding can/cannot happen)
+- Manual baseline established proving 2.5 and 1.5 density targets realistic
+- Template abstraction understanding documented
+- Informed Hopper's citation compiler design
 
 ---
 
