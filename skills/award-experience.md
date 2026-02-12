@@ -5,17 +5,9 @@ description: Update commander profile with deployment experience, XP, medals, an
 
 # Award Experience
 
-## Purpose
+Update commander profile after deployment with XP, deployment history, behavioral observations, lessons learned, ribbons/medals, and competence progress.
 
-After a commander completes a deployment, update their profile with:
-- XP earned
-- Deployment history entry
-- Behavioral observations
-- Lessons learned
-- Ribbons/medals (if warranted)
-- Competence progress toward stars
-
-**This is how the self-learning cycle completes.** Each deployment makes commanders more experienced.
+**This closes the self-learning cycle.** Each deployment makes commanders more experienced.
 
 ---
 
@@ -25,47 +17,47 @@ After a commander completes a deployment, update their profile with:
 /generals:award-experience <commander-name> <xp> <deployment-summary>
 ```
 
-**Example:**
+**Example**:
 ```
-/generals:award-experience hopper 100 "Wrote EDR white paper for CISOs - excellent accessibility translation"
+/generals:award-experience hopper 100 "Wrote EDR white paper - excellent accessibility translation"
 ```
 
 ---
 
 ## How It Works
 
-### **Step 1: Read Current Profile**
+### Step 1: Read Current Profile
 
-Load commander profile from `~/projects/generals/profiles/<name>.md` and extract:
+Load `~/projects/generals/profiles/<name>.md` and extract:
 - Current XP total
 - Deployment count
 - Competence progress
 - Existing ribbons/medals
 
-### **Step 2: Calculate Updates**
+### Step 2: Calculate Updates
 
-**XP Awards:**
+**XP Awards**:
 - Base task: 50-100 XP
 - Complex task: 100-150 XP
 - Campaign leadership: 150-200 XP
 - Exceptional performance: +50 bonus
-- Lessons learned documented: +25 bonus
+- Lessons documented: +25 bonus
 
-**Competence Progress:**
-- Track deployments per category (e.g., "Technical Documentation")
-- Progress toward stars: 10 deployments = ⭐ (Competent), 25 = ⭐⭐, 50 = ⭐⭐⭐, 100 = ⭐⭐⭐⭐, 250 = ⭐⭐⭐⭐⭐
+**Competence Progress**:
+- Track deployments per category
+- Stars: 10 deployments = ⭐, 25 = ⭐⭐, 50 = ⭐⭐⭐, 100 = ⭐⭐⭐⭐, 250 = ⭐⭐⭐⭐⭐
 
-**Ribbons/Medals:**
+**Ribbons/Medals**:
 - Campaign Participation: Completed deployment
-- Excellence: Exceptional quality or innovation
-- Strategic Impact: Significant contribution to mission
+- Excellence: Exceptional quality/innovation
+- Strategic Impact: Significant mission contribution
 
-### **Step 3: Update Profile**
+### Step 3: Update Profile
 
-Add new deployment entry in "AI Deployment History" section:
+Add deployment entry in "AI Deployment History":
 
 ```markdown
-### Deployment N: [Deployment Name] (YYYY-MM-DD)
+### Deployment N: [Name] (YYYY-MM-DD)
 
 **Mission**: [Task description]
 **Role**: [What they did]
@@ -77,34 +69,32 @@ Add new deployment entry in "AI Deployment History" section:
 [How they approached the task]
 
 **Behavioral Observations**:
-- [Trait 1]: [How it manifested in this deployment]
+- [Trait 1]: [How it manifested]
 - [Trait 2]: [Consistency with historical personality]
 
 **Lessons Learned**:
-[What this deployment taught about the commander or the task type]
+[What this taught about commander/task type]
 
 **Historical Parallel**:
-[How this deployment relates to their WWII achievements]
+[How this relates to WWII achievements]
 ```
 
-### **Step 4: Update Statistics**
+### Step 4: Update Statistics
 
 ```markdown
-**Current Rank**: [Rank]
-**Specialization**: [Areas of expertise]
 **Total XP**: [Old XP] → [New XP]
 **Deployments**: [N] → [N+1]
 **Success Rate**: [Percentage]
 ```
 
-Update competence progress:
+Update competence table:
 ```markdown
 | Category | Deployments | Progress to Star |
 |----------|-------------|------------------|
 | **Technical Documentation** | 2 → 3 | 3/10 (⭐ at 10) |
 ```
 
-### **Step 5: Commit to GitHub**
+### Step 5: Commit to GitHub
 
 ```bash
 git add profiles/<commander-name>.md
@@ -112,9 +102,9 @@ git commit -m "docs: [Commander] Deployment N - [brief description]
 
 - XP: +[amount] (total: [new total])
 - Deployment: [task summary]
-- Lessons: [key lesson learned]
+- Lessons: [key lesson]
 
-Co-Authored-By: [Commander Name] <commander@generals.ai>
+Co-Authored-By: [Commander] <commander@generals.ai>
 Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
 
 git push origin master
@@ -122,7 +112,7 @@ git push origin master
 
 ---
 
-## Output Format
+## Output
 
 ```
 ═══════════════════════════════════════════════════════════════
@@ -130,28 +120,28 @@ GENERALS: AWARD EXPERIENCE
 ═══════════════════════════════════════════════════════════════
 
 Commander: [Name]
-Deployment: [Task description]
+Deployment: [Task]
 
 EXPERIENCE AWARDED
 ═══════════════════════════════════════════════════════════════
 XP: +[amount]
-  • Base: [base amount]
-  • Bonus: [bonus reasons]
+  • Base: [base]
+  • Bonus: [reasons]
 
 Total XP: [old] → [new]
 Deployments: [N] → [N+1]
 
 COMPETENCE PROGRESS
 ═══════════════════════════════════════════════════════════════
-Category: [Category name]
+Category: [Category]
 Progress: [N/10] → [(N+1)/10]
-[Progress bar: ████░░░░░░ 4/10 to ⭐]
+████░░░░░░ 4/10 to ⭐
 
-Next milestone: [Deployments remaining] more deployments to earn ⭐
+Next milestone: [X] more deployments to earn ⭐
 
 PROFILE UPDATED
 ═══════════════════════════════════════════════════════════════
-✅ Deployment history added (Deployment [N])
+✅ Deployment history added
 ✅ XP updated
 ✅ Competence progress incremented
 ✅ Behavioral observations documented
@@ -163,49 +153,49 @@ Commit: [hash]
 Branch: master
 Remote: Pushed to origin
 
-Self-learning cycle complete. Commander profile now includes this
-deployment experience for future reference.
-
+Self-learning cycle complete.
 ═══════════════════════════════════════════════════════════════
 ```
 
----
-
-## Dependencies
-
-**Required:**
-- Read (load profile)
-- Edit (update profile)
-- Bash (git commit/push)
-
-**No other dependencies** - completely standalone.
+[Full output example: docs/OUTPUT-FORMATS.md#award-experience](../docs/OUTPUT-FORMATS.md#award-experience)
 
 ---
 
 ## Self-Learning Integration
 
-**This skill closes the loop:**
+**This skill closes the loop**:
 
 1. Match commander to task
 2. Spawn commander with personality
 3. Commander executes mission
-4. **Award experience** ← YOU ARE HERE
-5. Next time commander is spawned, updated profile includes this experience
+4. **Award experience** ← **YOU ARE HERE**
+5. Next spawn includes this experience
 
-**Each deployment makes commanders better:**
+**Each deployment makes commanders better**:
 - More XP = more experienced
-- More deployments = progress toward stars (⭐)
-- Lessons learned = future spawns incorporate past experience
+- More deployments = progress toward stars
+- Lessons learned = future spawns incorporate experience
 - Behavioral observations = validate personality consistency
 
 ---
 
-## Privacy & Local Operation
+## Dependencies
 
-**Completely local:**
+**Required**:
+- `Read` - Load profile
+- `Edit` - Update profile
+- `Bash` - Git commit/push
+
+**No other dependencies** - completely standalone.
+
+---
+
+## Privacy
+
+**Completely local**:
 - ✅ Updates files on your filesystem
 - ✅ Commits to your local git repo
-- ✅ Pushes to your remote (if you have one configured)
-- ✅ No external API calls or data collection
+- ✅ Pushes to your remote (if configured)
+- ✅ No external API calls
 
 Your commanders learn from YOUR campaigns, stored in YOUR repo.

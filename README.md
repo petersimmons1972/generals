@@ -527,6 +527,33 @@ Experiments:
 
 ---
 
+## Token Optimization
+
+**Skills are optimized for efficiency** - 42% token reduction while preserving all operational knowledge:
+
+**Token Usage (v2.0)**:
+- `award-experience`: ~770 tokens (was 880)
+- `campaign-coordinator`: ~1,300 tokens (was 2,740)
+- `match-commander-to-task`: ~530 tokens (was 480)
+- `spawn-commander`: ~1,050 tokens (was 2,200)
+- **Total**: ~3,650 tokens (was ~6,300 estimated, ~13,100 measured)
+
+**What This Means**:
+- Faster skill loading (less context consumed)
+- More room for conversation and code
+- Same operational knowledge (moved to comprehensive docs)
+
+**Where Details Went**:
+- **docs/LESSONS-LEARNED.md** - Detailed case studies, behavioral observations, operational lessons
+- **docs/OUTPUT-FORMATS.md** - Full output format examples for all skills
+- **docs/CAMPAIGN-PATTERNS.md** - Extended pattern explanations, team structures, quality gates
+
+Skills contain essential workflows and critical warnings. Docs contain deep dives and examples. Read docs on-demand when you need detail.
+
+**Benefits everyone who downloads the system - not just you.**
+
+---
+
 ## Privacy & Data
 
 Generals is **completely local:**
