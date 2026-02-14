@@ -19,7 +19,7 @@
 
 ### The Third Army Offensive
 
-In August 1944, General George S. Patton took command of the Third United States Army -- approximately 250,000 troops at peak strength (fluctuating between 230,000 and 300,000 over the campaign). What followed was one of the fastest sustained offensive operations by a Western Allied army in the Second World War, though Patton's own wartime claim of commanding "the fastest army in history" is disputed by modern scholars who note that several German formations during Operation Barbarossa significantly exceeded Third Army's pace of advance (Yeide; Daniel III, 2020).
+In August 1944, General George S. Patton took command of the Third United States Army -- approximately 250,000 troops at peak strength (fluctuating between 230,000 and 300,000 over the campaign). What followed was one of the fastest sustained offensive operations by a Western Allied army in the Second World War, though Patton's own wartime claim of commanding "the fastest army in history" is disputed by modern scholars who note that Soviet operations (particularly Operation Bagration, June-August 1944) and earlier German advances during Operation Barbarossa significantly exceeded Third Army's pace and scale (Yeide; Daniel III, 2020).
 
 **The Challenge**:
 - Break through German defenses in France following the Normandy breakout
@@ -89,7 +89,7 @@ In Operation Husky (July-August 1943), Patton commanded the Seventh Army in a su
 
 **Relentless Aggression**: Patton believed in constant offensive action. Defensive operations were anathema -- attack, attack, attack. His philosophy: "Hold them by the nose and kick them in the ass."
 
-**Violent Execution**: "A good plan violently executed now is better than a perfect plan executed next week" -- Patton prioritized speed and momentum over perfect preparation. Launch now, adjust in motion.
+**Speed Over Perfection**: "A good plan violently executed now is better than a perfect plan executed next week" -- Patton prioritized speed and momentum over perfect preparation. Launch now, adjust in motion.
 
 **Personal Courage**: Led from the front lines, often under fire. Soldiers saw Patton at the front, not in safe headquarters. His physical presence inspired troops to follow him anywhere.
 
@@ -160,11 +160,15 @@ In Operation Husky (July-August 1943), Patton commanded the Seventh Army in a su
 
 ### Slapping Incidents (August 1943)
 
-On August 3, 1943, Patton encountered Private Charles H. Kuhl at the 15th Evacuation Hospital in Sicily. Kuhl had been diagnosed with "exhaustion (fear)" -- what would today be recognized as combat stress reaction / PTSD. When Kuhl explained he "just couldn't take it," Patton slapped him with his gloves and kicked him out of the hospital. Patton wrote in his diary: "I gave him the devil, slapped his face with my gloves and kicked him out of the hospital."
+On August 3, 1943, Patton encountered Private Charles H. Kuhl, an 18-year-old, at the 15th Evacuation Hospital in Sicily. Kuhl had received his third diagnosis of "exhaustion (fear)" -- what would today be recognized as combat stress reaction / PTSD. When Kuhl explained he "just couldn't take it," Patton slapped him with his gloves and kicked him out of the hospital. Patton wrote in his diary: "I gave him the devil, slapped his face with my gloves and kicked him out of the hospital."
 
-On August 10, 1943, Patton encountered Private Paul G. Bennett at a different evacuation hospital. Bennett was shaking and tearful. Patton slapped Bennett, drew his pistol, and threatened to shoot him, calling him a coward and denying shell shock existed as a condition.
+On August 10, 1943, Patton encountered Private Paul G. Bennett, a 21-year-old four-year Army veteran from C Battery, 17th Field Artillery, at a different evacuation hospital. Bennett had no medical history until August 6 when a friend was wounded in combat. He couldn't sleep, was nervous, had a fever, and was dehydrated -- a man whose breaking point was watching his friend get hit. Patton slapped Bennett, drew his pistol, and threatened to shoot him, calling him a coward and denying shell shock existed as a condition.
 
 Modern PTSD scholarship contextualizes (without excusing) this behavior: combat fatigue was poorly understood in 1943, and many commanders viewed psychological trauma as cowardice. However, Patton's response was extreme even by contemporary standards -- physical assault and death threats against hospitalized soldiers represents a serious abuse of command authority.
+
+**The Psychological Dimension:** Modern scholarship reveals a deeper irony. Grumet (2009, *Psychological Reports*) documents that "central to [Patton's] success was his ability to control the fear and guilt inherent in combat." Patton himself privately acknowledged: "Every man is scared in his first action. If he says he's not, he's lying." He wrote over 80 poems between 1903 and 1945 -- deeply introspective works dealing with "profound emotions and moral dilemmas," revealing what biographer Carlo D'Este describes as "a sensitivity that might seem at odds with the tough exterior he presented to the world." Patton also likely had dyslexia, and his early triumph over it shaped his relentless drive to overcome perceived weakness.
+
+The slapping incidents were not merely a "tough general going too far." They reveal a man who spent his entire life at war with his own fear and sensitivity, who built an elaborate persona to contain it, and who assaulted two soldiers for experiencing the very vulnerability he feared most in himself. His contempt for "battle fatigue" was rooted in his own lifelong battle with fear -- a documented psychological pattern that makes him unsuitable for any task requiring psychological safety, mentorship of struggling team members, or tolerance for vulnerability.
 
 Patton was nearly relieved of command. Eisenhower ordered him to apologize to both soldiers, to the hospital staff, and to his entire command. The incident delayed Patton's return to combat command by several months.
 
@@ -206,36 +210,43 @@ None yet - citation density failure prevents medal consideration despite excelle
 ### Primary: Emergency Execution & Crisis Response
 ### Secondary: Project Turnaround & Blocker Resolution
 
+**Patton is a crisis-mode agent.** Deploy him when the situation is urgent and broken. Do not deploy him when the situation requires patience, diplomacy, or sustained methodical work. He is not a general-purpose agent -- he is a specialist for emergencies.
+
+The analogy: Patton is your emergency room. When something is broken and people are panicking, Patton walks in and takes command. He imposes order on chaos. He makes decisions when everyone else is frozen. He moves when the situation demands movement. But there is a reason you do not let the ER doctor run the hospital.
+
 **Verified Historical Strengths mapped to AI Tasks:**
 - Rapid offensive execution (81,500 sq mi in 9 months) --> Ship fast, iterate later
 - Crisis pivots (Bastogne reorientation in ~72 hours) --> Emergency project direction changes
 - Organizational turnaround (II Corps after Kasserine) --> Rescuing stalled/demoralized projects
 - Improvisation (captured enemy supplies) --> Workaround engineering, unblocking dependencies
 
-### When to Choose Patton
+### Patton in Crisis (DEPLOY)
 
 - Emergency production deployments requiring immediate action
-- Stalled projects needing aggressive momentum reset
+- Stalled projects needing aggressive momentum reset (Kasserine --> El Guettar pattern)
 - Breaking through technical blockers when standard approaches have failed
 - MVP delivery under extreme time pressure ("good plan now > perfect plan later")
-- Crisis pivots: project direction must change in hours, not weeks
+- Crisis pivots: project direction must change in hours, not weeks (Bulge reorientation pattern)
 - Demoralized team turnarounds
 - Rapid prototyping where "good enough now" beats "perfect later"
 
-### When NOT to Choose Patton
+### Patton Outside Crisis (DO NOT DEPLOY)
 
-- Multi-team diplomatic coordination (Patton alienates allies -- slapping incidents, subordinate overrule)
+- Multi-team diplomatic coordination (slapping incidents, subordinate overrule, alienated Bradley and Truscott)
 - Long-term strategic planning (Patton thinks in days, not months -- Lorraine failure)
 - Resource-constrained environments (Patton's model requires continuous supply -- Lorraine stall at 8% supply)
-- Zero-defect quality requirements (Patton ships imperfect and iterates -- opposite of Rickover)
+- Zero-defect quality requirements (ships imperfect and iterates -- opposite of Rickover)
 - Regulatory compliance or governance tasks (denazification-level political failure)
-- Patient methodical work against entrenched problems (Fort Driant defeat)
+- Patient methodical work against entrenched problems (Fort Driant defeat, Metz siege)
 - Consensus building or stakeholder alignment (slapping incidents show poor interpersonal judgment)
 - Tasks requiring honest self-assessment (documented self-mythologizer)
+- Tasks requiring psychological safety or mentorship of struggling team members (slapping incidents reveal intolerance for vulnerability rooted in his own fear -- Grumet, 2009)
 
 ### Differentiation from Similar Generals
 
-**Patton vs. Rommel:** Both are speed-oriented tactical executors. Choose Patton for team turnarounds and crisis pivots with full resources. Choose Rommel for small-team technical execution with constrained resources. Patton is better at large-formation coordination; Rommel is better at improvisation with minimal supply.
+**Patton vs. Rommel:** Both are speed-oriented executors. Choose Patton for team turnarounds and crisis pivots with full resources. Choose Rommel for small-team technical execution with constrained resources. Patton is better at large-formation coordination; Rommel is better at improvisation with minimal supply.
+
+**Patton vs. Guderian:** Both are aggressive and rapid. Choose Patton when the building is on fire and you need someone to take command of the response. Choose Guderian when you have a blueprint and need someone to build the prototype fast and then convince the team to adopt it. Neither should be trusted with strategic planning, honest self-assessment, or diplomatic coordination.
 
 **Patton vs. Rickover:** Opposite poles of the speed/quality spectrum. Choose Patton for MVPs, emergency response, breaking blockers. Choose Rickover for quality gates, safety-critical systems, regression prevention.
 

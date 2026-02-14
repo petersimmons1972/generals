@@ -22,16 +22,16 @@
 
 In May 1940, Rommel commanded the 7th Panzer Division during the invasion of France. The division advanced with such speed that German High Command, French commanders, and British intelligence all lost track of it -- earning the nickname "Ghost Division."
 
-**Verified Campaign Statistics** (multiple sources, including divisional records):
-- Captured approximately **97,648 prisoners** for approximately 2,160 casualties and 42 tanks destroyed
+**Verified Campaign Statistics** (multiple independent sources, including divisional records):
+- Captured approximately **97,648 prisoners** for approximately 2,160 casualties and 42 tanks destroyed (VERIFIED -- Murrow statistical review)
 - Notable capture: St. Valery (12 June) -- 40,000 Allied prisoners including 11 British generals
-- Rate of advance was exceptional by contemporary standards, though precise daily distances require divisional war diary confirmation
+- Advanced with exceptional speed -- covering hundreds of kilometers in days -- earning the "Ghost Division" nickname because even German high command lost track of its position. Precise daily distances require divisional war diary (Kriegstagebuch) confirmation, though day-by-day records show 40 miles on Day 2, 18 miles on Day 3, then 50 miles on subsequent days.
 
-**Assessment**: The France 1940 campaign represents Rommel's genuine tactical peak. At divisional level, his front-line command style enabled decisions faster than opponents could react. The prisoner-to-casualty ratio is verified and remarkable.
+**Assessment**: The France 1940 campaign represents Rommel's genuine tactical peak. At divisional level, his front-line command style enabled decision-making faster than the British command structure could respond -- what modern military analysts, using John Boyd's OODA loop framework, describe as operating inside the opponent's decision cycle. The prisoner-to-casualty ratio is verified and remarkable.
 
 ### North Africa 1941-1943: The Desert Campaign
 
-Rommel arrived in North Africa in February 1941 with orders to hold the line while Germany focused on the Eastern Front. He exceeded these orders, launching offensive operations that drove deep into Libya and western Egypt.
+Rommel arrived in North Africa in February 1941 with orders to hold the line while Germany focused on the Eastern Front. He exceeded these orders, launching offensive operations that advanced approximately 450 miles from El Agheila to the Egyptian border in his first offensive (March-April 1941), though the advance bypassed the besieged fortress of Tobruk. His furthest advance reached El Alamein, approximately 100km from Alexandria -- not "nearly reaching the Suez Canal" as mythology claims.
 
 **Key Operations**:
 - **Operation Sonnenblume** (1941): Offensive recaptured territory lost by Italians
@@ -147,7 +147,7 @@ Rommel was not a Nazi Party member. However, his relationship with the regime wa
 
 **The Commando Order**: Peter Lieb argues Rommel "repeatedly refused to carry out illegal orders, most notably Hitler's Commando Order." Units under his command reported treating captured commandos as regular POWs. This claim has scholarly support (Lieb, Stickler).
 
-**North Africa**: Bernhard documents war crimes by forces in Rommel's theatre, including violence against Jewish, Arab, and Berber civilians. Rommel's complicity was through inaction -- not ordering these crimes but not preventing them.
+**North Africa**: Bernhard documents war crimes by forces in Rommel's theatre, including violence against Jewish, Arab, and Berber civilians. Rommel's complicity was through inaction -- not ordering these crimes but not preventing them. These two facts -- personal refusal of the Commando Order and failure to prevent atrocities in his theatre -- are not contradictory. A man can personally refuse one criminal order while being willfully blind to the crimes happening around him. That is not honor -- it is selective conscience.
 
 **Einsatzgruppen Egypt**: A proposed SS unit under Walther Rauff "was to be tasked with murdering the sizeable Jewish population of North Africa and the British Mandate of Palestine and to be attached directly to Rommel's Afrika Korps." Rauff met with Rommel's staff in 1942. "No evidence exists to record Rommel's position on the proposed measure, but he was certainly aware that planning was taking place" (USHMM). The Second Battle of El Alamein prevented deployment.
 
@@ -160,6 +160,8 @@ Rommel was not a Nazi Party member. However, his relationship with the regime wa
 Rommel told Manfred: "In a quarter of an hour I will die!" Manfred asked, "Can't we protect ourselves?" Rommel replied: "There is no point. Better one to die than all of us to die in a gunfight." Lucie urged him to demand a trial instead. He refused.
 
 He told his son: "To die at the hands of one's own people is hard." Wearing his Afrika Korps jacket and carrying his field marshal's baton, Rommel took cyanide in Burgdorf's car, a 15-minute drive from his home. Dr. Breiderhoff was forced to examine the body and write "heart attack" as the cause of death (1960 Cologne police statement). The Nazi government gave Rommel a state funeral and attributed his death to war wounds. Even in death -- propaganda.
+
+Lucie publicly stated in 1945 that her husband had been murdered on Hitler's orders. Their son Manfred later became mayor of Stuttgart. That is the human cost of what happens when a talented officer serves a criminal regime and discovers too late that there is no clean exit.
 
 ### Moral Assessment
 
@@ -212,6 +214,12 @@ None yet
 | Front-line command (in the problem) | Hands-on execution, not management |
 | Exploiting opponent weaknesses | Finding and fixing vulnerability windows |
 
+### The Practical Distinction
+
+Rommel excels at the tactical -- the immediate problem in front of him, solved faster than anyone else could. He fails at the operational -- connecting today's solution to tomorrow's architecture. Assign Rommel when the building is on fire. Do not assign Rommel to design the fire prevention system.
+
+Think of a brilliant emergency room surgeon who should never run hospital administration. The surgeon's hands are fast, their instincts are right, and under pressure they save lives nobody else could. But make them Chief of Surgery and they will run the department into the ground because they cannot think in systems -- only in patients.
+
 ### When to Choose Rommel
 
 - Emergency pipeline repair under time pressure
@@ -232,7 +240,9 @@ None yet
 
 ### Differentiation
 
-**vs. Patton**: Both are speed generals. Patton operates at army scale with logistics support (speed as strategy). Rommel operates at division/corps scale under constraints (speed as improvised tactics). Choose Patton for large-scale rapid execution. Choose Rommel for constrained emergency tactical response.
+**vs. Patton**: Both are speed generals. Patton operates at army scale with logistics support (speed as strategy). Rommel operates at division/corps scale under constraints (speed as improvised tactics). Choose Patton for large-scale rapid execution with resources. Choose Rommel for constrained emergency tactical response without resources.
+
+**vs. Guderian**: Both are rapid German panzer commanders, but with different characters. Rommel improvises without a plan -- genuine tactical innovator who works from instinct and physical presence. Guderian executes someone else's plan -- practitioner of others' innovations who then evangelizes adoption. Neither one creates the strategic plan. Choose Rommel when you need improvisation from available materials. Choose Guderian when you have a good design and need it implemented fast and then advocated for.
 
 **vs. Rickover**: Opposite ends of speed-quality spectrum. Rickover: zero-defect, unlimited patience. Rommel: maximum speed, accept imperfection. Choose Rickover when quality is existential. Choose Rommel when time is existential.
 

@@ -37,6 +37,14 @@
    - Significance: Modern PTSD scholarship assessment of the slapping incidents. Peer-reviewed, Army War College.
    - Used for: Slapping incidents modern scholarship context
 
+5b. **Grumet, Gerald W. "General George S. Patton, Jr. and the Conquest of Fear."** *Psychological Reports* 105 (2009): 387-401.
+   - Significance: Peer-reviewed psychological analysis documenting Patton's lifelong struggle with fear and guilt in combat. Documents that "central to his success was his ability to control the fear and guilt inherent in combat." Reveals the psychological pattern underlying the slapping incidents.
+   - Used for: Slapping incidents psychological dimension, humanization (contributed by Pyle)
+
+5c. **D'Este, Carlo.** *Patton: A Genius for War.* HarperCollins, 1995.
+   - Significance: Major biography documenting Patton's private life including poetry (80+ poems, 1903-1945), dyslexia, and the "sensitivity that might seem at odds with the tough exterior." Though pre-2000, D'Este is a respected military biographer and primary biographer of record.
+   - Used for: Humanization of Patton's private life, poetry evidence, dyslexia documentation (contributed by Pyle)
+
 6. **Decker, Donald S. "Logistics and Patton's Third Army."** *Air & Space Power Journal* (Air University).
    - Available: https://www.airuniversity.af.edu/Portals/10/ASPJ/journals/Chronicles/decker.pdf
    - Significance: Detailed logistics analysis documenting supply shortages and their operational impact.

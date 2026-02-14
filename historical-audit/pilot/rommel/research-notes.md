@@ -139,16 +139,17 @@ The myth of Rommel as resistance hero served post-war German rehabilitation and 
 
 ---
 
-## 3. Statistical Verification Summary
+## 3. Statistical Verification Summary (Updated with Murrow verification 2026-02-14)
 
-| Claim | Status | Notes |
-|-------|--------|-------|
-| Ghost Division advanced 350km in 4 days | PARTIALLY VERIFIED | Speed was exceptional; exact figure needs divisional war diary confirmation |
-| Captured 97,000 prisoners (France 1940) | VERIFIED | Multiple sources confirm 97,648; some round to ~100,000 |
-| "Minimal losses" in France | VERIFIED | ~2,160 casualties, 42 tanks destroyed |
-| Drove British 500 miles in North Africa | LOOSELY ACCURATE | El Agheila to Egyptian border ~800km/500mi; not one continuous advance |
-| "Against superior numbers" (North Africa) | PARTIALLY TRUE | Numerical disadvantage existed but was not as extreme as mythology suggests; British equipment/coordination problems matter more |
-| "Nearly reaching the Suez Canal" | MISLEADING | Halted at El Alamein, still ~100km from Alexandria, much farther from Suez |
+| Claim | Status | Notes | Murrow Verification |
+|-------|--------|-------|---------------------|
+| Ghost Division advanced 350km in 4 days | PARTIALLY VERIFIED | Speed exceptional; day-by-day: 40mi Day 2, 18mi Day 3, 50mi subsequent | Precise "350km in 4 days" needs Kriegstagebuch; recommend qualifying as "hundreds of kilometers in days" |
+| Captured 97,000 prisoners (France 1940) | VERIFIED | Multiple independent sources confirm 97,648 | CONFIRMED -- most solid statistic, originates from divisional war diary |
+| "Minimal losses" in France | VERIFIED | ~2,160 casualties, 42 tanks destroyed | CONFIRMED -- consistent across sources |
+| Drove British 500 miles in North Africa | LOOSELY ACCURATE | First offensive March-April 1941 covered ~450 miles El Agheila to Egyptian border | Recommend: "approximately 450 miles" and note Tobruk was bypassed, not captured |
+| "Against superior numbers" (North Africa) | PARTIALLY TRUE | Numerical disadvantage existed but not as extreme as mythology; British coordination failures matter more | -- |
+| "Nearly reaching the Suez Canal" | MISLEADING | Halted at El Alamein, ~100km from Alexandria, much farther from Suez | CONFIRMED MISLEADING -- recommend "halted at El Alamein, approximately 100km from Alexandria" |
+| "Operating inside enemy's decision cycle" | VERIFIED CONCEPTUALLY | Modern analytical framework (Boyd OODA loop) applied retroactively; German concept: fingerspitzengefuhl | Analysis, not primary-source claim; recommend framing as modern military analysts' assessment |
 | Correctly predicted Normandy landing | DEBATED | Rommel advocated beach defense but the command structure dispute was more complex |
 
 ---
@@ -205,6 +206,37 @@ Based on verified historical record, Rommel's genuine competencies map to:
 - The "hotfix specialist" -- brilliant at speed, dangerous at scale
 
 This needs Pyle's humanization input and Murrow's statistical verification to finalize.
+
+---
+
+## 6. Pyle Humanization Findings (Integrated 2026-02-14)
+
+Pyle's ground-level research added six critical findings:
+
+**6.1 Hitler Relationship Earlier Than Shown**: Rommel appointed Hitler Youth liaison (1937), wrote to Lucie "The German Wehrmacht is the sword of the new German world view." Reuth: considered a "Parteigeneral." Pushes the timeline back two years from the bodyguard command (1939).
+
+**6.2 Estate Question Resolved**: Rommel apparently declined large landed estates (unlike Guderian), but received payments from "Konto 5" (Hitler's slush fund). Less corrupt than Guderian, but still within the patronage system. Payments cut off after July 20 Plot.
+
+**6.3 Forced Suicide Humanized**: New details: Manfred asked "Can't we protect ourselves?" Rommel replied "Better one to die than all of us to die in a gunfight." Lucie urged a trial instead. SS surrounded the house. These details transform documentary narrative into human reality.
+
+**6.4 Logistics Human Cost**: Halder sent von Paulus "to head off this soldier gone stark mad." Senior officers found his "emotional and chaotic leadership difficult to work with." "Hollow victories" framing documents the real cost of tactical overextension.
+
+**6.5 July 20 Plot Complexity**: Reuth's devastating assessment: "He had understood neither National Socialism, nor the resistance to it. Like millions of Germans he followed Hitler into disaster and whilst doing so he believed he was only doing his duty." Conspirators may have mistaken disillusionment for opposition.
+
+**6.6 War Crimes Nuance**: Showalter: "Rommel likely cared more for his career than he did about Nazi atrocities." Neither monster nor hero -- an officer whose conscience arrived too late.
+
+All findings integrated into profile-rommel.md.
+
+---
+
+## 7. Murrow Cross-Reference Notes (2026-02-14)
+
+Reviewed Murrow's Patton propaganda detection (10 patterns). Cross-cutting finding: propaganda reliability correlates inversely with subject's control over narrative:
+- Guderian: self-mythologized through memoir -> EXTREME propaganda
+- Patton: self-mythologized in real-time during operations -> HIGH propaganda
+- Rommel: myth built primarily by external parties -> HIGH propaganda (but different vector)
+
+Murrow's "Violent Execution" framing critique of Patton parallels my "Desert Fox" branding critique of Rommel -- both are mythology dressed as description.
 
 ---
 
