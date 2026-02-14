@@ -445,6 +445,8 @@ Von Manstein's 1949 war crimes trial, documented in British military court recor
 
 This is the hardest form of propaganda to detect, and it is the form we should expect from the most intelligent subjects. The pilot gave us tools for catching liars. Phase 2 requires tools for catching the careful.
 
+**Phase 2 Quick Reference (Orwell):** For Patterns 1-4, ask: is this claim true? For Pattern 5, ask: what is missing from this account that should be here?
+
 ### Category 4 Operationalized: The Halder Group
 
 Orwell provided the intelligence that fills the Category 4 gap. The US Army Historical Division's program (1946-1961), coordinated by Franz Halder, produced over 2,500 manuscripts from more than 700 former German officers. The program's stated purpose was Cold War military planning. Its effect was to give former Wehrmacht officers collective control over the historical narrative at exactly the moment when no one had political interest in challenging it.
