@@ -91,7 +91,7 @@ On D-Day (June 6, 1944), Rommel was in Germany. The divided command structure, n
 - Personal courage generating troop loyalty
 - Ability to exploit opponent weaknesses rapidly
 
-### Weaknesses (Documented by Modern Scholarship)
+### Weaknesses (Documented by Modern Scholarship and Peer Assessment)
 
 - Strategic blindness: could not connect tactical actions to strategic objectives (Citino, Addington, Barr, Beckett)
 - Logistics catastrophically neglected, contributing to Axis defeat in Africa (Citino)
@@ -100,6 +100,15 @@ On D-Day (June 6, 1944), Rommel was in Germany. The divided command structure, n
 - Could not distinguish tactical success from strategic progress
 - Coalition management failures (German-Italian friction in North Africa)
 - Operational planning weak compared to tactical execution
+
+**What His Superiors, Peers, and Staff Said:**
+
+- **Halder** (Chief of General Staff): Sent von Paulus to Africa "to head off this soldier gone stark mad." Concluded Rommel was "a madman with whom no one dared to cross swords because of his brutal methods and his backing from the highest levels."
+- **Kesselring** (Field Marshal, Mediterranean): Considered Rommel "a prima donna and the bane of his life." Complained Rommel "cruised about the battlefield" like a divisional commander rather than an army leader. Said Rommel "would run to Hitler behind his back."
+- **Italian commanders**: Found his "emotional and chaotic leadership difficult to work with."
+- **Gause and Westphal** (Rommel's own staff): Argued "in the African desert this method was often the only way to command effectively" -- a defense, but notable that a defense was needed.
+
+The pattern: superiors saw recklessness, peers saw a glory-seeking prima donna, coalition partners found him chaotic, and his protection came from Hitler personally -- not from institutional respect.
 
 **The Rommel Paradox**: A tactical commander who won battles that made the strategic situation worse. His speed and audacity created opportunities his logistics could not sustain and his strategy could not exploit.
 
@@ -141,7 +150,7 @@ Rommel was not a Nazi Party member. However, his relationship with the regime wa
 - **Mutual benefit**: "Hitler's choice of Rommel... and quick rise in rank demonstrated Hitler's confidence in him. Rommel too liked Hitler and appreciated the preferential treatment he received." Rommel noted that Hitler "is extraordinarily friendly to me."
 - **Propaganda cooperation**: Rommel actively participated in Nazi propaganda, including staging footage and cooperating with Goebbels's ministry. He brought personal cameramen to the front lines.
 - **Benefits from the regime**: Rommel's rapid promotion (from colonel to field marshal in 4 years) was facilitated by Hitler's personal favour, not standard military advancement.
-- **Financial patronage**: While Rommel apparently declined the large landed estates Hitler used to buy loyalty from senior officers (distinguishing him from Guderian, who accepted a 937-hectare stolen Polish estate), the Rommel family received payments from "Konto 5" -- Hitler's slush fund for favoured officers. These payments were cut off after the July 20 Plot. Less corrupt than some peers, but still within the regime's patronage system.
+- **Financial patronage**: Modern scholarship (Lieb) does not indicate Rommel received a large estate like those accepted by Guderian and other senior officers. He was invited to join the Lammers donation system in 1942, but whether he successfully objected cannot be confirmed from current archival sources. However, the Rommel family received payments from "Konto 5" -- Hitler's slush fund for favoured officers -- and these were cut off after the July 20 Plot. His rapid promotion from colonel to field marshal in four years was itself a form of patronage. Rommel was not clean -- he was less dirty than Guderian. That is a different claim than "honorable."
 
 ### War Crimes Context
 
