@@ -445,6 +445,58 @@ Von Manstein's 1949 war crimes trial, documented in British military court recor
 
 This is the hardest form of propaganda to detect, and it is the form we should expect from the most intelligent subjects. The pilot gave us tools for catching liars. Phase 2 requires tools for catching the careful.
 
+### Category 4 Operationalized: The Halder Group
+
+Orwell provided the intelligence that fills the Category 4 gap. The US Army Historical Division's program (1946-1961), coordinated by Franz Halder, produced over 2,500 manuscripts from more than 700 former German officers. The program's stated purpose was Cold War military planning. Its effect was to give former Wehrmacht officers collective control over the historical narrative at exactly the moment when no one had political interest in challenging it.
+
+This transforms the detection method. A general who wrote only a personal memoir is Category 1 -- individual self-mythologization with individual motives. A general who participated in the Halder Group is Category 4 -- the distortions are coordinated rather than individual, and the American institutional imprimatur gives them a credibility that a personal memoir lacks. When the US Army Historical Division publishes a German general's account, the source appears authoritative. The institutional stamp conceals the self-serving content.
+
+The detection question also changes. For Category 1, the question is: "What did this general leave out of his memoir?" For Category 4, the question is: "What did the Halder Group collectively agree to leave out of the record?" The omissions are not individual choices but consensus decisions about what the rehabilitated Wehrmacht narrative would include and exclude.
+
+**Phase 2 Triage Requirement:** Before researching any German general, determine whether they were a Halder Group participant. Von Manstein, Kesselring, and potentially others wrote within this framework. Halder Group participation elevates a general from Category 1 to Category 4 and requires the institutional detection method -- examining the coordinated narrative, not just the individual account.
+
+---
+
+## Orwell Contribution: Propaganda Detection Methodology Assessment
+
+### How "Who Built This Mythology?" Works in Practice
+
+The heuristic sounds simple. In practice it requires discipline, because the answer is never "nobody" and is rarely "one person." The Rommel investigation demonstrated this most clearly.
+
+I began with a standard question: does this profile contain propaganda? The answer was obviously yes -- the "Personally Honorable" label, the "Desert Fox" mythology, the missing ethical assessment. Any competent reader could identify these. The harder question was structural: why does this propaganda exist, who benefits from it, and why has it persisted for eighty years?
+
+The three-stage framework emerged from following that question through the Rommel case:
+
+**Stage 1 identification** required asking: what did the Nazi propaganda ministry need Rommel to be? Answer: a symbol of Wehrmacht competence for domestic morale. Evidence: Rommel cooperated with Goebbels's cameramen, staged footage, and benefited from the publicity. This stage is detectable because it is crude -- wartime propaganda serves immediate morale purposes and is not designed for historical scrutiny.
+
+**Stage 2 identification** required asking: what did the British need Rommel to be? Answer: an explanation for their own failures. Churchill praised Rommel before Parliament not from admiration but from political necessity -- if the opponent is a genius, British defeats become excusable. This stage is harder to detect because it was constructed by the opposing side, which gives it an appearance of objectivity. An enemy's praise seems more credible than an ally's. That appearance is itself propaganda.
+
+**Stage 3 identification** required asking: what did Cold War West Germany need Rommel to be? Answer: a "clean" German officer suitable for rehabilitating the Wehrmacht's reputation during rearmament. The 1951 film, the 1953 Rommel Papers edited by Liddell Hart, the political utility of a German officer who could be presented as honorable -- all served NATO alliance-building. This stage is the hardest to detect because it is institutional. It is not one person's lie but a collective political consensus embedded in respectable sources.
+
+The framework's power is that each stage predicts what kind of distortion to look for. Stage 1 distortions are exaggerations. Stage 2 distortions are misattributions. Stage 3 distortions are omissions. Different lies for different purposes.
+
+### The "Selective Conscience" Pattern
+
+This emerged from the Rommel investigation but applies broadly. The pattern: a military leader personally refuses one criminal order while remaining willfully blind to crimes occurring under their command. The refusal becomes the historical evidence of "honor" while the blindness is omitted.
+
+Rommel refused the Commando Order -- documented, verified by Lieb, not contested. Rommel did not intervene against rapes, executions, and racially motivated killings in his theatre of operations -- documented by Bernhard, not contested. Both facts are true simultaneously. The propaganda consists of emphasizing the first while omitting the second.
+
+This pattern should be treated as a standard detection template in Phase 2. When a profile cites a specific act of moral courage, immediately ask: what crimes were occurring simultaneously in the same command area? The act of courage is likely genuine. Its presentation as representative of the commander's overall character is likely propaganda.
+
+I expect this pattern in at least three Phase 2 subjects:
+
+- **Von Manstein**: Claimed ignorance of Einsatzgruppen operations in his command area despite documented cooperation. Convicted of war crimes in 1949. The memoir presents personal distaste for certain orders while cooperating with the system that issued them.
+- **Kesselring**: Convicted for the Ardeatine massacre reprisal order. His memoir presents himself as a humane commander forced into difficult decisions. Expect one act of clemency cited against a record of complicity.
+- **Model**: Ordered scorched earth operations on the Eastern Front. Whether he exhibited any selective conscience is an open research question.
+
+### Three Practical Refinements for Phase 2
+
+**1. The "comfortable myth" test.** Before beginning research, read the existing profile and ask: does this profile make me comfortable? If yes, it almost certainly contains propaganda. Comfortable myths persist because they are pleasant. Accurate history is rarely pleasant. The Rommel profile made me comfortable -- a brave, honourable officer who opposed Hitler and was tragically killed. Every element of that comfort was either false or misleading. Discomfort is a better starting indicator of accuracy than comfort.
+
+**2. The "who benefits now?" extension.** The three-stage framework asks who benefited historically. But some myths persist because they benefit someone in the present. The "clean Wehrmacht" myth benefits modern German national identity. The Patton mythology benefits American military self-image. When a myth survives challenge, ask who benefits from its survival today -- not just who built it originally.
+
+**3. The omission audit.** The most dangerous propaganda in the pilot was what the profiles did not say. The existing Rommel profile contained no ethical assessment section, no mention of his relationship with the Nazi regime, no discussion of the Einsatzgruppen Egypt planning. These omissions were not accidental -- they were the predictable result of sources that shared the same omissions. Every Phase 2 profile should begin with a checklist: does this profile discuss the subject's relationship with the regime they served? Does it document war crimes in their command area? Does it address their post-war narrative construction? If any answer is no, the omission itself is evidence of propaganda requiring investigation.
+
 ---
 
 ## Lessons for the Record
