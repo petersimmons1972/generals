@@ -407,17 +407,43 @@ The team lead approved an enhanced hybrid methodology for Phase 2. Based on pilo
 
 Orwell formalized this during the pilot, and the statistical evidence supports it completely. The principle: **The more control the subject had over his own narrative, the less reliable the historical record.**
 
-Applying this to the remaining 16 generals yields predictions:
+Orwell refined this into a four-category framework after the pilot, adding correction difficulty as a predictive dimension:
 
-| General | Narrative Control | Predicted Reliability | Priority |
-|---------|------------------|----------------------|----------|
-| von Manstein | HIGH (memoir *Lost Victories* 1955) | LOW | Phase 2 Batch 1 |
-| Model | LOW (no memoir, died 1945) | MEDIUM-HIGH | Standard verification |
-| Kesselring | HIGH (memoir *Soldat bis zum letzten Tag* 1953) | LOW | Batch 1 |
-| MacArthur | EXTREME (cultivated image, Reminiscences 1964) | VERY LOW | Batch 1 if in roster |
-| Yamashita | LOW (executed 1946, no memoir) | MEDIUM-HIGH | Check trial records |
+**Category 1 -- MEMOIR-BASED** (Guderian, von Manstein): The subject wrote the authoritative account. Gap is EXTREME because the memoir becomes the default source for all subsequent histories. When original military records were lost or classified, the memoir filled the vacuum and became the historical record by default. Correction requires locating primary documents that contradict the memoir -- the hardest investigative challenge.
 
-The principle is predictive. Generals who wrote memoirs require the deepest investigation. Generals who died before they could shape their narrative are more likely to have accurate existing profiles.
+**Category 2 -- REAL-TIME SELF-PROMOTION** (Patton): The subject shaped the narrative as events occurred. Gap is SIGNIFICANT because contemporary records exist to contradict the self-promotion. Patton's "fastest army in history" claim can be checked against After-Action Reports, allied commanders' accounts, and comparative operational data. The correction difficulty is moderate -- the evidence exists, it simply was not consulted.
+
+**Category 3 -- EXTERNALLY CONSTRUCTED** (Rommel): Others built the mythology for their own purposes. Gap is HIGH but RECOVERABLE because the myth-builders' motivations are themselves documented. Churchill's parliamentary speeches, Goebbels's propaganda directives, and Cold War rearmament politics all left paper trails that explain why the mythology was built and who benefited.
+
+**Category 4 -- INSTITUTIONAL** (Phase 2 -- untested): The mythology was built by military institutions for doctrinal or political purposes. Gap is UNKNOWN -- the pilot did not encounter this type. The Halder Group's rehabilitation of Wehrmacht reputation for American intelligence is the nearest analogue, but the pilot addressed its products (individual memoirs) rather than the institutional program itself.
+
+Applying this framework to the remaining 16 generals yields predictions:
+
+| General | Category | Predicted Reliability | Correction Difficulty | Priority |
+|---------|----------|----------------------|----------------------|----------|
+| von Manstein | 1 (Memoir) | LOW | EXTREME | Phase 2 Batch 1 |
+| Kesselring | 1 (Memoir) | LOW | EXTREME | Batch 1 |
+| MacArthur | 1+2 (Memoir + Real-time) | VERY LOW | EXTREME | Batch 1 if in roster |
+| Model | 3 (External) | MEDIUM-HIGH | MODERATE | Standard verification |
+| Yamashita | 3 (External) | MEDIUM-HIGH | MODERATE | Check trial records |
+
+The framework is predictive in two dimensions: it forecasts both the severity of the propaganda problem and the difficulty of correcting it. Von Manstein is the test case for Category 1 at its most extreme -- *Lost Victories* is the archetype of the memoir-as-legal-defense, and it should be the first assignment in Phase 2.
+
+### Methodological Gap: Sophisticated Omission vs. Falsifiable Lies
+
+Orwell identified a limitation in the pilot's verification tools that must be addressed before Phase 2 begins. The four patterns of statistical deception (Conflation, Context Stripping, Attribution Inflation, Unverifiable Precision) were developed against crude propaganda -- Guderian's flat denial of the Commissar Order, Patton's inflated casualty figures, Rommel's "war without hate." These are falsifiable claims with binary answers. The evidence either confirms or contradicts them.
+
+Von Manstein's *Lost Victories* operates differently. It is, by scholarly consensus, a more sophisticated work of self-justification. Its distortions are embedded in plausible narrative rather than in checkable claims. The technique is omission within a credible framework: what is left out of an otherwise reasonable account is harder to detect than what is falsely asserted within an unreasonable one.
+
+This means the pilot's verification methodology has a blind spot. It is optimized for **detecting lies** (claims that contradict evidence). It is not optimized for **detecting omissions** (truths that are absent from the record). Phase 2 requires a fifth verification pattern:
+
+**Pattern 5: Strategic Omission.** The memoir presents a coherent, plausible narrative that happens to exclude specific events, decisions, or contexts that would change the assessment. Detection requires not asking "Is this claim true?" but "What is missing from this account that the primary records show should be here?"
+
+The detection method for strategic omission is different from the other four patterns. It requires starting from the primary source record -- the trial transcripts, the operational orders, the war crimes documentation -- and working forward to the memoir, asking what was excluded. The memoir cannot be the starting point, because the omission is invisible from within the text. You must read what the man did not write, which means you must first know what happened.
+
+Von Manstein's 1949 war crimes trial, documented in British military court records, is the essential primary source. The trial record shows what von Manstein was accused of, what evidence was presented, and what he was convicted of. *Lost Victories*, published six years later, can then be read against that record. Where the memoir is silent about events that featured prominently in the trial, the omission is deliberate.
+
+This is the hardest form of propaganda to detect, and it is the form we should expect from the most intelligent subjects. The pilot gave us tools for catching liars. Phase 2 requires tools for catching the careful.
 
 ---
 
