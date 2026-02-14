@@ -109,7 +109,7 @@ Appointed the day after the July 20 Plot to replace conspirators. By this point,
 
 2. **"Apolitical Soldier" -- REFUTED:** After receiving a 937-hectare Polish estate (confiscated, tax-free, worth 1.24 million RM), Guderian became what Goebbels described as "a glowing and unqualified follower of the Fuhrer." Hart: "utterly loyal to the Nazi Reich; the gargantuan bribes cemented him to the regime."
 
-3. **Commissar Order Denial -- REFUTED by own records:** Guderian claimed the Commissar Order "never reached" his units. His own wartime report to OKW documented 170 commissars "shunted off" (executed). General Lemelsen confirmed the order came "directly from Guderian."
+3. **Commissar Order Denial -- REFUTED by own records:** Guderian claimed the Commissar Order "never reached" his units. His own wartime report to OKW documented 170 commissars "shunted off" (executed). General Lemelsen confirmed the order came "directly from Guderian." Since the wartime document was written when Guderian had no motive to fabricate executions he didn't order, and the memoir was written when he had every motive to deny executions he did order, the wartime document is the credible source.
 
 4. **"Principled Resistance" -- FABRICATED:** Hart found that Guderian "invented fierce arguments with Hitler that apparently never took place." His December 1941 dismissal was one of thirty-five that winter, not singular principled resistance.
 
@@ -142,8 +142,9 @@ The mutual mythologization with Liddell Hart added another layer: Hart asked Ger
 
 **Property Theft:**
 - Accepted a 937-hectare Polish estate (Deipenhof) confiscated from Polish owners
-- Polish owners were evicted; Guderian toured the area to select his preferred property
+- Polish owners were evicted; Guderian toured the Warthegau with a Gauleiter's staff to select his preferred property
 - Estate valued at 1.24 million Reichsmarks, tax-free for life
+- A man does not tour an occupied territory with a Nazi regional governor shopping for the right 937 hectares of stolen land and then claim he was uninvolved in politics
 
 ### Nazi Collaboration
 
