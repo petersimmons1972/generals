@@ -14,6 +14,19 @@ Read all publicly accessible full sources completely. Acknowledge paywalled limi
 
 ---
 
+## Search Methodology - Cost Optimization
+
+**PRIMARY SEARCH TOOL: SearXNG** (local instance)
+
+For web searches, use SearXNG instead of WebSearch tool:
+- **URL**: `https://searxng.petersimmons.com/search?q={query}&format=json`
+- **Cost**: WebFetch cheaper than WebSearch, search compute on local hardware
+- **Fallback**: If SearXNG unavailable, use WebSearch tool
+
+**See**: `../SEARXNG-INTEGRATION.md` for complete usage guide
+
+---
+
 ## What "Thorough" Means
 
 ### 1. Primary Sources - FULL READING REQUIRED
