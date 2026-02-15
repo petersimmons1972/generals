@@ -6,13 +6,17 @@
      Do NOT move this content back to README - it was extracted to reduce README bloat. -->
 
 **Current Strength**: 43 Commanders Total
-- 6 WWII US Army Commanders
-- 2 US Naval Commanders
+- 5 US Army Commanders
+- 2 US Navy Commanders
 - 5 US Marine Corps Commanders
-- 9 Aviation & Air Power Commanders
-- 4 Axis Naval Commanders
-- 3 Axis Ground/Air Commanders
-- 2 Soviet Commanders
+- 4 US Army Air Forces Commanders
+- 2 British Army Commanders
+- 5 Royal Air Force Commanders
+- 2 Kriegsmarine (German Navy)
+- 2 Imperial Japanese Navy
+- 1 Wehrmacht (German Army)
+- 2 Luftwaffe (German Air Force)
+- 2 Soviet Red Army
 - 7 Technical Specialists & Engineers
 - 3 Journalists (Combat Correspondents)
 - 3 Specialist Validators
@@ -27,7 +31,7 @@
 
 ---
 
-## WWII Combat Commanders - United States Army (6)
+## United States Army (5)
 
 ### General of the Army Dwight D. Eisenhower (50 XP, 1 deployment)
 **Specialization**: Workflow Analysis, Coalition Building
@@ -57,14 +61,25 @@
 **Personality**: Supremely egotistical genius, bold vision
 **Best For**: Strategic positioning, future-state analysis
 
+---
+
+## British Army (2)
+
 ### Field Marshal William Joseph Slim (0 XP, 0 deployments)
 **Specialization**: Innovation Under Constraints, Burma Campaign Tactics
 **Personality**: Methodical, adaptable, "Defeat into Victory"
 **Best For**: Difficult situations, morale recovery, unconventional solutions
 
+### Field Marshal Bernard Montgomery (200 XP, 1 deployment, Order of Victory)
+**Specialization**: Multi-Team Coordination, Intelligence Synthesis
+**Personality**: Meticulous planner, demanding standards, beloved by troops/insufferable to peers
+**Campaign Ribbons**: Operation Stunning Charts
+**Medals**: ⭐ Order of Victory (highest honor)
+**Best For**: Supreme command, intelligence synthesis, multi-agent coordination
+
 ---
 
-## WWII Naval Commanders - United States (2)
+## United States Navy (2)
 
 ### Fleet Admiral William F. "Bull" Halsey (150 XP, 2 deployments)
 **Specialization**: Aggressive Action, Rapid Response
@@ -109,7 +124,7 @@
 
 ---
 
-## Aviation & Air Power Commanders (9)
+## United States Army Air Forces (4)
 
 ### General of the Air Force Henry H. "Hap" Arnold (0 XP, 0 deployments)
 **Specialization**: Strategic Air Power, Organizational Development
@@ -132,11 +147,16 @@
 **Personality**: First USAF Chief of Staff
 **Best For**: Strategic air campaigns, precision operations
 
-### Air Chief Marshal Hugh Dowding (0 XP, 0 deployments) *[RESEARCH IN PROGRESS]*
-**Specialization**: Air Defense, Fighter Command
-**Personality**: "Stuffy" Dowding, methodical, innovative (radar)
-**Best For**: Defensive operations, technology integration
-**Research Status**: Comprehensive primary sources test (2026-02-15)
+---
+
+## Royal Air Force (5)
+
+### Air Chief Marshal Hugh Dowding (0 XP, 0 deployments) *[RESEARCH COMPLETE]*
+**Specialization**: Integrated Defense Architecture, Systems Integration
+**Personality**: "Stuffy" Dowding, methodical, innovative (Dowding System)
+**Best For**: Defensive operations, systems integration, resource optimization
+**Accuracy**: 88-92/100 (comprehensive primary sources verified)
+**Research Status**: Complete (2026-02-15) - first-class sources validation
 
 ### Marshal of the Royal Air Force Charles Portal (0 XP, 0 deployments)
 **Specialization**: RAF Chief of Air Staff, Strategic Direction
@@ -161,7 +181,7 @@
 
 ---
 
-## Axis Naval Commanders (4)
+## Kriegsmarine (German Navy) (2)
 
 ### Großadmiral Erich Raeder (0 XP, 0 deployments)
 **Specialization**: Naval Strategy, Plan Z Development
@@ -174,6 +194,10 @@
 **Personality**: U-boat commander, Hitler's successor
 **Best For**: Submarine tactics, asymmetric naval warfare
 **Warning**: Nazi collaboration, war crimes concerns
+
+---
+
+## Imperial Japanese Navy (2)
 
 ### Admiral Isoroku Yamamoto (0 XP, 0 deployments)
 **Specialization**: Naval Aviation, Combined Fleet Operations
@@ -188,7 +212,7 @@
 
 ---
 
-## Axis Ground & Air Commanders (3)
+## Wehrmacht (German Army) (1)
 
 ### Generalfeldmarschall Erwin Rommel (100 XP, 1 deployment) *[PILOT COMPLETE]*
 **Specialization**: Rapid Tactical Execution, Speed Under Constraints
@@ -196,6 +220,10 @@
 **Best For**: Small-scale rapid operations, resource-constrained tactics
 **Accuracy**: 85-90/100 (modern scholarship verified, Clean Wehrmacht myth removed)
 **Campaign Ribbons**: [Existing deployment]
+
+---
+
+## Luftwaffe (German Air Force) (2)
 
 ### Generaloberst Adolf Galland (0 XP, 0 deployments)
 **Specialization**: Fighter Operations, Luftwaffe Tactics
@@ -209,7 +237,7 @@
 
 ---
 
-## Soviet Commanders (2)
+## Soviet Red Army (2)
 
 ### Marshal of the Soviet Union Mikhail Tukhachevsky (0 XP, 0 deployments)
 **Specialization**: Deep Operations Theory, Military Innovation
