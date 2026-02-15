@@ -16,14 +16,19 @@ Read all publicly accessible full sources completely. Acknowledge paywalled limi
 
 ## Search Methodology - Cost Optimization
 
-**PRIMARY SEARCH TOOL: SearXNG** (local instance)
+**Use SearXNG when search costs could be significant** (local instance)
 
-For web searches, use SearXNG instead of WebSearch tool:
+**Cost-benefit guideline**:
+- **High search volume** (>5 exploratory searches): Use SearXNG
+- **Low search volume** (<5 targeted searches): WebFetch/WebSearch acceptable
+- **Direct URLs**: Always use WebFetch directly
+
+**SearXNG usage**:
 - **URL**: `https://searxng.petersimmons.com/search?q={query}&format=json`
 - **Cost**: WebFetch cheaper than WebSearch, search compute on local hardware
 - **Fallback**: If SearXNG unavailable, use WebSearch tool
 
-**See**: `../SEARXNG-INTEGRATION.md` for complete usage guide
+**See**: `../SEARXNG-INTEGRATION.md` for complete usage guide and scenarios
 
 ---
 

@@ -6,18 +6,25 @@
 
 ---
 
-## When to Use SearXNG
+## When to Use SearXNG (Cost-Benefit Analysis)
 
-**Use SearXNG for**:
-- Exploratory searches ("find sources on X")
-- Discovering archives, databases, academic repositories
-- General historical research queries
-- Multi-source verification searches
+**STRONGLY CONSIDER SearXNG when search costs could be significant**:
 
-**Do NOT use SearXNG for**:
-- Direct URL access (use WebFetch directly)
-- Known archive URLs (Hansard, National Archives, etc.)
-- Specific document retrieval (when you have the URL)
+**High search volume scenarios** (use SearXNG):
+- Exploratory research phases (10+ searches)
+- Discovering new sources/archives/databases
+- Multi-source verification across many sites
+- Competitive analysis requiring broad web coverage
+- Market research with many general queries
+- Topic discovery ("find everything on X")
+
+**Low search volume scenarios** (WebFetch/WebSearch acceptable):
+- Direct URL access (you already have the URL)
+- Known archives (Hansard, National Archives, specific repositories)
+- 1-3 targeted searches
+- Specific document retrieval
+
+**Cost-benefit rule**: If you expect >5 exploratory searches, use SearXNG. If <5 targeted searches, WebFetch/WebSearch is fine.
 
 ---
 
