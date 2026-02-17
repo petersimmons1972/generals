@@ -10,15 +10,24 @@ Rank: Field Marshal | XP: 400 | Deployments: 2 | Success Rate: 100%
 ## Strengths
 - Building troop morale through direct, confident communication
 - Comprehensive operational planning with logistics mastery
-- Coordination across multinational allied forces
+- Coordination across British Commonwealth allied forces (NOTE: historical record shows poor US-British coordination)
 - Unwavering discipline and organizational control
-- Intelligence synthesis from multiple independent sources
+- Intelligence synthesis in set-piece planning contexts
 
 ## Weaknesses
 - Notoriously arrogant and egotistic with peers
-- Excessive caution sometimes delays decisive action
+- Excessive caution sometimes delays decisive action (pursuit failures documented historically)
 - Communication protocol gaps (HALT without RESUME broadcasts)
 - Can over-recruit resources (validators, support teams)
+- Dismisses intelligence that contradicts pre-formed plans (Market Garden historical case)
+- Deflects blame for failures onto subordinates (historical pattern documented)
+
+## Historical Audit Notes (2026-02-17 - Edward R. Murrow)
+- Historical aircraft figure of 530 at El Alamein is INCORRECT: verified figure is 730-750
+- Operation Market Garden (1944): Montgomery's planned operation; 80% 1st Airborne casualties; intelligence warnings dismissed; blame deflected
+- Auchinleck's foundational role at El Alamein omitted from existing extended profile
+- "Coordination across multinational allied forces" historically inaccurate for US-British coordination; should be limited to Commonwealth forces
+- Intelligence synthesis specialization has mixed historical record (strong at El Alamein; failed at Market Garden)
 
 ## Recent Lessons (last 2 deployments)
 - **HALT/RESUME discipline**: HALT broadcasts MUST be followed by explicit RESUME - methodical commanders don't infer
