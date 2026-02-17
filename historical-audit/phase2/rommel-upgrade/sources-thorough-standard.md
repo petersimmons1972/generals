@@ -298,3 +298,125 @@
 ---
 
 *"I have no hesitation in giving my opinion... The question is: do I have access to the evidence needed to form that opinion honestly?" - Edward R. Murrow (adapted)*
+
+---
+
+# DAY 2 SOURCES ADDITIONS (2026-02-17)
+
+## New Sources Accessed
+
+### Open University - "The Moral Equality of Combatants"
+**URL**: https://www.open.edu/openlearn/history-the-arts/the-moral-equality-combatants/content-section-8.1
+**Access level**: FULL TEXT
+**Reliability tier**: 7 (educational synthesis)
+**Evidence extracted**:
+- "It was Rommel who burned the Commando Order issued by Hitler on 28 October 1942, which laid down that all enemy soldiers encountered behind the German line were to be killed at once"
+- CRITICAL QUALIFIER: Article explicitly attributes this to "one biographer after another" - NOT to primary sources
+- This "burned the order" narrative is biographer tradition, not primary documentation
+**Significance**: Downgrade "burned the Commando Order" from secondary scholarly claim to biographer tradition claim
+
+### Britannica - "Erwin Rommel: Normandy and Conspiracy"
+**URL**: https://www.britannica.com/biography/Erwin-Rommel/Normandy-and-conspiracy
+**Access level**: FULL TEXT
+**Reliability tier**: 6 (major reference work)
+**Evidence extracted**:
+- "the men who wanted to extricate Germany from the war never revealed to Rommel that they planned to assassinate Hitler"
+- "They knew that Rommel did not accept the idea of murder for political ends; he had invariably disregarded any execution orders given to him by Hitler"
+- Conspirators approached Rommel in spring 1944, suggesting he take over as head of state after Hitler's overthrow
+**Significance**: Conspirators' own strategy confirms Rommel's consistent refusal of murder orders AND explains why he was not a full conspiracy participant - they knew he would not accept assassination
+
+### USHMM - Full text re-accessed with specific focus
+**URL**: https://encyclopedia.ushmm.org/content/en/article/erwin-rommel
+**Access level**: FULL TEXT
+**Reliability tier**: 5
+**New extractions (Day 2)**:
+- "It appears that friends and historians alike attempted to portray Rommel's involvement as greater and more committed than it actually was."
+- "Rommel had some connections to the plotters but was not involved in detailed planning."
+- "Based on the evidence, Rommel was sympathetic but was neither a central player nor willing to take decisive action in support of the conspiracy."
+- "it is true that he flatly refused to carry out several criminal orders issued by his superiors, such as the execution of Black soldiers and Free French fighters" - NOTE: USHMM does NOT mention the Commando Order specifically; documents OTHER refused orders
+- Einsatzgruppen Egypt: "No evidence exists to record Rommel's position on the proposed measure, but he was certainly aware that planning was taking place"
+- "This does not mean, however, that he was ignorant of anti-Jewish policy and the 'Final Solution'"
+
+### Tropics of Meta - "The Mirage of the Desert Fox"
+**URL**: https://tropicsofmeta.com/2017/07/20/the-mirage-of-the-desert-fox-erwin-rommel-and-the-whitewashing-of-the-nazi-past/
+**Access level**: FULL TEXT
+**Reliability tier**: 6 (analytical secondary)
+**Evidence extracted**:
+- Speidel's Gestapo testimony was made "under duress of torture" and later recanted: "After the war, Speidel denied that he had implicated Rommel"
+- Speidel deliberately shaped postwar narrative: "I intended to make Rommel a national hero of the German people" (statement to General Geyr von Schweppenburg)
+- Joachim Fest: "the conspirators never succeeded in winning Erwin Rommel...to their cause"
+- "Bormann believed in Rommel's involvement; Goebbels doubted it" - even within Nazi leadership, evidence was contested
+
+### West Point Military Institute - "The Desert Fox and His Intercepts"
+**URL**: https://mwi.westpoint.edu/the-desert-fox-and-his-intercepts-lessons-for-todays-us-army/
+**Author**: Major Matthew V. Powell
+**Access level**: FULL TEXT
+**Reliability tier**: 5 (professional military scholarship)
+**Evidence extracted**:
+- Battle of Sollum (June 1941): Rommel noted intercepted British wireless messages describing their "very serious" position
+- Operation Battleaxe (June 1941): Signals intercepts revealed "the exact distribution of attacking troops"
+- Battle of Gazala (May 1942): Intercepts about British command climate allowed Rommel to predict enemy responses
+- Rommel's tactical decision-making was substantially intelligence-enabled
+
+### HistoryNet - "Intercepted Communications for Field Marshal Erwin Rommel"
+**URL**: https://www.historynet.com/intercepted-communications-for-field-marshal-erwin-rommel/
+**Access level**: FULL TEXT
+**Reliability tier**: 6 (military history journalism)
+**Evidence extracted**:
+- Bonner Frank Fellers (US military attaché Cairo) unknowingly provided Rommel with Allied tactical information via compromised Black Code cipher
+- Italian intelligence obtained the Black Code after break-in at US embassy Rome (September 1941)
+- Rommel called this *"die gute Quelle"* ("the good source")
+- "Within an hour of their transmission from Cairo, the colonel's Black Code messages found their way to German cryptanalysts' desks"
+- Advantage lasted until June 29, 1942 (German radio broadcast inadvertently exposed breach)
+- Assessment: "the Fellers intercepts had 'provided Rommel with undoubtedly the broadest and clearest picture of enemy forces and intentions available to any Axis commander'"
+
+### Warfarehistorynetwork - "Operation Flipper"
+**URL**: https://warfarehistorynetwork.com/article/operation-flipper-british-commandos-take-on-general-erwin-rommel/
+**Access level**: FULL TEXT
+**Reliability tier**: 6 (military history journalism)
+**Evidence extracted**:
+- After Operation Flipper (November 1941 British commando raid on supposed Rommel HQ), Rommel "ordered that the captured British commandos be treated as prisoners of war, even though the men were not in uniform"
+- He sent personal chaplain Rudolf Dalmrath "36 hours" journey to conduct funeral for Keyes and German soldiers
+- Honor guard, wreaths, three salvos fired, cypress wood crosses erected
+- This occurred BEFORE the formal Commando Order (October 1942) but is the most documented operational example of his treatment of commandos
+
+### Norman Goda - "Black Marks: Hitler's Bribery of His Senior Officers"
+**Publication**: Journal of Modern History, Vol. 72, No. 2 (June 2000), pp. 413-452
+**Access level**: PAYWALLED - secondary citations only
+**Reliability tier**: 4 (post-2000 peer-reviewed scholarship)
+**Evidence via secondary citations**:
+- Wikipedia entry explicitly references "Rommel as a recipient of Hitler's donations"
+- Gerhard Weinberg characterization: "a vast secret program of bribery involving practically all at the highest levels of command"
+- Officers received "a lifetime exemption from paying income tax" and monthly payments
+
+### World History Encyclopedia - "The 1944 Plot to Assassinate Hitler"
+**URL**: https://www.worldhistory.org/article/2584/the-1944-plot-to-assassinate-hitler/
+**Access level**: FULL TEXT
+**Reliability tier**: 6 (educational reference)
+**Evidence extracted**:
+- Rommel "implicated when mentioned by a delirious Stülpnagel" - General von Stülpnagel's statements made "while in a confused medical state" after attempted suicide
+- Article characterizes Rommel's connections as "only remote connections to the plot"
+
+### Peter Lieb - "Erwin Rommel: Widerstandskämpfer oder Nationalsozialist?"
+**Publication**: In "Mass Violence in Nazi-Occupied Europe" (edited volume, 2006)
+**Access level**: CITED in secondary sources only; full text NOT accessed
+**Reliability tier**: 4 (post-2000 academic scholarship) - NOT DIRECTLY READ
+**Evidence via secondary citations**:
+- University of Reading (CentAUR, 2019): "Peter Lieb has concluded that Rommel most probably did defy some Führer orders"
+- Qualifying language: "most probably" - not certainty
+- Title translates as "Erwin Rommel: Resistance Fighter or National Socialist?" - indicating nuanced assessment
+
+## Updated Source Tier Summary (Day 2)
+
+| Source | Tier | Access | Key Finding |
+|--------|------|--------|-------------|
+| Open University (Commando Order) | 7 | FULL | "Burned order" = biographer tradition, NOT primary source |
+| Britannica (Normandy/Conspiracy) | 6 | FULL | Conspirators withheld assassination plans because Rommel refused murder |
+| USHMM (re-accessed) | 5 | FULL | Refused execution of Black soldiers/Free French (not Commando Order specifically) |
+| Tropics of Meta | 6 | FULL | Speidel coerced, later recanted; deliberately shaped postwar narrative |
+| West Point (Intercepts) | 5 | FULL | Three documented cases of intelligence-driven tactical decisions |
+| HistoryNet (Fellers) | 6 | FULL | Black Code gave Rommel broadest enemy intelligence of any Axis commander |
+| Warfarehistorynetwork (Flipper) | 6 | FULL | Concrete operational evidence of Rommel treating commandos as POWs |
+| Goda (2000) | 4 | PAYWALLED | Rommel confirmed as recipient of Hitler's financial gifts |
+| World History Encyclopedia | 6 | FULL | Stülpnagel's evidence = delirium state statements |
+| Lieb (2006) | 4 | NOT ACCESSED | "Most probably" defied some Führer orders - qualifying language |
