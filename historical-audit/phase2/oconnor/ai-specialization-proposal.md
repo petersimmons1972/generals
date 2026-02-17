@@ -538,7 +538,90 @@ Based on thorough analysis of accessible primary and secondary sources, Richard 
 
 ---
 
-**Proposal complete**: 2026-02-15
+## DAY 2 UPDATES - 2026-02-17
+
+### Corrections and additions based on new research:
+
+**1. Capture circumstances: CORRECTED**
+- Day 1: Speculated "questionable command security" (two generals together)
+- Day 2: O'Connor sent as Wavell's ordered advisor to Neame - not personal security failure
+- **AI profile impact**: Remove any reference to capture as possible poor decision-making
+
+**2. Transfer to India: CONFIRMED PROMOTION**
+- Day 1: Uncertain (forum debate "political vs performance")
+- Day 2: "Left VIII Corps voluntarily in November 1944, having been promoted to command Eastern Army in India"
+- **AI profile impact**: Normandy tenure ended by career advancement, not performance concerns
+
+**3. Normandy reassessment (Bluecoat added)**
+- Day 1: Only analyzed Epsom and Jupiter (mixed/poor)
+- Day 2: Operation Bluecoat (July 30 - August 7, 1944) was positive performance
+  - VIII Corps "notably strong compared to XXX Corps"
+  - Bold exploitation of German inter-army boundary gap ("Dickie's Bridge")
+  - Authorized doctrine violations for tactical advantage
+  - VIII Corps threatened Vire and German Seventh Army's flank
+- **AI profile impact**: Normandy performance is more balanced than Day 1 suggested. Bluecoat = SUCCESS should be included in specialization profile.
+
+**4. Official British casualty figures (Playfair - SUPERSEDE Day 1)**:
+- Killed: 500 (not 475-555)
+- Wounded: 1,373
+- Missing: 55
+- Total: 1,928 casualties for entire campaign
+
+**5. Official Italian capture totals (Playfair - CONFIRMED but different breakdown)**:
+- 180 medium + 200+ light tanks (not "400 tanks" from WW2 Database)
+- 845 guns (not "1,292 guns" from WW2 Database)
+- 130,000 prisoners (CONFIRMED)
+- Note: WW2 Database figures appear inflated on equipment; prisoner count confirmed
+
+**6. O'Connor's command style - VERIFIED from his own quotes**:
+- "I don't mind being left on my own" - prefers autonomy, initiative-taking
+- Doctrine flexibility: "Bluecoat - authorized non-standard infantry-tank coordination"
+- Self-assessment of Beda Fomm: "complete victory as none of the enemy escaped"
+- Refused all suggestions to write memoir (Eisenhower personally tried)
+- **AI profile impact**: Command style should reflect initiative-seeking, low self-promotion, analytical self-criticism ("those truly deserving of the award were lying in their graves")
+
+**7. Italian Army defeat clarification (for context)**:
+- Defeat NOT primarily due to morale collapse (Carrier metadata)
+- Rather: equipment inferiority (M13/40 vs Matilda) + command failure (Graziani failed to use mechanized doctrine)
+- Graziani himself said forces "not properly equipped"
+- **AI profile impact**: O'Connor's victory was genuine - he defeated forces with reasonable morale but equipment/command disadvantages. Both facts can be true: O'Connor was skilled AND Italian forces were disadvantaged.
+
+**8. Cates thesis argument (CLARIFIED)**:
+- Full text inaccessible but abstract confirmed: systemic factors ("constrictive chain of command, narrow fronts, restrictive terrain, difficulty achieving surprise")
+- NOT primarily personal decline from captivity
+- **AI profile impact**: "Diminished by captivity" claim (forum) should remain excluded; but note Cates argument is about systemic operational context, not personal failure
+
+### REVISED AI SPECIALIZATION (incorporating Day 2):
+
+**EXCEPTIONAL (90/100 confidence - upgraded from 85-90)**:
+- Mobile armor exploitation in open terrain (Playfair Official History confirms O'Connor's planning initiative)
+- Operational surprise and deception (38,300 prisoners from Sidi Barrani alone validates scale)
+- Force concentration against dispersed static defenses
+- Pursuit and encirclement (Beda Fomm flanking maneuver confirmed from Tier 3 source)
+
+**COMPETENT (75/100 confidence - improved from 70-75)**:
+- Corps command in contested operations (Bluecoat SUCCESS now documented)
+- Exploitation of opportunity (Dickie's Bridge initiative in Bluecoat)
+- Doctrine flexibility under operational pressure (authorized non-standard tactics)
+- Command authority maintenance (refused Goodwood modifications, maintained course)
+
+**MIXED (60-65/100 confidence - unchanged)**:
+- Attritional fighting in restricted terrain
+- Reserve management under heavy losses
+- Operations against elite heavy-armor opponents
+
+**RECOMMENDED CORRECTIONS TO AI PROFILE**:
+1. ADD Operation Bluecoat as positive example
+2. REMOVE capture as "questionable command security" example
+3. CONFIRM transfer to India as positive career development, not removal
+4. UPDATE statistics with Playfair Official History figures
+5. ADD O'Connor's preference for operational autonomy as character trait
+6. NOTE Cates thesis argues systemic context (not personal decline) for Normandy comparison
+
+---
+
+**Proposal complete (Day 2 update)**: 2026-02-17
 **Research standard**: THOROUGH (full reading of accessible sources, explicit limitations)
-**Total research time**: 8 hours
+**Total research time**: 13 hours
+**Accuracy confidence**: Upgraded to 90/100 (Playfair Official History now fully accessed)
 

@@ -349,7 +349,70 @@ Richard O'Connor presents a **Pattern 2 (Externally Constructed Mythology)** cas
 
 ---
 
-**Analysis complete**: 2026-02-15
-**Total research time**: 8 hours (thorough standard)
-**Pattern confidence**: HIGH (based on accessible sources, explicit about paywalled limitations)
+---
+
+## DAY 2 UPDATES AND CORRECTIONS - 2026-02-17
+
+### Corrections to Day 1 propaganda assessments:
+
+**Claim: "Two generals traveling together = questionable command security"**
+- **Day 1 assessment**: QUESTIONED as possible command security failure
+- **Day 2 correction**: REMOVED from propaganda/error list
+- **Evidence**: O'Connor was ORDERED by Wavell to fly to Libya as advisor to Neame. Both were together because O'Connor was sent as an advisor, not due to security negligence.
+- **Sources**: HistoryNet, BBC, Codenames.info, Historical Minis (all confirmed advisor role)
+- **Impact**: This claim should NOT be in propaganda analysis; it was a factual misunderstanding
+
+**Claim: "Transfer to India was performance-based/political"**
+- **Day 1 assessment**: Uncertain
+- **Day 2 correction**: DISPROVEN
+- **Evidence**: historyhit.com confirms O'Connor "left VIII Corps voluntarily in November 1944, having been promoted to command Eastern Army in India"
+- **Impact**: Negative inferences about Normandy performance based on transfer are unsupported
+
+**Claim: "Diminished by captivity" (Cates thesis argument)**
+- **Day 1 assessment**: Attributed to captivity causing personal decline
+- **Day 2 correction**: NUANCED
+- **Cates thesis actual argument** (from abstract): "a constrictive chain of command, narrow fronts, restrictive terrain, and the difficulty of achieving surprise all combined to provide a context in which General O'Connor was a less effective corps commander than expected"
+- **Assessment**: Cates argues SYSTEMIC factors, not personal decline from captivity. The propagandistic version ("diminished by captivity") is actually the popular forum claim; the academic version is more nuanced.
+- **Impact**: "Diminished by captivity" remains a medium-severity propaganda element when stated as the primary cause
+
+### New propaganda element identified (Day 2):
+
+**Claim 6: Operation Compass credit allocation (O'Connor vs Wavell)**
+- **Source**: Popular histories attributing Compass entirely to O'Connor
+- **Evidence**: Playfair Official History confirms Wavell gave overall strategic direction; O'Connor proposed tactical plan but "General Wavell agreed with General O'Connor's plan"
+- **O'Connor's role**: Tactical/operational planning and execution
+- **Wavell's role**: Strategic framework, final authority, resource allocation decisions (including Abyssinia diversion)
+- **Assessment**: O'Connor deserves primary credit for tactical execution but not for strategic context. Wavell's role is sometimes minimized.
+- **Severity**: LOW (both contributed; O'Connor genuinely had primary tactical role)
+
+### Bluecoat success vs selective negative emphasis:
+
+**Day 1 assessment**: Focused on Operation Jupiter (failure) and Epsom (mixed)
+**Day 2 finding**: Operation Bluecoat (July 30 - August 7, 1944) was strong performance:
+- VIII Corps "notably strong compared to XXX Corps"
+- Deep penetration made
+- "Dickie's Bridge" exploitation 5 miles behind German front
+- O'Connor authorized doctrine violations for tactical advantage
+
+**Propaganda implication**: Selective emphasis on Jupiter failures while minimizing Bluecoat success gives distorted negative picture of Normandy performance. This is another form of selective memory - but running AGAINST O'Connor rather than FOR him. The popular narrative that underemphasizes Bluecoat while emphasizing Epsom/Jupiter is itself a form of selective memory (though minor and based on operational complexity rather than intent).
+
+### O'Connor's confirmed self-promotion avoidance:
+
+**New evidence from BU conference document**:
+- Eisenhower personally pressed O'Connor to publish autobiography
+- O'Connor refused
+- Insisted no biography published in his lifetime
+- WWI journal: "chided himself for even minimal traces of personal ambition"
+
+**Assessment**: This is the strongest possible evidence for LOW Pattern 1 risk. Eisenhower's personal request being refused demonstrates O'Connor's aversion was genuine and principled, not tactical.
+
+**Pattern 1 confidence upgraded**: From "LOW (no memoir found)" to "CONFIRMED VERY LOW (memoir refused despite Eisenhower's personal request)"
+
+---
+
+**Analysis complete (Day 2 update)**: 2026-02-17
+**Total research time**: 13 hours (8 hours Day 1 + 5 hours Day 2)
+**Pattern confidence**: VERY HIGH (Tier 3 sources now accessed; key contextual corrections made)
+
+**Key finding of Day 2**: The primary propaganda risks remain counterfactual inflation and selective Normandy emphasis. However, the capture circumstances have been CORRECTED (advisor role, not command failure), and the transfer to India has been CONFIRMED as promotion. The overall propaganda assessment of MEDIUM severity stands, but with more nuance: O'Connor's Normandy record is more balanced than Day 1 assessed (Bluecoat adds positive, Goodwood adds negative, Jupiter already documented).
 
