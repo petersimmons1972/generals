@@ -1,0 +1,38 @@
+{
+  "variantId": "selector",
+  "commander": "Brigadier General William Mitchell",
+  "voice": "Experimental, modern, future-forward",
+  "emotionalRegister": "Innovative confidence, forward-looking",
+  "transformations": {
+    "headline": "Choose Your Security Future",
+    "tagline": "[ ] 20+ years experience [✓] Modern approach [ ] Future-ready expertise — All three? That's what you get.",
+    "aboutIntro": "**Select your security partner:**\n\n[✓] 20+ years enterprise security experience\n[✓] Senior Sales Engineer @ SentinelOne (Nov 2021-Present)\n[✓] 16 years @ McAfee (SR Enterprise Sales Engineer)\n[✓] 3 DOW 30 conversions\n[✓] $50M revenue managed\n[✓] 500,000+ endpoint scale proven\n\n**Your choice:** Traditional security consultant OR forward-thinking partner who combines proven experience with modern innovation. Why not both?",
+    "experience": "**Choose your evaluation criteria:**\n\n[Enterprise Conversion Track Record]\n→ 3 DOW 30 companies converted from competitive platforms\n→ Systematic evaluation methodology\n→ Fortune 50 validation\n\n[Revenue Leadership]\n→ $50M annual regional revenue\n→ 6+ major enterprise accounts\n→ 100,000+ endpoints per account\n\n[Technical Scale]\n→ 500,000+ endpoint deployment (largest customer)\n→ Enterprise architecture proven at scale\n→ Performance validated in production\n\n[Thought Leadership]\n→ Conference speaker (highest attendance outside keynotes)\n→ Technical documentation author\n→ Modern communication approach\n\n**Select all that matter to you** → Get all of them.",
+    "education": "**Educational Foundation:**\n\n[✓] Bachelor of Business Administration\n[✓] Computer Information Systems major\n[✓] Georgia State University, Atlanta, GA\n[✓] Technical + Business perspective combined\n\n**Result:** Balanced approach to modern security challenges",
+    "currentRole": "**Current Position (2021-Present):**\n\n[ Company ] SentinelOne\n[ Role ] Senior Sales Engineer\n[ Duration ] November 2021 - Present\n[ Focus ] Next-generation endpoint security\n[ Approach ] Modern consultation for forward-thinking organizations\n\n**What this means:** Choose a partner who understands where security is heading, not just where it's been.",
+    "previousRole": "**Previous Experience (2005-2021):**\n\n[ Company ] McAfee\n[ Role ] SR Enterprise Sales Engineer\n[ Duration ] 16 years (April 2005 - November 2021)\n[ Achievement ] Built foundation, proved methodology, earned trust\n[ Evolution ] Traditional security → Modern approach\n\n**Key lesson:** Security requires evolving with threats, not standing still.",
+    "approach": "**Select your engagement model:**\n\n[Reactive] → Wait for breach, respond after damage\n[Proactive] → Monitor continuously, respond to indicators\n[Resilient] → Assume compromise, minimize blast radius, recover rapidly\n\n**Recommendation:** [✓] Resilient\n\n**How we get there:**\n1. Discovery → Understand current position\n2. Architecture → Design future-state security\n3. Validation → Test with modern threat scenarios\n4. Implementation → Deploy with continuous improvement built-in\n5. Evolution → Adapt as threat landscape changes\n\n**Your security posture isn't static. Choose a partner who evolves with you.**",
+    "cta": {
+      "primary": "Choose your security future.",
+      "secondary": "Select your approach.",
+      "tertiary": "Decide what's next."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Modern, punchy. Choice-oriented.",
+    "Word choice: Future language, innovation signals, choice metaphors",
+    "Tone: Forward-thinking, experimental confidence",
+    "POV: Choice-driven ('You choose...', 'Select your...')",
+    "Pacing: Interactive, choice-branching"
+  ],
+  "exampleContent": {
+    "serviceDescription": "**Choose your security focus:**\n\n[Enterprise Architecture]\n→ EDR/XDR for 100,000+ endpoints\n→ SIEM integration and threat intelligence\n→ Multi-cloud security (AWS | Azure | GCP)\n→ Modern architecture for evolving threats\n\n[Infrastructure Automation]\n→ Kubernetes security and orchestration\n→ Terraform Infrastructure-as-Code\n→ Ansible configuration management\n→ CI/CD security integration\n→ Future-ready infrastructure\n\n[AI-Powered Security]\n→ 1,000+ hours AI automation development\n→ LLM orchestration for security operations\n→ Intelligent workflow automation (n8n)\n→ Next-generation security operations\n\n**Select one** → Get consultation that covers all dimensions.\n\n**Why?** Modern security isn't siloed. Choose comprehensive expertise, get future-ready security.",
+    "achievementStatement": "**Track Record (Select metrics that matter to you):**\n\n[Enterprise Validation]\n✓ 3 DOW 30 conversions\n✓ Fortune 50 trust earned\n✓ Competitive displacement proven\n\n[Scale Proven]\n✓ $50M revenue managed\n✓ 500,000+ endpoints secured\n✓ 6+ major accounts (100K+ endpoints each)\n\n[Innovation Recognized]\n✓ Highest-attended conference sessions\n✓ Technical thought leadership\n✓ Modern approach to traditional challenges\n\n**All checkboxes matter** → All delivered.",
+    "skillsIntro": "**Technical Expertise (Choose your priority):**\n\n[Traditional Security]\n□ EDR, XDR, SIEM (20+ years)\n□ Network and endpoint security\n□ Enterprise architecture at scale\n\n[Modern Infrastructure]\n□ AWS, Azure, GCP multi-cloud\n□ Kubernetes, Docker containers\n□ Terraform, Ansible IaC\n\n[Future-Forward Innovation]\n□ AI automation (1,000+ hours)\n□ LLM orchestration\n□ Intelligent security operations\n\n**Don't choose** → Get all three.\n\n**Why this matters:** Modern security requires depth in traditional domains, fluency in cloud-native infrastructure, and forward vision in AI-powered operations. Choose a partner who doesn't make you pick."
+  },
+  "avoidPatterns": [
+    "Traditional/dated language: 'We've always done it this way'",
+    "Single path presentation: 'There's only one right approach'",
+    "Backward-looking focus: 'Based on past success...'"
+  ]
+}

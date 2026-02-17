@@ -1,0 +1,437 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <!-- Background -->
+    <linearGradient id="gb-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e1a"/>
+      <stop offset="40%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <!-- Gold -->
+    <linearGradient id="gb-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0c674"/>
+      <stop offset="50%" style="stop-color:#d4a574"/>
+      <stop offset="100%" style="stop-color:#c9956a"/>
+    </linearGradient>
+    <!-- Anthropic coral/orange -->
+    <linearGradient id="gb-coral" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#da7756"/>
+      <stop offset="100%" style="stop-color:#e8956e"/>
+    </linearGradient>
+    <!-- Fusion gradient: gold to coral -->
+    <linearGradient id="gb-fusion" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4a574"/>
+      <stop offset="100%" style="stop-color:#da7756"/>
+    </linearGradient>
+    <!-- Ambient glows -->
+    <radialGradient id="gb-glow-gold" cx="25%" cy="40%" r="35%">
+      <stop offset="0%" style="stop-color:#d4a574;stop-opacity:0.07"/>
+      <stop offset="100%" style="stop-color:#d4a574;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="gb-glow-coral" cx="75%" cy="40%" r="35%">
+      <stop offset="0%" style="stop-color:#da7756;stop-opacity:0.06"/>
+      <stop offset="100%" style="stop-color:#da7756;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="gb-glow-center" cx="50%" cy="45%" r="30%">
+      <stop offset="0%" style="stop-color:#e8956e;stop-opacity:0.04"/>
+      <stop offset="100%" style="stop-color:#e8956e;stop-opacity:0"/>
+    </radialGradient>
+    <!-- Card shadow -->
+    <filter id="gb-shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="gb-glow-f">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Small star -->
+    <polygon id="gb-star" points="6,0 7.85,3.8 12,4.35 9,7.25 9.7,11.4 6,9.4 2.3,11.4 3,7.25 0,4.35 4.15,3.8" fill="url(#gb-gold)"/>
+    <!-- Circuit dot pattern for AI side -->
+    <pattern id="gb-circuit" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="0" cy="0" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="20" cy="0" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="40" cy="0" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="0" cy="20" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="20" cy="20" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="40" cy="20" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="0" cy="40" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="20" cy="40" r="0.8" fill="#da7756" opacity="0.12"/>
+      <circle cx="40" cy="40" r="0.8" fill="#da7756" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#gb-bg)"/>
+  <rect width="1280" height="640" fill="url(#gb-glow-gold)"/>
+  <rect width="1280" height="640" fill="url(#gb-glow-coral)"/>
+  <rect width="1280" height="640" fill="url(#gb-glow-center)"/>
+
+  <!-- Subtle circuit dot pattern on right side -->
+  <rect x="640" y="0" width="640" height="640" fill="url(#gb-circuit)" opacity="0.5"/>
+
+  <!-- Subtle military grid on left side -->
+  <g opacity="0.025">
+    <line x1="80" y1="0" x2="80" y2="640" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="160" y1="0" x2="160" y2="640" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="240" y1="0" x2="240" y2="640" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="320" y1="0" x2="320" y2="640" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="640" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="480" y1="0" x2="480" y2="640" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="0" y1="80" x2="640" y2="80" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="0" y1="160" x2="640" y2="160" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="0" y1="240" x2="640" y2="240" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="0" y1="320" x2="640" y2="320" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="0" y1="400" x2="640" y2="400" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="0" y1="480" x2="640" y2="480" stroke="#d4a574" stroke-width="0.5"/>
+    <line x1="0" y1="560" x2="640" y2="560" stroke="#d4a574" stroke-width="0.5"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <g opacity="0.15">
+    <path d="M30,15 L15,15 L15,30" fill="none" stroke="#d4a574" stroke-width="2"/>
+    <path d="M1250,15 L1265,15 L1265,30" fill="none" stroke="#da7756" stroke-width="2"/>
+    <path d="M30,625 L15,625 L15,610" fill="none" stroke="#d4a574" stroke-width="2"/>
+    <path d="M1250,625 L1265,625 L1265,610" fill="none" stroke="#da7756" stroke-width="2"/>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <!-- CENTER EMBLEM: Military Star fused with AI Circuit -->
+  <!-- ═══════════════════════════════════════════════════ -->
+  <g transform="translate(640, 195)">
+    <!-- Outer ring - dashed (digital/AI feel) -->
+    <circle r="115" fill="none" stroke="#da7756" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,6"/>
+    <!-- Middle ring - solid (military) -->
+    <circle r="100" fill="none" stroke="#d4a574" stroke-width="0.8" opacity="0.2"/>
+    <!-- Inner filled circle -->
+    <circle r="85" fill="#111827" stroke="url(#gb-fusion)" stroke-width="1.2" opacity="0.95"/>
+
+    <!-- Large 5-point star (military) -->
+    <g opacity="0.9">
+      <polygon points="0,-55 13,-18 52,-18 20,5 32,42 0,20 -32,42 -20,5 -52,-18 -13,-18"
+               fill="none" stroke="url(#gb-gold)" stroke-width="1.5" stroke-linejoin="round"/>
+      <polygon points="0,-55 13,-18 52,-18 20,5 32,42 0,20 -32,42 -20,5 -52,-18 -13,-18"
+               fill="url(#gb-gold)" opacity="0.08"/>
+    </g>
+
+    <!-- AI neural network nodes overlaid on star -->
+    <g opacity="0.7">
+      <!-- Center node -->
+      <circle r="5" fill="#da7756"/>
+      <circle r="8" fill="none" stroke="#da7756" stroke-width="0.5" opacity="0.4"/>
+      <!-- Orbital nodes -->
+      <circle cx="0" cy="-35" r="3" fill="#da7756" opacity="0.8"/>
+      <circle cx="33" cy="-11" r="3" fill="#da7756" opacity="0.8"/>
+      <circle cx="20" cy="28" r="3" fill="#da7756" opacity="0.8"/>
+      <circle cx="-20" cy="28" r="3" fill="#da7756" opacity="0.8"/>
+      <circle cx="-33" cy="-11" r="3" fill="#da7756" opacity="0.8"/>
+      <!-- Connections (neural links) -->
+      <line x1="0" y1="-5" x2="0" y2="-32" stroke="#da7756" stroke-width="0.8" opacity="0.4"/>
+      <line x1="4" y1="-2" x2="30" y2="-9" stroke="#da7756" stroke-width="0.8" opacity="0.4"/>
+      <line x1="3" y1="3" x2="18" y2="25" stroke="#da7756" stroke-width="0.8" opacity="0.4"/>
+      <line x1="-3" y1="3" x2="-18" y2="25" stroke="#da7756" stroke-width="0.8" opacity="0.4"/>
+      <line x1="-4" y1="-2" x2="-30" y2="-9" stroke="#da7756" stroke-width="0.8" opacity="0.4"/>
+      <!-- Cross connections -->
+      <line x1="0" y1="-35" x2="33" y2="-11" stroke="#da7756" stroke-width="0.4" opacity="0.2"/>
+      <line x1="33" y1="-11" x2="20" y2="28" stroke="#da7756" stroke-width="0.4" opacity="0.2"/>
+      <line x1="20" y1="28" x2="-20" y2="28" stroke="#da7756" stroke-width="0.4" opacity="0.2"/>
+      <line x1="-20" y1="28" x2="-33" y2="-11" stroke="#da7756" stroke-width="0.4" opacity="0.2"/>
+      <line x1="-33" y1="-11" x2="0" y2="-35" stroke="#da7756" stroke-width="0.4" opacity="0.2"/>
+    </g>
+
+    <!-- Data pulse rings -->
+    <circle r="50" fill="none" stroke="#da7756" stroke-width="0.3" opacity="0.15"/>
+    <circle r="65" fill="none" stroke="#d4a574" stroke-width="0.3" opacity="0.1"/>
+  </g>
+
+  <!-- ═══════════════════════════ -->
+  <!-- TITLE: Above the emblem    -->
+  <!-- ═══════════════════════════ -->
+
+  <!-- Top decorative line -->
+  <g transform="translate(640,38)">
+    <line x1="-540" y1="0" x2="-30" y2="0" stroke="url(#gb-gold)" stroke-width="0.8" opacity="0.3"/>
+    <line x1="30" y1="0" x2="540" y2="0" stroke="url(#gb-coral)" stroke-width="0.8" opacity="0.3"/>
+    <use href="#gb-star" x="-6" y="-6" opacity="0.5"/>
+  </g>
+
+  <!-- Title -->
+  <text x="640" y="82" text-anchor="middle" font-family="'Georgia', 'Times New Roman', serif" font-size="52" fill="url(#gb-fusion)" font-weight="bold" letter-spacing="10">
+    GENERALS
+  </text>
+
+  <!-- ═══════════════════════════════════ -->
+  <!-- LEFT SIDE: Military Heritage        -->
+  <!-- ═══════════════════════════════════ -->
+
+  <!-- Left label -->
+  <g transform="translate(165, 140)">
+    <text text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#d4a574" letter-spacing="3" opacity="0.5">
+      WWII COMMANDERS
+    </text>
+    <line x1="-80" y1="8" x2="80" y2="8" stroke="#d4a574" stroke-width="0.5" opacity="0.2"/>
+  </g>
+
+  <!-- Commander cards - left column (Military) -->
+  <!-- Patton -->
+  <g transform="translate(48, 165)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#d4a574" stroke-width="0.5"/>
+    <rect width="3" height="52" rx="1.5" fill="#ef4444"/>
+    <!-- Rank stars -->
+    <g transform="translate(22, 14)">
+      <use href="#gb-star" x="0" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="8" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="16" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="24" y="0" transform="scale(0.5)" opacity="0.7"/>
+    </g>
+    <text x="22" y="32" font-family="'Georgia', serif" font-size="13" fill="#e2e8f0" font-weight="bold">Gen. Patton</text>
+    <text x="22" y="44" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Aggressive Executor</text>
+    <text x="220" y="32" text-anchor="end" font-family="'Georgia', serif" font-size="8" fill="#ef4444" font-style="italic" opacity="0.7">"Violently executed"</text>
+  </g>
+
+  <!-- Nimitz -->
+  <g transform="translate(48, 225)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#d4a574" stroke-width="0.5"/>
+    <rect width="3" height="52" rx="1.5" fill="#3b82f6"/>
+    <g transform="translate(22, 14)">
+      <use href="#gb-star" x="0" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="8" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="16" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="24" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="32" y="0" transform="scale(0.5)" opacity="0.7"/>
+    </g>
+    <text x="22" y="32" font-family="'Georgia', serif" font-size="13" fill="#e2e8f0" font-weight="bold">Adm. Nimitz</text>
+    <text x="22" y="44" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Methodical Validator</text>
+    <text x="220" y="32" text-anchor="end" font-family="'Georgia', serif" font-size="8" fill="#3b82f6" font-style="italic" opacity="0.7">"The Quiet Warrior"</text>
+  </g>
+
+  <!-- Montgomery -->
+  <g transform="translate(48, 285)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#d4a574" stroke-width="0.5"/>
+    <rect width="3" height="52" rx="1.5" fill="#a855f7"/>
+    <g transform="translate(22, 14)">
+      <use href="#gb-star" x="0" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="8" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="16" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="24" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="32" y="0" transform="scale(0.5)" opacity="0.7"/>
+    </g>
+    <text x="22" y="32" font-family="'Georgia', serif" font-size="13" fill="#e2e8f0" font-weight="bold">FM Montgomery</text>
+    <text x="22" y="44" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Multi-Force Coordinator</text>
+    <text x="220" y="32" text-anchor="end" font-family="'Georgia', serif" font-size="8" fill="#a855f7" font-style="italic" opacity="0.7">"Order of Victory"</text>
+  </g>
+
+  <!-- Hopper -->
+  <g transform="translate(48, 345)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#d4a574" stroke-width="0.5"/>
+    <rect width="3" height="52" rx="1.5" fill="#22c55e"/>
+    <g transform="translate(22, 14)">
+      <use href="#gb-star" x="0" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="8" y="0" transform="scale(0.5)" opacity="0.7"/>
+    </g>
+    <text x="22" y="32" font-family="'Georgia', serif" font-size="13" fill="#e2e8f0" font-weight="bold">Adm. Hopper</text>
+    <text x="22" y="44" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Technical Specialist</text>
+    <text x="220" y="32" text-anchor="end" font-family="'Georgia', serif" font-size="8" fill="#22c55e" font-style="italic" opacity="0.7">"Ask forgiveness"</text>
+  </g>
+
+  <!-- Rommel -->
+  <g transform="translate(48, 405)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#d4a574" stroke-width="0.5"/>
+    <rect width="3" height="52" rx="1.5" fill="#f59e0b"/>
+    <g transform="translate(22, 14)">
+      <use href="#gb-star" x="0" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="8" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="16" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="24" y="0" transform="scale(0.5)" opacity="0.7"/>
+      <use href="#gb-star" x="32" y="0" transform="scale(0.5)" opacity="0.7"/>
+    </g>
+    <text x="22" y="32" font-family="'Georgia', serif" font-size="13" fill="#e2e8f0" font-weight="bold">FM Rommel</text>
+    <text x="22" y="44" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Creative Thinker</text>
+    <text x="220" y="32" text-anchor="end" font-family="'Georgia', serif" font-size="8" fill="#f59e0b" font-style="italic" opacity="0.7">"The Desert Fox"</text>
+  </g>
+
+  <!-- +15 more label -->
+  <text x="165" y="485" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#64748b" letter-spacing="1">
+    + 15 MORE COMMANDERS
+  </text>
+
+  <!-- ═══════════════════════════════════ -->
+  <!-- RIGHT SIDE: AI Agent Technology     -->
+  <!-- ═══════════════════════════════════ -->
+
+  <!-- Right label -->
+  <g transform="translate(1115, 140)">
+    <text text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#da7756" letter-spacing="3" opacity="0.5">
+      CLAUDE CODE AGENTS
+    </text>
+    <line x1="-80" y1="8" x2="80" y2="8" stroke="#da7756" stroke-width="0.5" opacity="0.2"/>
+  </g>
+
+  <!-- AI Agent cards - right column -->
+  <!-- Agent feature: Personality Injection -->
+  <g transform="translate(997, 165)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#da7756" stroke-width="0.5"/>
+    <rect x="232" width="3" height="52" rx="1.5" fill="#da7756"/>
+    <!-- Icon -->
+    <g transform="translate(215, 26)">
+      <circle r="12" fill="#1a1a2e" stroke="#da7756" stroke-width="0.8"/>
+      <text text-anchor="middle" y="4" font-family="monospace" font-size="10" fill="#da7756">AI</text>
+    </g>
+    <text x="16" y="24" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#e2e8f0" font-weight="bold">Personality Injection</text>
+    <text x="16" y="40" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Historical traits shape agent behavior</text>
+  </g>
+
+  <!-- Agent feature: Self-Learning Memory -->
+  <g transform="translate(997, 225)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#da7756" stroke-width="0.5"/>
+    <rect x="232" width="3" height="52" rx="1.5" fill="#da7756"/>
+    <g transform="translate(215, 26)">
+      <circle r="12" fill="#1a1a2e" stroke="#da7756" stroke-width="0.8"/>
+      <path d="M-5,-4 Q0,-8 5,-4 Q0,0 -5,4 Q0,8 5,4" fill="none" stroke="#da7756" stroke-width="1"/>
+    </g>
+    <text x="16" y="24" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#e2e8f0" font-weight="bold">Self-Learning Memory</text>
+    <text x="16" y="40" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Each deployment teaches the next</text>
+  </g>
+
+  <!-- Agent feature: Multi-Agent Teams -->
+  <g transform="translate(997, 285)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#da7756" stroke-width="0.5"/>
+    <rect x="232" width="3" height="52" rx="1.5" fill="#da7756"/>
+    <g transform="translate(215, 26)">
+      <circle r="12" fill="#1a1a2e" stroke="#da7756" stroke-width="0.8"/>
+      <!-- Three dots for team -->
+      <circle cx="-4" cy="-2" r="2" fill="#da7756" opacity="0.8"/>
+      <circle cx="4" cy="-2" r="2" fill="#da7756" opacity="0.8"/>
+      <circle cx="0" cy="4" r="2" fill="#da7756" opacity="0.8"/>
+    </g>
+    <text x="16" y="24" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#e2e8f0" font-weight="bold">Multi-Agent Teams</text>
+    <text x="16" y="40" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">10+ commanders in parallel campaigns</text>
+  </g>
+
+  <!-- Agent feature: XP Progression -->
+  <g transform="translate(997, 345)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#da7756" stroke-width="0.5"/>
+    <rect x="232" width="3" height="52" rx="1.5" fill="#da7756"/>
+    <g transform="translate(215, 26)">
+      <circle r="12" fill="#1a1a2e" stroke="#da7756" stroke-width="0.8"/>
+      <path d="M-4,4 L-1,-4 L2,1 L5,-5" fill="none" stroke="#da7756" stroke-width="1.2"/>
+    </g>
+    <text x="16" y="24" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#e2e8f0" font-weight="bold">XP Progression</text>
+    <text x="16" y="40" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Stars, medals, ranks earned over time</text>
+  </g>
+
+  <!-- Agent feature: Git-Native Learning -->
+  <g transform="translate(997, 405)" filter="url(#gb-shadow)">
+    <rect width="235" height="52" rx="6" fill="#111827" stroke="#da7756" stroke-width="0.5"/>
+    <rect x="232" width="3" height="52" rx="1.5" fill="#da7756"/>
+    <g transform="translate(215, 26)">
+      <circle r="12" fill="#1a1a2e" stroke="#da7756" stroke-width="0.8"/>
+      <!-- Git branch icon -->
+      <circle cx="-3" cy="-4" r="1.8" fill="none" stroke="#da7756" stroke-width="1"/>
+      <circle cx="3" cy="0" r="1.8" fill="none" stroke="#da7756" stroke-width="1"/>
+      <circle cx="-3" cy="4" r="1.8" fill="none" stroke="#da7756" stroke-width="1"/>
+      <line x1="-3" y1="-2" x2="-3" y2="2" stroke="#da7756" stroke-width="0.8"/>
+      <path d="M-3,-3 Q2,-3 2,-1" fill="none" stroke="#da7756" stroke-width="0.8"/>
+    </g>
+    <text x="16" y="24" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#e2e8f0" font-weight="bold">Git-Native Learning</text>
+    <text x="16" y="40" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#94a3b8">Fork, learn, contribute back via PR</text>
+  </g>
+
+  <!-- Powered by label -->
+  <text x="1115" y="485" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#64748b" letter-spacing="1">
+    POWERED BY CLAUDE CODE
+  </text>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- FUSION ARROWS: Military → AI            -->
+  <!-- ═══════════════════════════════════════ -->
+
+  <!-- Connection lines from left to center emblem -->
+  <g opacity="0.15">
+    <path d="M283,191 Q400,191 528,185" fill="none" stroke="#d4a574" stroke-width="0.8"/>
+    <path d="M283,251 Q400,240 528,200" fill="none" stroke="#d4a574" stroke-width="0.8"/>
+    <path d="M283,311 Q400,290 540,210" fill="none" stroke="#d4a574" stroke-width="0.8"/>
+    <path d="M283,371 Q400,340 540,220" fill="none" stroke="#d4a574" stroke-width="0.8"/>
+    <path d="M283,431 Q400,390 540,230" fill="none" stroke="#d4a574" stroke-width="0.8"/>
+  </g>
+
+  <!-- Connection lines from center emblem to right -->
+  <g opacity="0.15">
+    <path d="M752,185 Q880,191 997,191" fill="none" stroke="#da7756" stroke-width="0.8"/>
+    <path d="M752,200 Q880,240 997,251" fill="none" stroke="#da7756" stroke-width="0.8"/>
+    <path d="M740,210 Q880,290 997,311" fill="none" stroke="#da7756" stroke-width="0.8"/>
+    <path d="M740,220 Q880,340 997,371" fill="none" stroke="#da7756" stroke-width="0.8"/>
+    <path d="M740,230 Q880,390 997,431" fill="none" stroke="#da7756" stroke-width="0.8"/>
+  </g>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- BOTTOM: Self-Learning Cycle                 -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <!-- Section divider -->
+  <g transform="translate(640, 520)">
+    <line x1="-540" y1="0" x2="-100" y2="0" stroke="url(#gb-fusion)" stroke-width="0.5" opacity="0.2"/>
+    <text text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="url(#gb-fusion)" letter-spacing="4" opacity="0.5">
+      SELF-LEARNING CYCLE
+    </text>
+    <line x1="100" y1="0" x2="540" y2="0" stroke="url(#gb-fusion)" stroke-width="0.5" opacity="0.2"/>
+  </g>
+
+  <!-- Cycle steps -->
+  <g transform="translate(0, 558)">
+    <!-- MATCH -->
+    <g transform="translate(200, 0)">
+      <rect x="-65" y="-18" width="130" height="36" rx="18" fill="#1e293b" stroke="#d4a574" stroke-width="0.8"/>
+      <text text-anchor="middle" y="-3" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#d4a574" font-weight="bold" letter-spacing="2">MATCH</text>
+      <text text-anchor="middle" y="10" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#64748b">Task → Commander</text>
+    </g>
+    <!-- Arrow -->
+    <line x1="275" y1="0" x2="330" y2="0" stroke="url(#gb-fusion)" stroke-width="0.8" opacity="0.4"/>
+    <polygon points="330,-3 337,0 330,3" fill="url(#gb-fusion)" opacity="0.4"/>
+
+    <!-- SPAWN -->
+    <g transform="translate(405, 0)">
+      <rect x="-65" y="-18" width="130" height="36" rx="18" fill="#1e293b" stroke="url(#gb-fusion)" stroke-width="0.8"/>
+      <text text-anchor="middle" y="-3" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="url(#gb-fusion)" font-weight="bold" letter-spacing="2">SPAWN</text>
+      <text text-anchor="middle" y="10" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#64748b">Personality + Memory</text>
+    </g>
+    <!-- Arrow -->
+    <line x1="480" y1="0" x2="535" y2="0" stroke="url(#gb-fusion)" stroke-width="0.8" opacity="0.4"/>
+    <polygon points="535,-3 542,0 535,3" fill="url(#gb-fusion)" opacity="0.4"/>
+
+    <!-- EXECUTE -->
+    <g transform="translate(610, 0)">
+      <rect x="-65" y="-18" width="130" height="36" rx="18" fill="#1e293b" stroke="url(#gb-fusion)" stroke-width="0.8"/>
+      <text text-anchor="middle" y="-3" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="url(#gb-fusion)" font-weight="bold" letter-spacing="2">EXECUTE</text>
+      <text text-anchor="middle" y="10" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#64748b">Mission Complete</text>
+    </g>
+    <!-- Arrow -->
+    <line x1="685" y1="0" x2="740" y2="0" stroke="url(#gb-fusion)" stroke-width="0.8" opacity="0.4"/>
+    <polygon points="740,-3 747,0 740,3" fill="url(#gb-fusion)" opacity="0.4"/>
+
+    <!-- AWARD -->
+    <g transform="translate(815, 0)">
+      <rect x="-65" y="-18" width="130" height="36" rx="18" fill="#1e293b" stroke="url(#gb-fusion)" stroke-width="0.8"/>
+      <text text-anchor="middle" y="-3" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="url(#gb-fusion)" font-weight="bold" letter-spacing="2">AWARD</text>
+      <text text-anchor="middle" y="10" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#64748b">XP + Lessons</text>
+    </g>
+
+    <!-- Loop arrow -->
+    <path d="M880,0 Q940,0 940,30 Q940,55 640,55 Q260,55 135,30 Q135,0 135,0"
+          fill="none" stroke="url(#gb-fusion)" stroke-width="0.8" opacity="0.2" stroke-dasharray="3,4"/>
+    <polygon points="135,-3 128,0 135,3" fill="url(#gb-fusion)" opacity="0.25"/>
+
+    <!-- Loop label -->
+    <text x="545" y="50" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="url(#gb-fusion)" font-style="italic" opacity="0.35">
+      Each deployment makes commanders smarter
+    </text>
+  </g>
+
+  <!-- ═══════════════════ -->
+  <!-- BOTTOM BAR          -->
+  <!-- ═══════════════════ -->
+  <g transform="translate(640, 628)">
+    <text text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#475569" letter-spacing="1">
+      20 COMMANDERS  &#x2022;  SELF-LEARNING  &#x2022;  OPEN SOURCE  &#x2022;  ZERO DEPENDENCIES  &#x2022;  BUILT WITH CLAUDE CODE
+    </text>
+  </g>
+
+</svg>

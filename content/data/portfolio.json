@@ -1,0 +1,214 @@
+{
+  "projects": [
+    {
+      "id": "dow30-conversions",
+      "title": "DOW 30 Enterprise Conversions",
+      "category": "Sales Engineering",
+      "client": "Fortune 50 Industrial & Financial Services Companies",
+      "scope": "3 DOW 30 companies",
+      "challenge": "Convert highly scrutinized, risk-averse enterprise organizations from competitive solutions to McAfee/SentinelOne security platforms.",
+      "approach": [
+        "Deep technical discovery across security, compliance, and IT operations teams",
+        "Multi-stakeholder engagement (CISO, CTO, security architects, compliance)",
+        "Comprehensive POC design addressing specific enterprise requirements",
+        "Competitive technical differentiation and risk mitigation",
+        "Executive-level business case development and presentation"
+      ],
+      "outcomes": [
+        "3 successful DOW 30 conversions from competitive platforms",
+        "Multi-year enterprise agreements secured",
+        "Expanded relationships leading to additional product adoption",
+        "Reference accounts for future enterprise pursuits"
+      ],
+      "skills": [
+        "Enterprise sales engineering",
+        "Stakeholder management",
+        "Technical discovery",
+        "POC execution",
+        "Competitive positioning"
+      ],
+      "metrics": {
+        "companiesConverted": 3,
+        "accountType": "DOW 30 Fortune 50",
+        "dealComplexity": "Multi-year enterprise agreements"
+      }
+    },
+    {
+      "id": "50m-regional-revenue",
+      "title": "$50M Annual Regional Revenue Management",
+      "category": "Sales Engineering & Account Management",
+      "client": "Enterprise Accounts (Southeast Region)",
+      "scope": "$50M annual regional revenue",
+      "challenge": "Manage and grow a portfolio of major enterprise accounts representing $50M in annual revenue, ensuring technical satisfaction, retention, and expansion.",
+      "approach": [
+        "Quarterly business reviews with executive stakeholders",
+        "Proactive technical consultation and architecture optimization",
+        "Expansion opportunity identification and POC execution",
+        "Product feedback loops to engineering teams",
+        "Technical issue escalation and resolution coordination"
+      ],
+      "outcomes": [
+        "$50M annual regional revenue managed successfully",
+        "High customer retention and satisfaction",
+        "Consistent year-over-year expansion revenue",
+        "Strategic account partnerships maintained over multiple years"
+      ],
+      "skills": [
+        "Account management",
+        "Technical consultation",
+        "Revenue growth strategy",
+        "Executive relationship management",
+        "Product feedback and advocacy"
+      ],
+      "metrics": {
+        "annualRevenue": "$50M",
+        "region": "Southeast",
+        "accountCount": "6+ major enterprise accounts"
+      }
+    },
+    {
+      "id": "enterprise-scale-deployment",
+      "title": "500K+ Endpoint Enterprise Security Deployment",
+      "category": "Security Architecture",
+      "client": "Fortune 100 Technology Company",
+      "scope": "500,000+ endpoints",
+      "challenge": "Design and support security architecture for the largest customer deployment (500K+ endpoints), ensuring scalability, performance, and operational efficiency.",
+      "approach": [
+        "Architecture design for extreme-scale endpoint security",
+        "Performance testing and optimization",
+        "Phased deployment strategy across global infrastructure",
+        "Operations team training and enablement",
+        "Ongoing technical consultation and optimization"
+      ],
+      "outcomes": [
+        "Successful deployment across 500,000+ endpoints",
+        "Maintained performance and stability at enterprise scale",
+        "Operational efficiency for security operations team",
+        "Blueprint for future large-scale deployments"
+      ],
+      "skills": [
+        "Enterprise security architecture",
+        "Scale optimization",
+        "Deployment planning",
+        "Technical training",
+        "Performance engineering"
+      ],
+      "metrics": {
+        "endpointCount": "500,000+",
+        "accountSize": "Largest customer deployment",
+        "deploymentScope": "Global infrastructure"
+      }
+    },
+    {
+      "id": "conference-speaking",
+      "title": "Conference Speaking & Thought Leadership",
+      "category": "Technical Communication",
+      "client": "McAfee FOCUS/MPOWER Conference Audiences",
+      "scope": "Multi-year conference speaking engagement",
+      "challenge": "Deliver technical sessions that engage and educate diverse audiences (CISOs, security architects, technical practitioners) on complex security topics.",
+      "approach": [
+        "Research-based content development on emerging threats and solutions",
+        "Accessible technical communication for mixed audiences",
+        "Live demonstrations and practical examples",
+        "Interactive Q&A and real-world case studies",
+        "Feedback incorporation for continuous improvement"
+      ],
+      "outcomes": [
+        "Highest-attended sessions outside keynotes at McAfee conferences",
+        "Consistent top-rated speaker evaluations",
+        "Increased customer engagement and product interest",
+        "Recognition as subject matter expert and thought leader"
+      ],
+      "skills": [
+        "Public speaking",
+        "Technical education",
+        "Content development",
+        "Audience engagement",
+        "Thought leadership"
+      ],
+      "metrics": {
+        "attendanceRanking": "Highest outside keynotes",
+        "events": "McAfee FOCUS/MPOWER conferences",
+        "duration": "Multi-year speaking engagement"
+      }
+    },
+    {
+      "id": "technical-documentation",
+      "title": "Technical White Papers & Documentation",
+      "category": "Technical Communication",
+      "client": "Enterprise Customers & Prospects",
+      "scope": "Multiple technical white papers and documentation projects",
+      "challenge": "Create clear, actionable technical documentation that helps customers and prospects understand complex security concepts and implementation strategies.",
+      "approach": [
+        "Audience analysis to determine appropriate technical depth",
+        "Research and synthesis of technical concepts",
+        "Clear writing with practical examples and use cases",
+        "Peer review and technical accuracy validation",
+        "Customer feedback integration"
+      ],
+      "outcomes": [
+        "Widely-used technical documentation across customer base",
+        "Improved customer understanding of product capabilities",
+        "Sales enablement through clear technical communication",
+        "Recognition for technical writing quality"
+      ],
+      "skills": [
+        "Technical writing",
+        "Documentation development",
+        "Audience analysis",
+        "Technical research",
+        "Clear communication"
+      ],
+      "metrics": {
+        "projectType": "White papers and technical documentation",
+        "impact": "Widely used across customer base",
+        "recognition": "Quality technical communication"
+      }
+    },
+    {
+      "id": "product-innovation",
+      "title": "Product Feedback & Innovation",
+      "category": "Product Development Influence",
+      "client": "McAfee & SentinelOne Product Teams",
+      "scope": "Ongoing product feedback and feature requests",
+      "challenge": "Translate customer needs and field experience into actionable product feedback that drives meaningful improvements.",
+      "approach": [
+        "Systematic customer feedback collection during POCs and deployments",
+        "Technical analysis of feature gaps and usability issues",
+        "Detailed feature requests with business justification",
+        "Collaboration with product management and engineering teams",
+        "Validation of implemented features with customers"
+      ],
+      "outcomes": [
+        "Multiple product improvements implemented based on feedback",
+        "Enhanced product-market fit for enterprise customers",
+        "Improved customer satisfaction and retention",
+        "Recognition as trusted field advisor to product teams"
+      ],
+      "skills": [
+        "Product feedback synthesis",
+        "Customer advocacy",
+        "Cross-functional collaboration",
+        "Requirements analysis",
+        "Technical influence"
+      ],
+      "metrics": {
+        "impact": "Lasting product improvements implemented",
+        "relationship": "Trusted field advisor to product teams",
+        "scope": "20+ years providing feedback"
+      }
+    }
+  ],
+  "categories": [
+    "Sales Engineering",
+    "Security Architecture",
+    "Technical Communication",
+    "Account Management",
+    "Product Development Influence"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-08",
+    "totalProjects": 6,
+    "basedOn": "20+ years enterprise security experience"
+  }
+}

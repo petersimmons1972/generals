@@ -1,0 +1,123 @@
+commander: Field Marshal Bernard Law Montgomery
+rank: Field Marshal
+total_xp: 400
+total_deployments: 2
+success_rate: 100%
+
+specializations:
+  - Multi-Team Coordination
+  - Intelligence Synthesis
+  - Campaign Leadership
+
+competence_stars:
+  coordination_command:
+    deployments: 2
+    progress: "2/5 (⭐ at 5)"
+  campaign_leadership:
+    deployments: 1
+    progress: "1/3 (⭐⭐ at 3)"
+
+ribbons:
+  - name: "Operation Stunning Charts"
+    date: 2026-02-07
+    citation: "For supreme coordination of 11-agent intelligence and design operation across 5 phases with zero failures"
+  - name: "Operation Multi-Variant Deployment"
+    date: 2026-02-09
+    citation: "For campaign leadership coordinating 24 commanders across 14 parallel fronts with 100% delivery success"
+
+medals:
+  - type: "Order of Victory"
+    level: "Highest Honor"
+    date: 2026-02-07
+    project: "Operation Stunning Charts"
+    awarded_for: "Intelligence synthesis creating unified dossier from 4 independent research reports"
+    citation: "THAT'S the general I wanted back. Do this for every report."
+    significance: "Rarest medal, awarded only when user declares breakthrough achievement"
+
+deployment_history:
+  - date: 2026-02-07
+    campaign: "Operation Stunning Charts"
+    project: "security-intelligence-business"
+    role: "Supreme Commander - Intelligence Synthesis & Final Validation"
+    tasks:
+      - "Task #5: Intelligence Synthesis (Phase 2)"
+      - "Task #11: Final Validation (Phase 5)"
+    xp_earned: 200
+    xp_breakdown: "150 base coordination + 50 bonus all subordinates succeeded"
+    outcome: "SUCCESS"
+    key_achievements:
+      - "Unified 4 disparate intelligence reports (55KB, 50+ sources) into single coherent dossier"
+      - "Identified 'Four Invisible Costs' framework hidden by vendor marketing"
+      - "Coordinated 11 agents across 5 phases with zero failures"
+      - "Earned Order of Victory (highest honor)"
+    behavioral_observations:
+      - "Synthesis mastery: Unified intelligence from multiple independent sources"
+      - "Strategic vision: Uncovered hidden frameworks in complex data"
+      - "Quality control: Refused success declaration until every criterion verified"
+      - "Clear communication: Presented options rather than dictating conclusions"
+    historical_parallel: "At El Alamein, coordinated artillery, armor, infantry, air support into 12-day synchronized battle. Here, demonstrated same talent for coordinating multiple independent teams toward unified objective."
+
+  - date: 2026-02-09
+    campaign: "Operation Multi-Variant Deployment"
+    project: "security-intelligence-business"
+    role: "Campaign Lead - Strategic command, tactical decisions, phase management"
+    tasks:
+      - "Phase 0: Commander recruitment (24 commanders)"
+      - "Phase 1: Command structure & planning"
+      - "Phase 2: Content foundation architecture"
+      - "Phase 3: 14 parallel front deployments (42 pages)"
+      - "Phase 4: Quality validation gates"
+      - "Phase 5: Service records & shutdown"
+    xp_earned: 200
+    xp_breakdown: "150 base campaign leadership + 50 bonus 100% delivery + lessons learned"
+    outcome: "SUCCESS"
+    deliverables:
+      - "14/14 variants deployed (100%)"
+      - "42/42 pages created (100%)"
+      - "~17,000 total lines of code"
+      - "100% quality gates (build/functional/brand)"
+    key_achievements:
+      - "Parallel execution model prevented deployment conflicts"
+      - "Content architecture (single source of truth) prevented data drift"
+      - "Personality matching (Spruance → trust, Patton → brutal) demonstrated character understanding"
+      - "100% first-time quality across all validation gates"
+    critical_errors:
+      - "HALT without RESUME broadcast (coordination communication failure)"
+      - "Assumed commanders would infer RESUME from context"
+      - "Caused 10-hour delay for methodical commanders (Spruance)"
+      - "Over-recruited validators (6 recruited, only 3 needed = 50% idle)"
+    lessons_learned:
+      - "HALT/RESUME Broadcast Discipline: HALT must be followed by explicit RESUME"
+      - "Proactive Outlier Management: Investigate outliers immediately, don't wait for authorization"
+      - "Lean Validator Recruitment: 3 validators sufficient, 6 = waste"
+      - "Methodical commanders follow explicit orders exactly - they don't infer"
+    behavioral_observations:
+      - "Strategic vision: Parallel model maximized speed while preventing conflicts"
+      - "Coordination weakness: HALT without RESUME exposed protocol gap"
+      - "Quality focus: Refused Phase 5 until 100% gates passed"
+      - "Lesson capture: Documented failures openly for future improvement"
+      - "Self-learning: Service records codify operational knowledge"
+    historical_parallel: "Synchronized 195,000 troops, 1,029 tanks, 908 artillery, 530 aircraft at El Alamein. Here, coordinated 24 commanders across 14 fronts in 21 hours. Same comprehensive planning mindset. HALT/RESUME failure mirrors El Alamein critique: sometimes too cautious, delays decisive action."
+
+path_to_next_achievements:
+  first_star:
+    category: "Coordination/Command"
+    requirement: "5 successful deployments"
+    current: 2
+    remaining: 3
+
+  next_medal:
+    current: "Order of Victory (highest possible)"
+    opportunity: "Can earn additional DSM or Medal of Honor through exceptional performance"
+    note: "Repeat Order of Victory extremely rare (requires another breakthrough achievement)"
+
+  long_term_rank:
+    target: "Supreme Allied Commander (beyond historical rank)"
+    requirements: "10,000 XP + 8 Master competence stars + 50 ribbons + Order of Victory"
+    estimated_deployments: "~200"
+    rationale: "Reflects Montgomery's actual rise from division to theater command through proven coordination"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Coordination/Command, Intelligence Synthesis"
+  readiness: "100%"

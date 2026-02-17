@@ -1,0 +1,38 @@
+{
+  "variantId": "academic",
+  "commander": "General Dwight D. Eisenhower",
+  "voice": "Analytical, precise, research-focused",
+  "emotionalRegister": "Intellectual curiosity, collaborative inquiry",
+  "transformations": {
+    "headline": "Evidence-Based Security Architecture for Enterprise Environments",
+    "tagline": "20+ years of applied enterprise security research and practice",
+    "aboutIntro": "Senior Sales Engineer specializing in enterprise security architecture with over 20 years of applied research and practice. Currently at SentinelOne (November 2021-Present), with 16 years of prior research at McAfee. Focus areas include EDR/XDR implementation methodologies, large-scale security architecture (500,000+ endpoints), and evidence-based sales engineering frameworks.",
+    "experience": "20+ years conducting applied enterprise security research across sales engineering, security architecture, and technical consultation. Research contributions include DOW 30 enterprise conversion methodologies, $50M revenue management frameworks, and security architecture at 500,000+ endpoint scale. Published technical documentation and presented research findings at major industry conferences.",
+    "education": "Bachelor of Business Administration in Computer Information Systems, Georgia State University, Atlanta, GA. Academic foundation for technical research and business analysis.",
+    "currentRole": "Senior Sales Engineer at SentinelOne (November 2021-Present). Research focus on enterprise security evaluation methodologies, POC design frameworks, and technical consultation approaches.",
+    "previousRole": "SR Enterprise Sales Engineer at McAfee (April 2005 - November 2021). 16 years developing and refining sales engineering methodologies, security architecture frameworks, and enterprise account management approaches.",
+    "approach": "Evidence-based, analytical, systematic. Discovery-driven research methodology. Hypothesis-tested POC frameworks. Data-informed decision support.",
+    "cta": {
+      "primary": "Explore our research methodology.",
+      "secondary": "Review our case studies.",
+      "tertiary": "Access our security research."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: 15-25 words. Complex when warranted, but clear.",
+    "Word choice: Research terminology (methodology, analysis, framework, evidence-based)",
+    "Tone: Scholarly but accessible, collaborative discovery",
+    "POV: Research orientation ('Our findings show...', 'Analysis reveals...')",
+    "Pacing: Thoughtful, deliberate, layered"
+  ],
+  "exampleContent": {
+    "serviceDescription": "Enterprise security architecture research and implementation. Evidence-based methodologies for EDR, XDR, and SIEM deployment at scale (100,000+ endpoints). Framework development for security evaluation, vendor selection, and implementation planning.",
+    "achievementStatement": "Research validation through 3 DOW 30 enterprise conversions. $50M annual revenue management across research portfolio. Large-scale implementation studies (500,000+ endpoints). Academic contributions through conference presentations recognized as highest-attended sessions outside keynotes.",
+    "skillsIntro": "20+ years applied research in enterprise security (EDR, XDR, SIEM, network security). Cloud infrastructure architecture research (AWS, Azure, GCP, Kubernetes, Terraform, Ansible). 1,000+ hours AI development research with focus on LLM orchestration and intelligent automation frameworks."
+  },
+  "avoidPatterns": [
+    "Marketing hype: 'Best-in-class solutions!'",
+    "Oversimplification: 'Security is easy!'",
+    "Sales pressure: 'Buy now!'"
+  ]
+}

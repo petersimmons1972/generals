@@ -1,0 +1,38 @@
+{
+  "variantId": "bento",
+  "commander": "Marshal Georgy Zhukov",
+  "voice": "Organized, systematic, structured clarity",
+  "emotionalRegister": "Methodical confidence, organized complexity",
+  "transformations": {
+    "headline": "Enterprise Security: Every Component Has Its Place",
+    "tagline": "Systematic approach | 20+ years | Proven methodology | Organized results",
+    "aboutIntro": "[Current Role] Senior Sales Engineer @ SentinelOne (Nov 2021-Present)\n\n[Background] 16 years @ McAfee | SR Enterprise Sales Engineer\n\n[Expertise] Enterprise Security Architecture | Sales Engineering | Technical Consultation\n\n[Track Record] 3 DOW 30 conversions | $50M revenue managed | 500,000+ endpoints\n\n[Approach] Systematic security architecture where every component serves a defined purpose",
+    "experience": "[Professional Experience: 20+ Years]\n\n**Sales Excellence**\n• 3 DOW 30 company conversions from competitive platforms\n• Systematic evaluation methodology proven with Fortune 50 organizations\n\n**Revenue Leadership**\n• $50M annual regional revenue management\n• 6+ major enterprise accounts (100,000+ endpoints each)\n• Organized account management approach\n\n**Technical Depth**\n• 500,000+ endpoint deployment (largest customer)\n• Enterprise security architecture at scale\n• Systematic approach to complex implementations\n\n**Thought Leadership**\n• Conference speaker (McAfee FOCUS/MPOWER)\n• Highest-attended sessions outside keynotes\n• Structured technical communication\n\n**Documentation**\n• Technical white papers\n• Methodical documentation approach\n• Customer-facing technical content",
+    "education": "[Education]\n\n**Degree:** Bachelor of Business Administration\n**Major:** Computer Information Systems\n**Institution:** Georgia State University\n**Location:** Atlanta, GA\n\n**Foundation:** Technical systems | Business analysis | Structured thinking",
+    "currentRole": "[Current Position]\n\n**Company:** SentinelOne\n**Title:** Senior Sales Engineer\n**Duration:** November 2021 - Present\n**Focus:** Enterprise security consultation | POC execution | Technical architecture\n**Methodology:** Systematic discovery → Structured design → Organized implementation",
+    "previousRole": "[Previous Position]\n\n**Company:** McAfee\n**Title:** SR Enterprise Sales Engineer\n**Duration:** April 2005 - November 2021 (16 years)\n**Achievements:** DOW 30 conversions | Major account management | Conference speaking\n**Approach:** Systematic sales engineering | Structured customer engagement | Organized technical delivery",
+    "approach": "[Systematic Methodology]\n\n**Phase 1: Discovery**\n├─ Technical requirements analysis\n├─ Business objectives assessment\n├─ Stakeholder identification\n└─ Constraint documentation\n\n**Phase 2: Architecture**\n├─ Solution design\n├─ Component selection\n├─ Integration planning\n└─ Scalability validation\n\n**Phase 3: Validation**\n├─ POC environment design\n├─ Test case development\n├─ Performance measurement\n└─ Success criteria verification\n\n**Phase 4: Implementation**\n├─ Deployment planning\n├─ Phased rollout\n├─ Operational handoff\n└─ Documentation delivery\n\n**Phase 5: Optimization**\n├─ Performance monitoring\n├─ Continuous improvement\n├─ Feedback integration\n└─ Evolution planning",
+    "cta": {
+      "primary": "Explore our systematic approach.",
+      "secondary": "Every piece has its place.",
+      "tertiary": "See our organized methodology."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Structured. Organized into clear sections.",
+    "Word choice: Organization metaphors, system language, structure signals",
+    "Tone: Methodical competence, organized thinking",
+    "POV: Systems perspective",
+    "Pacing: Compartmentalized, section-by-section"
+  ],
+  "exampleContent": {
+    "serviceDescription": "[Enterprise Security Architecture]\n\n**Service Categories:**\n\n[Technical Consultation]\n├─ Security architecture design\n├─ EDR/XDR implementation (100K+ endpoints)\n├─ SIEM integration and optimization\n└─ Network security strategy\n\n[Cloud Infrastructure]\n├─ AWS security architecture\n├─ Azure security implementation\n├─ GCP security design\n└─ Multi-cloud governance\n\n[Infrastructure Automation]\n├─ Kubernetes security\n├─ Terraform IaC security\n├─ Ansible configuration management\n└─ CI/CD security integration\n\n[AI & Automation]\n├─ LLM-powered security automation (1,000+ hours)\n├─ Workflow orchestration (n8n)\n├─ Intelligent threat detection\n└─ Response automation\n\n**Approach:** Systematic | Organized | Measurable | Repeatable",
+    "achievementStatement": "[Track Record: Organized by Category]\n\n**[Sales Excellence]**\n• DOW 30 conversions: 3 companies\n• Conversion methodology: Systematic evaluation framework\n• Stakeholder engagement: Structured multi-level approach\n\n**[Revenue Management]**\n• Annual regional revenue: $50M\n• Account portfolio: 6+ major enterprises\n• Management approach: Organized quarterly reviews, technical consultation, growth planning\n\n**[Technical Delivery]**\n• Largest deployment: 500,000+ endpoints\n• Architecture approach: Systematic design for enterprise scale\n• Implementation: Phased, measured, validated\n\n**[Thought Leadership]**\n• Conference speaking: Highest-attended sessions outside keynotes\n• Documentation: Technical white papers, customer materials\n• Communication: Structured technical presentation\n\n**[Duration]**\n• Total experience: 20+ years\n• McAfee tenure: 16 years\n• SentinelOne: November 2021-Present",
+    "skillsIntro": "[Technical Skills: Organized by Domain]\n\n**[Security: 20+ Years]**\n├─ EDR (Endpoint Detection & Response)\n├─ XDR (Extended Detection & Response)\n├─ SIEM (Security Information & Event Management)\n├─ Network Security\n├─ Endpoint Protection\n└─ Linux/Windows Systems\n\n**[Cloud Infrastructure]**\n├─ AWS (Amazon Web Services)\n├─ Azure (Microsoft Cloud)\n├─ GCP (Google Cloud Platform)\n├─ Kubernetes (Container Orchestration)\n├─ Docker (Containerization)\n└─ Multi-cloud architecture\n\n**[Infrastructure as Code]**\n├─ Terraform (IaC provisioning)\n├─ Ansible (Configuration management)\n└─ CI/CD Pipelines\n\n**[AI & Automation: 1,000+ Hours]**\n├─ Claude (LLM orchestration)\n├─ ChatGPT (AI integration)\n├─ Ollama (Local AI deployment)\n└─ n8n (Workflow automation)\n\n**[Business Skills]**\n├─ Consultative sales\n├─ POC execution\n├─ Stakeholder management\n├─ Technical communication\n└─ Public speaking\n\n**Approach:** Every component organized | Every skill serves a purpose | Systematic expertise application"
+  },
+  "avoidPatterns": [
+    "Unstructured narrative flow",
+    "Flowing prose without clear sections",
+    "Ambiguous categorization"
+  ]
+}

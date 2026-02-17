@@ -1,0 +1,38 @@
+{
+  "variantId": "hero",
+  "commander": "Fleet Admiral William F. Halsey",
+  "voice": "Bold, aspirational, attention-grabbing",
+  "emotionalRegister": "Inspirational confidence, transformative",
+  "transformations": {
+    "headline": "Transform Your Security Posture from Vulnerable to Resilient",
+    "tagline": "Elevate your organization with 20+ years of proven enterprise security leadership",
+    "aboutIntro": "Transform your security program with leadership forged over two decades at the enterprise edge. As Senior Sales Engineer at SentinelOne since November 2021, building on 16 years of proven excellence at McAfee, I elevate organizations from reactive security to proactive resilience. Three DOW 30 conversions. $50M in managed revenue. Deployments at 500,000+ endpoint scale. This isn't just experience—it's a track record of transforming enterprise security postures from vulnerable to resilient.",
+    "experience": "Twenty years of elevating enterprise security programs. Three DOW 30 conversions transformed from competitive platforms—each one a testament to what's possible when technical excellence meets strategic vision. $50M in annual regional revenue managed: organizations that chose transformation over status quo. The largest deployment—500,000+ endpoints—proved that enterprise-scale transformation is achievable. Conference speaking excellence: highest-attended sessions outside keynotes, inspiring audiences to reimagine their security approach. This is what transformation looks like.",
+    "education": "Bachelor of Business Administration in Computer Information Systems, Georgia State University. The foundation for a journey that would transform enterprise security consultation—combining technical depth with business vision to elevate organizations beyond conventional security thinking.",
+    "currentRole": "Senior Sales Engineer at SentinelOne (November 2021-Present). Empowering organizations to transform their security posture through next-generation endpoint protection. Every consultation is an opportunity to elevate security from checkbox compliance to strategic resilience. Every POC demonstrates what's possible when you move beyond traditional thinking.",
+    "previousRole": "SR Enterprise Sales Engineer at McAfee (April 2005 - November 2021). Sixteen years building the foundation for transformation. From first enterprise conversation to final DOW 30 conversion, each experience elevated understanding of what enterprises need—not just in tools, but in vision, strategy, and partnership for security excellence.",
+    "approach": "Elevate through discovery: understand current state and envision what's possible. Transform through design: architect security that moves beyond reactive to proactive. Inspire through validation: demonstrate transformation through measurable POC outcomes. Empower through implementation: guide organizations to security excellence. Optimize through evolution: continuous elevation toward resilience.",
+    "cta": {
+      "primary": "Transform your security posture.",
+      "secondary": "Elevate your defenses.",
+      "tertiary": "Discover what's possible."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Bold declarations, dramatic statements",
+    "Word choice: Aspirational verbs (transform, elevate, revolutionize, empower)",
+    "Tone: Inspirational leader, big vision, confident promises",
+    "POV: Transformational perspective ('Imagine...', 'Transform...')",
+    "Pacing: Building momentum, crescendo"
+  ],
+  "exampleContent": {
+    "serviceDescription": "**Enterprise Security Architecture That Transforms Organizations**\n\nElevate your security posture from vulnerability to resilience. EDR, XDR, and SIEM architecture designed not just to protect, but to transform how your organization thinks about security—from reactive response to proactive defense. Deployments proven at 100,000+ endpoint scale.\n\nTransform your cloud security across AWS, Azure, and GCP. Infrastructure automation with Kubernetes, Terraform, and Ansible that empowers teams to deploy with confidence. AI-powered automation (1,000+ hours of development expertise) that revolutionizes security operations.\n\nThis isn't incremental improvement—it's transformation. Your security program can be more than compliance checklists and vendor dashboards. It can be strategic, proactive, and resilient. Let's make it happen.",
+    "achievementStatement": "**Track Record of Transformation**:\n\n**3 DOW 30 Conversions**: Transformed Fortune 50 security postures from competitive platforms to strategic resilience. Elevated organizations that demanded excellence and delivered transformation that exceeded expectations.\n\n**$50M Revenue Leadership**: Managed and grew $50M in annual regional revenue—not through incremental sales, but through transformative partnerships that elevated customer security programs year after year.\n\n**500,000+ Endpoint Excellence**: Architected and delivered security transformation at enterprise scale. Proved that ambitious security visions can become operational reality.\n\n**Inspirational Speaking**: Highest-attended conference sessions outside keynotes. Elevated audiences from passive listeners to inspired actors—transformation begins with vision, continues with action.",
+    "skillsIntro": "**Expertise That Elevates Organizations**:\n\n**Enterprise Security Mastery**: 20+ years transforming security programs through EDR, XDR, SIEM, network security, and endpoint protection. Not just implementing tools—revolutionizing how organizations think about defense.\n\n**Cloud Infrastructure Excellence**: AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible. Multi-cloud expertise that empowers organizations to deploy with confidence and scale with resilience.\n\n**AI-Powered Innovation**: 1,000+ hours developing intelligent automation that transforms security operations. LLM orchestration, workflow automation, agent development—the future of security operations, available today.\n\n**Transformational Communication**: Consultative sales engineering that inspires change. Stakeholder management that builds vision alignment. Technical communication that elevates understanding. This is leadership that transforms organizations, not just implements solutions."
+  },
+  "avoidPatterns": [
+    "Understated language: 'We might be able to help'",
+    "Modest claims: 'Some experience with...'",
+    "Passive voice: 'Solutions can be provided'"
+  ]
+}

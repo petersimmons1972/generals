@@ -1,0 +1,38 @@
+{
+  "variantId": "minimal",
+  "commander": "General George C. Marshall",
+  "voice": "Clean, essential, no-nonsense logistics",
+  "emotionalRegister": "Quiet confidence, calm efficiency",
+  "transformations": {
+    "headline": "Enterprise Security. 20+ Years.",
+    "tagline": "Essential expertise. Clear results.",
+    "aboutIntro": "Senior Sales Engineer. SentinelOne. 20+ years enterprise security. DOW 30 conversions. $50M revenue managed.",
+    "experience": "20+ years. Enterprise security architecture. Sales engineering. 3 DOW 30 conversions. $50M annual revenue. 500,000+ endpoints.",
+    "education": "BBA, Computer Information Systems. Georgia State University.",
+    "currentRole": "Senior Sales Engineer. SentinelOne. November 2021-Present.",
+    "previousRole": "SR Enterprise Sales Engineer. McAfee. 16 years. April 2005-November 2021.",
+    "approach": "Clear. Direct. Effective. Technical discovery. POC execution. Results.",
+    "cta": {
+      "primary": "Work together.",
+      "secondary": "Start here.",
+      "tertiary": "Talk."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: 5-10 words. Clear hierarchy. No clutter.",
+    "Word choice: Essential, core, fundamental, clear, straightforward",
+    "Tone: Professional minimalism, confidence through restraint",
+    "POV: Direct but not aggressive",
+    "Pacing: Unhurried, spacious, room to breathe"
+  ],
+  "exampleContent": {
+    "serviceDescription": "Enterprise security architecture. EDR. XDR. SIEM. 100,000+ endpoints. Cloud infrastructure. AWS. Azure. GCP. Kubernetes.",
+    "achievementStatement": "3 DOW 30 conversions. $50M managed. 500,000+ endpoints. Conference speaker. Technical documentation.",
+    "skillsIntro": "20+ years enterprise security. EDR. XDR. SIEM. Cloud: AWS, Azure, GCP. Infrastructure: Kubernetes, Docker, Terraform. AI: 1,000+ hours development."
+  },
+  "avoidPatterns": [
+    "Verbose explanations: 'Let me tell you about my comprehensive approach...'",
+    "Multiple CTAs per page",
+    "Decorative language"
+  ]
+}

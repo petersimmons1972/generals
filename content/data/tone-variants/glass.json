@@ -1,0 +1,38 @@
+{
+  "variantId": "glass",
+  "commander": "Fleet Admiral Chester W. Nimitz",
+  "voice": "Transparent, elegant, sophisticated clarity",
+  "emotionalRegister": "Sophisticated confidence, refined",
+  "transformations": {
+    "headline": "Enterprise Security with Complete Transparency",
+    "tagline": "20+ years of proven methodology. Clear approach. Visible outcomes.",
+    "aboutIntro": "Transparency defines effective security consultation. As Senior Sales Engineer at SentinelOne since November 2021, with 16 years of prior experience at McAfee, I bring complete clarity to enterprise security architecture and sales engineering. What we do—and how we do it—is clear. Our methodology: transparent. Our approach: proven across 3 DOW 30 conversions, $50M in managed revenue, and deployments at 500,000+ endpoint scale. Our communication: direct and honest.",
+    "experience": "Twenty years of enterprise security experience, made transparent through measurable outcomes. Three DOW 30 conversions: each one documented, methodical, and visible to stakeholders. $50M annual regional revenue: managed with complete transparency into technical consultation, account health, and growth opportunities. 500,000+ endpoint deployment: architecture visible, performance measured, outcomes clear. Conference speaking: highest-attended sessions outside keynotes, recognized for clarity of technical communication.",
+    "education": "Bachelor of Business Administration in Computer Information Systems, Georgia State University, Atlanta, GA. Foundation visible in approach: technical depth combined with business context, transparency in both domains.",
+    "currentRole": "Senior Sales Engineer at SentinelOne (November 2021-Present). Role clearly defined: technical consultation for enterprise security evaluation. Methodology transparent: discovery-driven architecture design, visible POC frameworks, measurable outcomes. Approach: what we recommend, why we recommend it, and how we measure success—all clear.",
+    "previousRole": "SR Enterprise Sales Engineer at McAfee (April 2005 - November 2021). Sixteen years building transparent customer relationships. Clear communication of technical capabilities, honest assessment of fit, visible path from evaluation to implementation. Methodology refined over time, outcomes measurable, trust earned through transparency.",
+    "approach": "Complete transparency in methodology: Discovery (understand your environment and needs), Architecture (design with clear rationale), Validation (test with measurable criteria), Implementation (visible deployment process), Optimization (continuous improvement with clear metrics). What we do is visible. How we do it is documented. Why we do it is explained. Outcomes are measurable.",
+    "cta": {
+      "primary": "See through to better security.",
+      "secondary": "Experience transparent consultation.",
+      "tertiary": "Discover clarity."
+    }
+  },
+  "contentPrinciples": [
+    "Sentence length: Flowing, elegant. Sophisticated but clear.",
+    "Word choice: Transparency metaphors, clarity signals, elegant language",
+    "Tone: Refined confidence, sophisticated without pretension",
+    "POV: Organizational excellence perspective",
+    "Pacing: Smooth, polished, refined"
+  ],
+  "exampleContent": {
+    "serviceDescription": "**Enterprise Security Architecture with Transparent Methodology**\n\nWe bring clarity to complex security challenges. EDR, XDR, and SIEM architecture designed with visible rationale for environments up to 500,000+ endpoints. Multi-cloud security across AWS, Azure, and GCP with clear decision frameworks. Infrastructure automation using Kubernetes, Terraform, and Ansible—methodology documented, outcomes measurable.\n\nOur approach: complete transparency into design decisions, implementation strategies, and success metrics. What we recommend is clear. Why we recommend it is explained. How we measure success is visible. No opacity, no confusion, no hidden complexity.",
+    "achievementStatement": "**Proven Track Record (Transparently Documented)**:\n\n**3 DOW 30 Conversions**: Methodology visible, outcomes measurable. Each conversion documented with clear technical differentiation, stakeholder engagement process, and validation criteria.\n\n**$50M Revenue Management**: Complete transparency into technical consultation approach, account health metrics, and growth strategies. Clear communication of value delivered.\n\n**500,000+ Endpoint Deployment**: Architecture documented, performance metrics visible, operational outcomes clear. Largest customer deployment with complete transparency into scaling approach.\n\n**Conference Speaking Excellence**: Highest-attended sessions outside keynotes. Recognition for clarity of technical communication—complex concepts made visible and understandable.",
+    "skillsIntro": "**Technical Expertise (Transparent Depth)**:\n\n**Security**: EDR, XDR, SIEM, Network Security, Endpoint Protection—20+ years of visible, documented experience.\n\n**Cloud Infrastructure**: AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible—multi-cloud expertise with clear methodology.\n\n**AI & Automation**: 1,000+ hours developing intelligent automation. LLM orchestration, workflow automation, agent development—approach transparent, outcomes measurable.\n\n**Communication**: Consultative sales, stakeholder management, technical documentation, public speaking—expertise refined through transparency and feedback over 20 years."
+  },
+  "avoidPatterns": [
+    "Opacity or vague claims: 'We provide solutions'",
+    "Rough or unpolished language",
+    "Complexity without explanation"
+  ]
+}

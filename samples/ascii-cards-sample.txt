@@ -1,0 +1,68 @@
+╔══════════════════════════╗  ╔══════════════════════════╗  ╔══════════════════════════╗
+║   ⭐⭐⭐⭐ GEORGE PATTON  ║  ║ ⭐⭐⭐⭐⭐ BERNARD MONTY  ║  ║ ⭐⭐⭐⭐⭐ CHESTER NIMITZ ║
+║      General (4-Star)    ║  ║   Field Marshal (5-Star) ║  ║   Fleet Admiral (5-Star) ║
+╠══════════════════════════╣  ╠══════════════════════════╣  ╠══════════════════════════╣
+║                          ║  ║                          ║  ║                          ║
+║     💪 AGGRESSIVE        ║  ║    🎖️  METICULOUS       ║  ║     ⚓ STRATEGIC         ║
+║       EXECUTOR           ║  ║       PLANNER            ║  ║      DIPLOMAT            ║
+║                          ║  ║                          ║  ║                          ║
+╠══════════════════════════╣  ╠══════════════════════════╣  ╠══════════════════════════╣
+║ XP: 0  | Deploy: 0      ║  ║ XP: 400 | Deploy: 2     ║  ║ XP: 225 | Deploy: 3     ║
+╠══════════════════════════╣  ╠══════════════════════════╣  ╠══════════════════════════╣
+║ TRAITS:                  ║  ║ TRAITS:                  ║  ║ TRAITS:                  ║
+║ ⚡ Speed over caution    ║  ║ 📋 Comprehensive plan    ║  ║ 🤝 Coalition building   ║
+║ 🎯 Bold decisions        ║  ║ 🎯 Morale builder        ║  ║ 📊 Data-driven           ║
+║ ⚠️  May skip validation  ║  ║ ⚠️  Can be cautious      ║  ║ 🎯 Resource optimizer    ║
+╠══════════════════════════╣  ╠══════════════════════════╣  ╠══════════════════════════╣
+║ BEST FOR:                ║  ║ BEST FOR:                ║  ║ BEST FOR:                ║
+║ • Emergency hotfixes     ║  ║ • Multi-team coord       ║  ║ • Cost optimization      ║
+║ • Breaking blockers      ║  ║ • Campaign planning      ║  ║ • Tech visualization     ║
+╚══════════════════════════╝  ╚══════════════════════════╝  ╚══════════════════════════╝
+
+╔══════════════════════════╗  ╔══════════════════════════╗
+║  ⭐⭐⭐⭐ RAYMOND SPRU   ║  ║ ⭐⭐⭐⭐⭐ ERNEST KING   ║
+║      Admiral (4-Star)    ║  ║   Fleet Admiral (5-Star) ║
+╠══════════════════════════╣  ╠══════════════════════════╣
+║                          ║  ║                          ║
+║     🛡️  QUIET           ║  ║      🔥 THE              ║
+║       WARRIOR            ║  ║     BLOWTORCH            ║
+║                          ║  ║                          ║
+╠══════════════════════════╣  ╠══════════════════════════╣
+║ XP: 375 | Deploy: 3     ║  ║ XP: 175 | Deploy: 2     ║
+╠══════════════════════════╣  ╠══════════════════════════╣
+║ TRAITS:                  ║  ║ TRAITS:                  ║
+║ ✅ Test-driven approach  ║  ║ ⚡ Zero tolerance vague  ║
+║ 🔍 Methodical verify     ║  ║ 🎯 Clinical precision    ║
+║ 📊 Analytical precise    ║  ║ ⚠️  Demanding standards  ║
+╠══════════════════════════╣  ╠══════════════════════════╣
+║ BEST FOR:                ║  ║ BEST FOR:                ║
+║ • Quality gates (TDD)    ║  ║ • Deployment ops         ║
+║ • Critical deployments   ║  ║ • Blocker identify       ║
+╚══════════════════════════╝  ╚══════════════════════════╝
+
+═══════════════════════════════════════════════════════════════════════════════
+
+SINGLE CARD VIEW (for selection):
+
+    ╔══════════════════════════╗
+    ║   ⭐⭐⭐⭐ GEORGE PATTON  ║
+    ║      General (4-Star)    ║
+    ╠══════════════════════════╣
+    ║                          ║
+    ║     💪 AGGRESSIVE        ║
+    ║       EXECUTOR           ║
+    ║                          ║
+    ╠══════════════════════════╣
+    ║ XP: 0  | Deploy: 0      ║
+    ╠══════════════════════════╣
+    ║ TRAITS:                  ║
+    ║ ⚡ Speed over caution    ║
+    ║ 🎯 Bold decisions        ║
+    ║ ⚠️  May skip validation  ║
+    ╠══════════════════════════╣
+    ║ BEST FOR:                ║
+    ║ • Emergency hotfixes     ║
+    ║ • Breaking blockers      ║
+    ╚══════════════════════════╝
+
+    Type 'patton' to select
