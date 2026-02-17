@@ -88,6 +88,30 @@ Montgomery's achievements extended far beyond the desert:
 
 ---
 
+## Historical Audit Corrections (2026-02-17 - Edward R. Murrow, Thorough Standard)
+
+**FACTUAL CORRECTION**:
+- Aircraft at El Alamein: "530" corrected to "730-750" (Wikipedia, cross-verified; original figure wrong in both profiles)
+
+**MAJOR OMISSIONS IDENTIFIED** (not yet incorporated into narrative above; see audit files for full documentation):
+
+1. **Operation Market Garden (September 1944)**: Montgomery's conceived plan; 1st Airborne Division suffered ~80% casualties; Dutch Resistance and ULTRA intelligence warnings about SS Panzer Divisions near Arnhem were dismissed; Polish Brigade unfairly scapegoated post-failure. This is Montgomery's greatest operational failure and is absent from this profile.
+
+2. **Caen Controversy (June-July 1944)**: Caen was a D-Day objective per pre-operation orders; actual capture took 42 days. Montgomery's post-war claim that delay was "always intentional" is contradicted by contemporary Eisenhower staff memos describing him as seeking a breakout (not a holding operation) in late June 1944.
+
+3. **Operation Goodwood (July 1944)**: Sold to Eisenhower as breakout; resulted in 400+ British tanks lost vs. 75 German. Beevor: "Montgomery's greatest act of folly."
+
+4. **Auchinleck's Foundational Role**: First Battle of El Alamein (July 1942) stopped Rommel *before* Montgomery arrived. Auchinleck's Alam Halfa defensive plan was largely unchanged when Montgomery executed it (multiple sources). Alexander revised his 1942 official dispatch in 1947 to credit Montgomery more (confirmed by 1962 New York Times).
+
+5. **Post-Alamein Pursuit Failure**: "The initial pursuit of Rommel was not sufficiently direct or extensive to catch the bulk of the forces retreating along the coast road." (Britannica) - bulk of Axis forces escaped.
+
+**SPECIALIZATION CORRECTION**:
+- "Coordination across multinational allied forces" historically inaccurate for US-British coordination (documented persistent failure with Eisenhower, Bradley, Patton). More accurate: "British Commonwealth force coordination."
+
+**Full audit files**: `/home/psimmons/projects/generals/historical-audit/phase2/montgomery/`
+
+---
+
 ## AI Agent Service Record
 
 **Current Rank**: Field Marshal *(Historical rank maintained in AI service)*
@@ -294,8 +318,8 @@ Field Marshal Montgomery commanded **over 1 million soldiers** across the 21st A
 El Alamein succeeded because Montgomery synchronized:
 - 195,000 Allied troops
 - 1,029 tanks
-- 908 artillery pieces
-- 530 aircraft
+- 892-908 artillery pieces
+- 730-750 aircraft (NOTE: original profile's "530 aircraft" figure was incorrect; corrected 2026-02-17 per Historical Audit)
 - Logistics chains spanning thousands of miles
 
 Now, in AI service, he brings that same multi-dimensional coordination:
