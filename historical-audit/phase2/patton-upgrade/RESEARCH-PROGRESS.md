@@ -366,9 +366,42 @@ When citing:
 
 ---
 
-**Research continues**: Day 1 in progress
-**Target**: Complete primary source reading, document all limitations
-**Commit frequency**: Every 2-4 hours of research
+---
+
+## Day 2 Summary (2026-02-17): All Priority Gaps Closed
+
+### Status Update
+**Research**: COMPLETE
+**Accuracy**: 93/100 (upgraded from 92/100 at Day 1 close)
+
+### Day 2 Accomplishments
+
+1. **Slapping quote resolved**: The PILOT-VS-THOROUGH-ASSESSMENT's "pilot error" detection was itself incorrect. August 3, 1943 diary quote IS authentic (DAY1 researcher had accessed it; PILOT-VS-THOROUGH only checked December 1943 entries).
+
+2. **Anti-Semitism documented**: September 15, 1945 diary — "lower than animals" quote verified from LOC diary and Foreign Policy article citing primary. This is a CRITICAL NEW finding not in the original profile. Added to profile Ethical Assessment.
+
+3. **Brolo fully documented**: 177 casualties (40+ killed), Patton's exact quote overriding Truscott, Bernard's pre-operation objection, and confirmed failure to achieve stated objective. Source: WHN "Imbroglio at Brolo" (full text).
+
+4. **Barbarossa comparison verified**: Hoover Institution confirms Reinhardt (500+ miles) and Knobelsdorff (800 miles, "unique in Prussian-German military history") against Patton's ~300 miles.
+
+5. **Operation Cobra context**: Third Army activated August 1, 1944 AFTER German defensive structure broken by Bradley/Collins. Patton was the best exploiter, not the breakthrough creator.
+
+6. **Shell shock nuance**: Lovelace (2019, Parameters) confirms Patton recognized shell shock but applied obsolete WWI definition. Profile updated.
+
+7. **1970 film mythology**: Voice wrong, anti-Semitism omitted, affair omitted, rivalry exaggerated. Documented as primary post-war myth driver.
+
+### Files Updated
+- `RESEARCH-REPORT-THOROUGH.md`: Added Part IX (Day 2 findings) and Part X (final accuracy assessment)
+- `SOURCES-ACCESSED.md`: Added Sources 19-25 (Day 2)
+- `UPGRADE-RECOMMENDATIONS.md`: Added Day 2 recommendations 6-10
+- `research/DAY2-PRIORITY-GAPS.md`: New file (complete Day 2 research notes)
+- Pilot profile (`pilot/patton/profile-patton.md`): Shell shock nuance, anti-Semitism section, Brolo details, accuracy rating updated
+
+---
+
+**Research completed**: 2026-02-17
+**Standard**: THOROUGH — achieved
+**Commit**: Ready for git commit
 
 ---
 

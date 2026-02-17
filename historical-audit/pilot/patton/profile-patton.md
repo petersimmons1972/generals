@@ -66,7 +66,7 @@ After the disastrous American defeat at Kasserine Pass (February 1943), Patton w
 ### Sicily: Glory and Controversy
 
 In Operation Husky (July-August 1943), Patton commanded the Seventh Army in a supporting role to Montgomery's Eighth Army. When Montgomery stalled, Patton exceeded his orders: racing to Palermo, capturing 50,000+ prisoners in under a week with fewer than 300 casualties. However, his "race to Messina" revealed significant character flaws:
-- **Amphibious blunders**: Overruled Truscott and Bradley on the Brolo landing timing, resulting in a "minor disaster." Ordered a third landing after troops had already advanced past the target.
+- **Amphibious blunders**: At Brolo (August 11, 1943), Patton visited Truscott's HQ on August 10 and dismissed objections to the landing — telling Truscott: "Goddamit, Lucian, what's the matter with you? Are you afraid to fight?" Battalion commander Lt. Col. Bernard stated: "I didn't want to make this operation. I didn't think I had enough men, enough tanks, or enough time." Bernard's force of approximately 650 men sustained 177 casualties (at least 40 killed) and FAILED to cut off the German retreat — approximately 40,000 Germans escaped regardless. Patton also ordered a third amphibious landing after troops had already advanced past the landing site (pointless operation).
 - **Personal glory over mission**: Held troops in hills outside Messina to arrange a personal "triumphal entry." Bradley recalled: Patton "had to hold our troops in the hills instead of pursuing the fleeing Germans."
 - **Slapping incidents**: During the campaign, physically assaulted two soldiers suffering combat stress reaction (detailed below under Ethical Assessment).
 
@@ -164,17 +164,31 @@ On August 3, 1943, Patton encountered Private Charles H. Kuhl, an 18-year-old, a
 
 On August 10, 1943, Patton encountered Private Paul G. Bennett, a 21-year-old four-year Army veteran from C Battery, 17th Field Artillery, at a different evacuation hospital. Bennett had no medical history until August 6 when a friend was wounded in combat. He couldn't sleep, was nervous, had a fever, and was dehydrated -- a man whose breaking point was watching his friend get hit. Patton slapped Bennett, drew his pistol, and threatened to shoot him, calling him a coward and denying shell shock existed as a condition.
 
-Modern PTSD scholarship contextualizes (without excusing) this behavior: combat fatigue was poorly understood in 1943, and many commanders viewed psychological trauma as cowardice. However, Patton's response was extreme even by contemporary standards -- physical assault and death threats against hospitalized soldiers represents a serious abuse of command authority.
+Modern PTSD scholarship contextualizes (without excusing) this behavior. Crucially, Patton did NOT simply deny shell shock existed. His August 6, 1943 diary records: "saw two men completely out from shell shock. One kept going through the motions of crawling." Alexander G. Lovelace's peer-reviewed analysis in *Parameters* (Army War College, Autumn 2019) establishes: "a search of the general's extensive diaries, correspondence, and writings cannot produce a single reliable statement from Patton claiming shell shock was not an authentic medical condition." Patton had ordered a medical text on shell shock for study in 1941.
+
+**The precise failure**: Patton applied an obsolete World War I definition that required complete physical incapacitation. When Kuhl and Bennett were coherent enough to explain their condition, Patton concluded they were malingerers avoiding combat, not genuinely shell-shocked. This was not ignorance of combat stress — it was rigid application of outdated diagnostic criteria combined with extreme intolerance for perceived weakness. The result was physical assault and death threats against hospitalized soldiers suffering genuine medical conditions.
 
 **The Psychological Dimension:** Modern scholarship reveals a deeper irony. Grumet (2009, *Psychological Reports*) documents that "central to [Patton's] success was his ability to control the fear and guilt inherent in combat." Patton himself privately acknowledged: "Every man is scared in his first action. If he says he's not, he's lying." He wrote over 80 poems between 1903 and 1945 -- deeply introspective works dealing with "profound emotions and moral dilemmas," revealing what biographer Carlo D'Este describes as "a sensitivity that might seem at odds with the tough exterior he presented to the world." Patton also likely had dyslexia, and his early triumph over it shaped his relentless drive to overcome perceived weakness.
 
 The slapping incidents were not merely a "tough general going too far." They reveal a man who spent his entire life at war with his own fear and sensitivity, who built an elaborate persona to contain it, and who assaulted two soldiers for experiencing the very vulnerability he feared most in himself. His contempt for "battle fatigue" was rooted in his own lifelong battle with fear -- a documented psychological pattern that makes him unsuitable for any task requiring psychological safety, mentorship of struggling team members, or tolerance for vulnerability.
 
-Patton was nearly relieved of command. Eisenhower ordered him to apologize to both soldiers, to the hospital staff, and to his entire command. The incident delayed Patton's return to combat command by several months.
+Eisenhower's November 26, 1943 investigation report characterized Patton's conduct as "reprehensible" and "indefensible," ordered personal apologies to both soldiers, and directed army-wide accountability. Eisenhower retained Patton because he assessed him as "the mainspring of the effort during the sustained drive of the Seventh Army" — but noted any repetition would result in immediate relief. The incident delayed Patton's return to combat command by several months.
+
+### Anti-Semitism (September-October 1945)
+
+While serving as Military Governor of Bavaria — administering displaced persons camps housing Holocaust survivors, approximately three months after personally visiting liberated Buchenwald — Patton recorded in his private diary on September 15, 1945:
+
+> "Evidently the virus started by Morgenthau and Baruch of a Semitic revenge against all Germans is still working. Harrison and his ilk believe that the Displaced Person is a human being, which he is not, and this applies particularly to the Jews, who are lower than animals."
+
+His September 22 diary continued: "There is a very apparent Semitic influence in the press." His private worldview attributed denazification policy to "Semitic revenge" and described Allied occupation policies as following "practically Gestapo methods" (August 27 diary).
+
+When confronted publicly about anti-Semitism, Patton wrote to Bernard Baruch (December 3, 1945): "I cannot understand who had the presumption to attribute to me anti-Semitic ideas which I certainly do not possess." This pattern — private virulent bigotry, public denial — is documented in primary sources (LOC Patton Diaries, confirmed by the Foreign Policy article "Patton the Anti-Semite and Hypocrite," June 25, 2010).
+
+**This anti-Semitism is not merely "controversial" — it represents a documented dehumanization of Holocaust survivors under his direct command.**
 
 ### Denazification Failure (September-October 1945)
 
-As military governor of Bavaria, Patton publicly stated he didn't see the need for "this denazification thing" and compared Nazi Party membership to "a Democratic and Republican election fight." This was not merely a political gaffe -- it demonstrated a fundamental failure to understand that the obliteration of Nazism was a primary war aim. Eisenhower directly confronted Patton in a heated exchange on September 28, 1945, and relieved him of command of the Third Army on October 7, 1945.
+Patton's denazification failure must be understood in the context of the anti-Semitic worldview documented above, not as an isolated "gaffe." He publicly stated he didn't see the need for "this denazification thing" and compared Nazi Party membership to "a Democratic and Republican election fight" — because he privately understood denazification as "Semitic revenge," not as the principal Allied war aim it was. Eisenhower directly confronted Patton in a heated exchange on September 28, 1945, reminding him that "obliteration of Nazism was a major US war aim," and relieved him of command of the Third Army on October 7, 1945.
 
 ---
 
@@ -241,6 +255,7 @@ The analogy: Patton is your emergency room. When something is broken and people 
 - Consensus building or stakeholder alignment (slapping incidents show poor interpersonal judgment)
 - Tasks requiring honest self-assessment (documented self-mythologizer)
 - Tasks requiring psychological safety or mentorship of struggling team members (slapping incidents reveal intolerance for vulnerability rooted in his own fear -- Grumet, 2009)
+- Tasks involving minority groups, humanitarian oversight, diversity management, or disadvantaged populations (documented anti-Semitism: primary diary sources, September 1945; dehumanized Holocaust survivors while administering their camps)
 
 ### Differentiation from Similar Generals
 
@@ -312,12 +327,25 @@ The analogy: Patton is your emergency room. When something is broken and people 
 
 ---
 
-**Accuracy Rating**: 90/100 (post-audit)
-**Previous Rating**: 78/100 (pre-audit, per Murrow assessment)
-**Improvement**: +12 points (6 propaganda patterns corrected, failures documented, self-mythologizing exposed)
+**Accuracy Rating**: 93/100 (Phase 2 thorough standard upgrade)
+**Previous Rating**: 90/100 (pilot phase, 2026-02-14)
+**Phase 2 Improvement**: +3 points
+- Shell shock nuance added from primary sources (Lovelace 2019, LOC diary Aug 6, 1943)
+- Anti-Semitism documented from primary diary sources (LOC Sep 1945) — critical new ethical finding
+- Brolo casualties verified with specifics (177 casualties, 40+ killed, objective failed)
+- Barbarossa speed comparison verified from Hoover Institution
+- Slapping diary quote source chain confirmed correct (pilot was right; PILOT-VS-THOROUGH assessment contained its own error)
+- Operation Cobra exploitation context added
+
+**Remaining uncertainty (-7 points)**:
+- Third Army AAR commercially paywalled (cannot verify complete statistics directly)
+- Daniel III book paywalled — self-mythologizing thesis cited via summary only
+- Decker logistics paper blocked — Lorraine supply gallon figures unverifiable
+- Hirshson biography paywalled — anti-Semitism cited via Kirkus Review
 
 ---
 
 *"A good plan violently executed now is better than a perfect plan executed next week." - General George S. Patton Jr.*
 
-*Profile audited 2026-02-14 by Operation Historical Audit (Murrow, Orwell, Pyle)*
+*Profile originally audited 2026-02-14 by Operation Historical Audit (Murrow, Orwell, Pyle)*
+*Phase 2 thorough standard upgrade completed 2026-02-17 by Edward R. Murrow*

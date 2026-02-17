@@ -199,6 +199,88 @@
 
 ---
 
+---
+
+## Day 2 Additions (2026-02-17)
+
+### 6. Anti-Semitism Documentation (NEW — CRITICAL)
+
+**Current profile status**: NOT DOCUMENTED
+
+**Evidence**:
+- September 15, 1945 diary: "the Displaced Person is a human being, which he is not, and this applies particularly to the Jews, who are lower than animals."
+- September 22, 1945 diary: "There is a very apparent Semitic influence in the press."
+- December 3, 1945 letter (denying anti-Semitism while holding it privately)
+
+**Recommendation**: Add to Ethical Assessment section:
+
+> **Anti-Semitism (September-October 1945)**: While serving as Military Governor of Bavaria — overseeing displaced persons camps housing Holocaust survivors — Patton recorded in his private diary (September 15, 1945): "the Displaced Person is a human being, which he is not, and this applies particularly to the Jews, who are lower than animals." This was written approximately three months after his personal visit to liberated Buchenwald. His subsequent public denial of anti-Semitic views (December 3, 1945 letter to Bernard Baruch: "I cannot understand who had the presumption to attribute to me anti-Semitic ideas which I certainly do not possess") demonstrates a pattern of private bigotry concealed by public denial. This, combined with his denazification failure, demonstrates systematic unsuitability for post-war governance and makes his deployment in any role involving minority groups, diversity, or humanitarian oversight inappropriate.
+
+**AI Specialization Impact**: Must be added to "DO NOT DEPLOY" list: tasks involving management of disadvantaged or minority groups, humanitarian oversight, diversity and inclusion work.
+
+---
+
+### 7. Brolo Landing: Full Casualty Documentation (EXPANDED)
+
+**Current profile**: Mentions Brolo as "minor disaster" without specifics.
+
+**Evidence**:
+- 177 casualties, at least 40 killed
+- Objective (cutting German retreat) FAILED
+- 40,000+ Germans escaped regardless
+- Patton's direct quote: "Goddamit, Lucian, what's the matter with you? Are you afraid to fight?"
+- Bernard's pre-operation assessment: "I didn't want to make this operation. I didn't think I had enough men, enough tanks, or enough time."
+
+**Recommendation**: Update Sicily section to include specific casualties and outcome. The pattern of overriding subordinate judgment at cost (Brolo: 177 casualties; Fort Driant: 798 casualties) documents a repeating failure mode.
+
+---
+
+### 8. Shell Shock Nuance: ALREADY ADDRESSED IN UPGRADE-RECOMMENDATIONS Day 1
+
+Confirmed: Lovelace (2019) establishes that Patton recognized shell shock's existence but applied obsolete WWI definition. This is documented.
+
+---
+
+### 9. Operation Cobra Context (NEW)
+
+**Current profile**: Does not address the role of Bradley/Collins in creating conditions for Third Army speed.
+
+**Evidence**: Third Army activated August 1, 1944, AFTER German defensive structure broken by Operation Cobra (July 25 - August 1) under Bradley/Collins. The German Seventh Army was already "a shambles" before Patton's activation.
+
+**Recommendation**: Add to Third Army section:
+
+> "Third Army's spectacular advance in August 1944 occurred into a German defensive structure already fractured by Bradley's Operation Cobra (July 25 - August 1) and Collins's VII Corps. Patton was activated into a broken enemy situation; his genius was exploitation, not the initial breakthrough."
+
+**AI Specialization Impact**: Clarifies that Patton excels in exploitation of opened opportunities, not in creating those opportunities. This distinction is critical for deployment decisions.
+
+---
+
+### 10. Pilot-vs-Thorough Error Correction
+
+**PILOT-VS-THOROUGH-ASSESSMENT.md** incorrectly flagged the slapping diary quote as a pilot error.
+
+**Correction**: The August 3, 1943 diary quote ("I gave him the devil, slapped his face with my gloves...") IS in Patton's diary. The PILOT-VS-THOROUGH researcher accessed only December 1943 retrospective entries. DAY1-PRIMARY-SOURCES confirmed the August 3 entry directly.
+
+**Action**: No profile correction needed; pilot was correct. PILOT-VS-THOROUGH-ASSESSMENT.md contains an internal error that has been noted in DAY2-PRIORITY-GAPS.md.
+
+---
+
+## Final Recommendation
+
+**Accept 93/100 as Thorough Standard Complete**
+
+The research has achieved thorough standard:
+- All publicly accessible primary sources read
+- All paywalls documented explicitly
+- Evidence chains complete for all major claims
+- Two significant new findings added (anti-Semitism, Brolo casualty detail)
+- One internal contradiction resolved (slapping quote source chain)
+- Day 2 closes all priority gaps identified in the mission brief
+
+**Profile is ready for production use.** Apply profile corrections above before deployment.
+
+---
+
 **Compiled by**: Edward R. Murrow
-**Date**: 2026-02-15
-**Status**: Awaiting Field Marshal decision on Day 2 extension vs completion
+**Date**: Day 1: 2026-02-15 | Day 2: 2026-02-17
+**Status**: COMPLETE — 93/100 accuracy, thorough standard achieved
