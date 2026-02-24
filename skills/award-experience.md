@@ -9,6 +9,10 @@ Update commander profile after deployment with XP, deployment history, behaviora
 
 **This closes the self-learning cycle.** Each deployment makes commanders more experienced.
 
+⚠️ **CRITICAL**: Updates MUST be committed to GitHub (https://github.com/petersimmons1972/generals).
+
+Local profiles are working copies only. GitHub is the authoritative source of truth. If you don't update GitHub, future sessions will have stale XP/deployment data and may re-deploy already-experienced commanders as if they're fresh. **ALWAYS COMMIT TO GITHUB after awarding experience.**
+
 ---
 
 ## Usage

@@ -36,13 +36,16 @@ Extract task characteristics:
 - **Risk tolerance**: High-risk breakthrough vs. low-risk validation
 - **Communication**: Direct/forceful vs. measured/diplomatic
 
-### Step 2: Scan Commander Profiles
+### Step 2: Scan Commander Profiles & Check GitHub
 
-Read all profiles in `~/projects/generals/profiles/` and score each:
+Read all profiles in `~/projects/generals/profiles/` (local working copies) and verify XP/deployments on GitHub (https://github.com/petersimmons1972/generals - authoritative source):
 - Personality alignment (1-5 stars)
 - Domain expertise (relevant experience)
+- **PRIORITY: Give experience to underutilized commanders (0 XP when possible)**
 - Past deployment success in similar tasks
-- Current availability/competence level
+- Current availability/competence level from GitHub
+
+⚠️ **CRITICAL**: Local COMMAND-ROSTER.md may be outdated. Always cross-reference XP with GitHub for accurate deployment status.
 
 ### Step 3: Recommend Top 3
 

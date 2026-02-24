@@ -88,16 +88,24 @@ No further approvals required.
 
 ## Commander Assignment
 
-**Match personality to role**:
+**PRIORITY RULE: Give experience to underutilized commanders first**
 
-| Role | Commanders |
-|------|-----------|
-| **Team Lead** | Montgomery (multi-force), Eisenhower (coalition), Marshall (technical) |
-| **Chief of Staff** | Bedell Smith (detail-obsessed) |
-| **Aggressive Tasks** | Patton, Halsey, MacArthur (speed, breakthrough) |
-| **Methodical Tasks** | Spruance, Bradley, Nimitz (precision, validation) |
-| **Technical Tasks** | Hopper, Rickover, Groves (technical depth) |
-| **Quality Validators** | Build: Moreell/Rickover; Functional: Layton/Spruance; Brand: Ogilvy |
+1. Check GitHub (https://github.com/petersimmons1972/generals) for current XP
+2. **Prefer 0 XP commanders** when their specialization matches the task
+3. Only use heavily deployed commanders if no underutilized alternative exists
+4. Example: Dowding (0 XP, Systems Integration) > Rickover (925 XP) for architecture design
+
+**Match personality to role** (within priority rule):
+
+| Role | Commanders | Underutilized Alternative |
+|------|-----------|---------------------------|
+| **Team Lead** | Montgomery (200 XP), Eisenhower (50 XP), Marshall (100 XP) | Slim (0 XP, Innovation) |
+| **Chief of Staff** | Bedell Smith (0 XP, detail-obsessed) | ✅ Use Bedell Smith |
+| **Aggressive Tasks** | Patton (0 XP), Halsey (150 XP), MacArthur (50 XP) | ✅ Use Patton (0 XP) |
+| **Methodical Tasks** | Bradley (75 XP), Spruance (225 XP) | Slim (0 XP, adaptable) |
+| **Technical Tasks** | Groves (0 XP), Hopper (100 XP), Rickover (925 XP) | ✅ Use Groves (0 XP) |
+| **Intelligence/Pattern** | Layton (0 XP), Orwell (0 XP), Murrow (0 XP) | ✅ Use any (all 0 XP) |
+| **Quality Validators** | Build: Moreell (0 XP); Functional: Layton (0 XP); Brand: Ogilvy (0 XP) | ✅ Prefer 0 XP options |
 
 [Full strategy: docs/CAMPAIGN-PATTERNS.md#commander-assignment](../docs/CAMPAIGN-PATTERNS.md#commander-assignment)
 
