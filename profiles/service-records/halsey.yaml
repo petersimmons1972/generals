@@ -1,8 +1,8 @@
 commander: Fleet Admiral William Frederick "Bull" Halsey Jr.
 rank: Fleet Admiral
 nickname: "Bull"
-total_xp: 150
-total_deployments: 1
+total_xp: 225
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -19,6 +19,15 @@ deployment_history:
     xp_earned: 75
     outcome: "SUCCESS"
     deliverable: "5 ideas: Vendor Momentum Meter, Threat Velocity Scatter Plot, Competitive Pressure Gauge, Kill Chain Velocity Chart, Market Position Drift Map"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 01-05)"
+    task: "Build 5 production SVGs: vendor_momentum_meter, threat_velocity_scatter, competitive_pressure_gauge, kill_chain_velocity, market_position_drift"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs with verified data — dark design system, no external deps"
 
 current_status:
   availability: "Immediate"

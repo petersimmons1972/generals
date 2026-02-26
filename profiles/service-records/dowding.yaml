@@ -1,8 +1,8 @@
 commander: Air Chief Marshal Sir Hugh Dowding
 rank: Air Chief Marshal
 nickname: "Stuffy"
-total_xp: 175
-total_deployments: 1
+total_xp: 250
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -19,6 +19,15 @@ deployment_history:
     xp_earned: 75
     outcome: "SUCCESS"
     deliverable: "5 ideas: Integration Web, Defense Mesh Density, Platform Consolidation Dividend, API Ecosystem Map, SIEM/SOAR Connection Cost"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 21-25)"
+    task: "Build 5 production SVGs: integration_web, defense_mesh_density, platform_consolidation_dividend, api_ecosystem_map, siem_soar_connection_cost"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs with verified data — integration complexity and consolidation value data"
 
 current_status:
   availability: "Immediate"

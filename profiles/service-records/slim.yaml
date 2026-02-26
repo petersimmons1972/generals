@@ -1,8 +1,8 @@
 commander: Field Marshal Sir William Slim
 rank: Field Marshal
 nickname: "Uncle Bill"
-total_xp: 75
-total_deployments: 1
+total_xp: 150
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,16 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: The Minimum Viable Security Stack, The Vendor Handoff Map, The IT Generalist's Competency Radar, The Day 91 Reality Check, The Cost of Staying Put"
     standout: "IT Generalist's Competency Radar — best audience empathy in the operation"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 46-50)"
+    task: "Build 5 production SVGs: minimum_viable_stack, vendor_handoff_map, it_generalist_competency_radar, day_91_reality_check, cost_of_staying_put"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs — constrained-resource audience framing for 1-3 person IT teams"
+    note: "Files named with chart-46- through chart-50- prefix (naming deviation, not blocking)"
 
 current_status:
   availability: "Immediate"

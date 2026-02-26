@@ -1,8 +1,8 @@
 commander: General of the Army Douglas MacArthur
 rank: General of the Army (Five-Star)
 nickname: "American Caesar"
-total_xp: 125
-total_deployments: 1
+total_xp: 200
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: The Sovereignty Spectrum, The Defender's Hourglass, The Vendor Commitment Matrix, The Capability Cliff, The Breach Insurance Actuarial Table"
     standout: "The Sovereignty Spectrum — genuinely novel framing of vendor lock-in"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 06-10)"
+    task: "Build 5 production SVGs: sovereignty_spectrum, defenders_hourglass, vendor_commitment_matrix, capability_cliff, breach_insurance_actuarial"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs with verified data — dark design system, no external deps"
 
 current_status:
   availability: "Immediate"

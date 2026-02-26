@@ -1,8 +1,8 @@
 commander: Rear Admiral Edwin Thomas Layton
 rank: Rear Admiral
 nickname: "The Man Who Predicted Pearl Harbor (Too Late)"
-total_xp: 225
-total_deployments: 1
+total_xp: 300
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,15 @@ deployment_history:
     xp_earned: 75
     outcome: "SUCCESS"
     deliverable: "5 ideas: The Dwell Time Clock, Vendor Reliability Index, Detection Gap Intelligence Map, Vendor Trust Erosion Pattern, The False Positive Tax"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 11-15)"
+    task: "Build 5 production SVGs: dwell_time_clock, vendor_reliability_index, detection_gap_map, trust_erosion_pattern, false_positive_tax"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs with verified data — Mandiant/Verizon DBIR dwell time data, SACR false positive data"
 
 current_status:
   availability: "Immediate"

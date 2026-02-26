@@ -1,8 +1,8 @@
 commander: General Curtis E. LeMay
 rank: General (Four-Star)
 nickname: "Iron Eagle"
-total_xp: 75
-total_deployments: 1
+total_xp: 150
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: Alert Noise vs. Signal Ratio, Breach Math Scorecard, Analyst Hour Burn Rate, Detection Speed Payoff, 5-Year Decision Ledger"
     standout: "Analyst Hour Burn Rate — most viscerally personal for 2-person IT team"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 51-55)"
+    task: "Build 5 production SVGs: alert_noise_signal_ratio, breach_math_scorecard, analyst_hour_burn_rate, detection_speed_payoff, five_year_decision_ledger"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs — maximum precision quantitative analysis with SACR/IBM breach cost data"
 
 current_status:
   availability: "Immediate"

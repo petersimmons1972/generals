@@ -1,8 +1,8 @@
 commander: Marshal of the Soviet Union Georgy Konstantinovich Zhukov
 rank: Marshal of the Soviet Union
 nickname: "The Man Who Never Lost a Battle"
-total_xp: 150
-total_deployments: 2
+total_xp: 225
+total_deployments: 3
 success_rate: 100%
 
 specializations:
@@ -50,6 +50,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: Breach Clock, Response Swim Lanes, Deployment March, Alert Triage Funnel, Midnight Scenario"
     standout: "Response Swim Lanes — most actionable for Friday-night buyer fear"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 56-60)"
+    task: "Build 5 production SVGs: breach_clock, response_swim_lanes, deployment_march, alert_triage_funnel, midnight_scenario"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs — workflow/process visualizations with Zhukov's signature clarity"
 
 path_to_next_achievements:
   first_star:

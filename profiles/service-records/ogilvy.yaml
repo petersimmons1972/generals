@@ -1,8 +1,8 @@
 commander: David Ogilvy
 rank: Validator
 nickname: "The Father of Advertising"
-total_xp: 225
-total_deployments: 1
+total_xp: 300
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: The Decision Regret Calculator, The Trusted Advisor Score, The Vendor Honeymoon Curve, The Switching Cost Reality Check, The Peer Benchmark Card"
     standout: "Decision Regret Calculator — taps loss aversion directly"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 36-40)"
+    task: "Build 5 production SVGs: decision_regret_calculator, trusted_advisor_score, vendor_honeymoon_curve, switching_cost_reality, peer_benchmark_card"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs — buyer psychology visualizations with loss aversion and social proof data"
 
 current_status:
   availability: "Immediate"

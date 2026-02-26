@@ -1,8 +1,8 @@
 commander: George Orwell
 rank: War Correspondent / Author
 nickname: "The Truth Teller"
-total_xp: 75
-total_deployments: 1
+total_xp: 150
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: The Marketing Claim Autopsy, The Fine Print Decoder, The Pricing Transparency Index, The Vendor-Speak Glossary, The Commitment Reality Check"
     standout: "Marketing Claim Autopsy — most skeptical, most valuable for credibility"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 41-45)"
+    task: "Build 5 production SVGs: marketing_claim_autopsy, fine_print_decoder, pricing_transparency_index, vendor_speak_glossary, commitment_reality_check"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs — vendor mythology exposed via pricing transparency and claim verification data"
 
 current_status:
   availability: "Immediate"

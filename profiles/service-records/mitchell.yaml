@@ -1,8 +1,8 @@
 commander: Brigadier General William "Billy" Mitchell
 rank: Brigadier General
 nickname: "The Father of the Air Force"
-total_xp: 175
-total_deployments: 1
+total_xp: 250
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: The Silent Kill Chain, The Vendor Blind Spot Map, Platform Fragmentation Tax, EDR Operational Tempo, The Adversary's Perspective"
     standout: "The Adversary's Perspective — uniquely confrontational framing"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 16-20)"
+    task: "Build 5 production SVGs: silent_kill_chain, vendor_blind_spot_map, platform_fragmentation_tax, edr_operational_tempo, adversarys_perspective"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs with verified data — adversarial perspective framing with MITRE ATT&CK data"
 
 current_status:
   availability: "Immediate"

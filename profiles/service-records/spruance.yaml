@@ -1,8 +1,8 @@
 commander: Admiral Raymond Ames Spruance
 rank: Admiral
 nickname: "The Quiet Warrior"
-total_xp: 450
-total_deployments: 4
+total_xp: 525
+total_deployments: 5
 success_rate: 100%
 
 specializations:
@@ -78,6 +78,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: MITRE Coverage Rebuke, Independent Test Score Timeline, Vendor Claim vs. Reality Matrix, Detection Rate Confidence Intervals, Cost-Per-True-Positive"
     standout: "Vendor Claim vs. Independent Reality Matrix — most analytically devastating section"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 26-30)"
+    task: "Build 5 production SVGs: mitre_coverage_rebuke, independent_test_score_timeline, vendor_claim_vs_reality, detection_confidence_intervals, cost_per_true_positive"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs — evidence rigor with MITRE MSS 2024 evaluation data and statistical confidence intervals"
 
 path_to_next_achievements:
   first_star:

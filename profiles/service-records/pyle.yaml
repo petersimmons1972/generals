@@ -1,8 +1,8 @@
 commander: Ernie Pyle
 rank: War Correspondent
 nickname: "The GI's Reporter"
-total_xp: 75
-total_deployments: 1
+total_xp: 150
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -20,6 +20,15 @@ deployment_history:
     outcome: "SUCCESS"
     deliverable: "5 ideas: The Midnight Alert, Your Team's Security Workweek, The New-Hire Onboarding Race, The Renewal Conversation, The Breach Survivor Story"
     standout: "Most emotionally resonant section — Security Workweek hits the IT manager personally"
+
+  - date: 2026-02-26
+    campaign: "Operation Build-60"
+    role: "SVG Production Lead (Charts 31-35)"
+    task: "Build 5 production SVGs: midnight_alert, security_workweek, new_hire_onboarding_race, renewal_conversation, breach_survivor_story"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 SVGs — human-centered narratives grounded in SACR 2025 alert fatigue data"
 
 current_status:
   availability: "Immediate"
