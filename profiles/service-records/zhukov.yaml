@@ -1,8 +1,8 @@
 commander: Marshal of the Soviet Union Georgy Konstantinovich Zhukov
 rank: Marshal of the Soviet Union
 nickname: "The Man Who Never Lost a Battle"
-total_xp: 75
-total_deployments: 1
+total_xp: 150
+total_deployments: 2
 success_rate: 100%
 
 specializations:
@@ -41,6 +41,15 @@ deployment_history:
       - "Data-driven design: Every step sourced from intelligence"
       - "Ruthless clarity: 8+ steps objectively worse than 3 - no ambiguity"
     historical_parallel: "At Stalingrad, coordinated multi-front encirclement requiring precise timing. Here, visualized workflow complexity with same operational planning mastery."
+
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Operational Sequence Specialist"
+    task: "5 timeline/swim-lane/process-flow visualization concepts"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: Breach Clock, Response Swim Lanes, Deployment March, Alert Triage Funnel, Midnight Scenario"
+    standout: "Response Swim Lanes — most actionable for Friday-night buyer fear"
 
 path_to_next_achievements:
   first_star:

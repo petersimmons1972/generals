@@ -1,0 +1,27 @@
+commander: David Ogilvy
+rank: Validator
+nickname: "The Father of Advertising"
+total_xp: 225
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Brand Standards
+  - Voice Consistency
+  - Buyer Psychology
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Buyer Psychology Specialist"
+    task: "5 persuasion/framing/decision-trigger visualization concepts"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: The Decision Regret Calculator, The Trusted Advisor Score, The Vendor Honeymoon Curve, The Switching Cost Reality Check, The Peer Benchmark Card"
+    standout: "Decision Regret Calculator — taps loss aversion directly"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Brand alignment, voice validation, buyer psychology"
+  readiness: "100%"

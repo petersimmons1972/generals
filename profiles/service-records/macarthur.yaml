@@ -1,0 +1,27 @@
+commander: General of the Army Douglas MacArthur
+rank: General of the Army (Five-Star)
+nickname: "American Caesar"
+total_xp: 125
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Strategic Vision
+  - Future-State Planning
+  - Dramatic Framing
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Strategic Vision Specialist"
+    task: "5 visionary, big-picture visualization concepts for Clearwatch EDR reports"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: The Sovereignty Spectrum, The Defender's Hourglass, The Vendor Commitment Matrix, The Capability Cliff, The Breach Insurance Actuarial Table"
+    standout: "The Sovereignty Spectrum — genuinely novel framing of vendor lock-in"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Strategic positioning, visionary planning, future-state analysis"
+  readiness: "100%"

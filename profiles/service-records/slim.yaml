@@ -1,0 +1,27 @@
+commander: Field Marshal Sir William Slim
+rank: Field Marshal
+nickname: "Uncle Bill"
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Innovation Under Constraints
+  - Practical Problem Solving
+  - Audience Empathy
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Practical Innovation Specialist"
+    task: "5 constrained-resource, practical visualization concepts for 1–3 person IT teams"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: The Minimum Viable Security Stack, The Vendor Handoff Map, The IT Generalist's Competency Radar, The Day 91 Reality Check, The Cost of Staying Put"
+    standout: "IT Generalist's Competency Radar — best audience empathy in the operation"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Innovation under constraints, difficult situations, morale recovery"
+  readiness: "100%"

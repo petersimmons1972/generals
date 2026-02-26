@@ -1,0 +1,26 @@
+commander: Air Chief Marshal Sir Hugh Dowding
+rank: Air Chief Marshal
+nickname: "Stuffy"
+total_xp: 175
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Systems Integration
+  - Integrated Defense
+  - Architecture
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Systems Integration Specialist"
+    task: "5 integration/interoperability visualization concepts"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: Integration Web, Defense Mesh Density, Platform Consolidation Dividend, API Ecosystem Map, SIEM/SOAR Connection Cost"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Architecture, pipeline integration, integrated defense, systems integration"
+  readiness: "100%"

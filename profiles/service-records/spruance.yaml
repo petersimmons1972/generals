@@ -1,8 +1,8 @@
 commander: Admiral Raymond Ames Spruance
 rank: Admiral
 nickname: "The Quiet Warrior"
-total_xp: 375
-total_deployments: 3
+total_xp: 450
+total_deployments: 4
 success_rate: 100%
 
 specializations:
@@ -15,8 +15,8 @@ competence_stars:
     deployments: 2
     progress: "2/5 (⭐ at 5)"
   visualization_charts:
-    deployments: 1
-    progress: "1/5 (⭐ at 5)"
+    deployments: 2
+    progress: "2/5 (⭐ at 5)"
   methodical_execution:
     deployments: 1
     progress: "1/5 (⭐ at 5)"
@@ -70,6 +70,14 @@ deployment_history:
     deliverables: "3 pages (1,063 lines total)"
     critical_event: "Held HALT position 10 hours awaiting explicit RESUME (coordination protocol lesson)"
     historical_parallel: "At Midway, refused to chase carriers into night despite pressure. Here, refused to infer RESUME from context."
+
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Evidence Rigor Specialist"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: MITRE Coverage Rebuke, Independent Test Score Timeline, Vendor Claim vs. Reality Matrix, Detection Rate Confidence Intervals, Cost-Per-True-Positive"
+    standout: "Vendor Claim vs. Independent Reality Matrix — most analytically devastating section"
 
 path_to_next_achievements:
   first_star:

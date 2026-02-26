@@ -1,0 +1,27 @@
+commander: Ernie Pyle
+rank: War Correspondent
+nickname: "The GI's Reporter"
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Human Narrative
+  - Ground-Level Storytelling
+  - Content Drafting
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Human Narrative Specialist"
+    task: "5 human-centered, emotionally resonant visualization concepts"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: The Midnight Alert, Your Team's Security Workweek, The New-Hire Onboarding Race, The Renewal Conversation, The Breach Survivor Story"
+    standout: "Most emotionally resonant section — Security Workweek hits the IT manager personally"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Human stories, content drafting, humanization"
+  readiness: "100%"

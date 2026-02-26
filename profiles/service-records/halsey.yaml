@@ -1,0 +1,26 @@
+commander: Fleet Admiral William Frederick "Bull" Halsey Jr.
+rank: Fleet Admiral
+nickname: "Bull"
+total_xp: 150
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Aggressive Action
+  - Competitive Analysis
+  - Rapid Response
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Visualization Ideation Specialist"
+    task: "5 aggressive competitive-intel visualization concepts for Clearwatch EDR reports"
+    model: "Sonnet (model error — should have been Opus)"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: Vendor Momentum Meter, Threat Velocity Scatter Plot, Competitive Pressure Gauge, Kill Chain Velocity Chart, Market Position Drift Map"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Aggressive action, competitive analysis, rapid response"
+  readiness: "100%"

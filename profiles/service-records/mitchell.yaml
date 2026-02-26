@@ -1,0 +1,27 @@
+commander: Brigadier General William "Billy" Mitchell
+rank: Brigadier General
+nickname: "The Father of the Air Force"
+total_xp: 175
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Unconventional Formats
+  - Code Review
+  - Challenging Assumptions
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Unconventional Framing Specialist"
+    task: "5 format-breaking, orthodoxy-challenging visualization concepts"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: The Silent Kill Chain, The Vendor Blind Spot Map, Platform Fragmentation Tax, EDR Operational Tempo, The Adversary's Perspective"
+    standout: "The Adversary's Perspective — uniquely confrontational framing"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Code review, challenging assumptions, unconventional formats"
+  readiness: "100%"

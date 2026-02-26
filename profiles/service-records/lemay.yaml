@@ -1,0 +1,27 @@
+commander: General Curtis E. LeMay
+rank: General (Four-Star)
+nickname: "Iron Eagle"
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Precision Efficiency
+  - Maximum Effectiveness
+  - Quantitative Analysis
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Precision Efficiency Specialist"
+    task: "5 maximum-precision, quantitatively exact visualization concepts"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: Alert Noise vs. Signal Ratio, Breach Math Scorecard, Analyst Hour Burn Rate, Detection Speed Payoff, 5-Year Decision Ledger"
+    standout: "Analyst Hour Burn Rate — most viscerally personal for 2-person IT team"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Strategic bombing (precision), efficiency, maximum effectiveness"
+  readiness: "100%"

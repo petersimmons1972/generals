@@ -1,0 +1,27 @@
+commander: George Orwell
+rank: War Correspondent / Author
+nickname: "The Truth Teller"
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Truth vs Spin Detection
+  - Propaganda Analysis
+  - Ethical Assessment
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Truth/Spin Specialist"
+    task: "5 vendor-mythology-exposing visualization concepts"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: The Marketing Claim Autopsy, The Fine Print Decoder, The Pricing Transparency Index, The Vendor-Speak Glossary, The Commitment Reality Check"
+    standout: "Marketing Claim Autopsy — most skeptical, most valuable for credibility"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Propaganda detection, political analysis, detecting mythology, ethical assessment"
+  readiness: "100%"

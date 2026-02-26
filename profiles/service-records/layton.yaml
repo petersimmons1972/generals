@@ -1,0 +1,27 @@
+commander: Rear Admiral Edwin Thomas Layton
+rank: Rear Admiral
+nickname: "The Man Who Predicted Pearl Harbor (Too Late)"
+total_xp: 225
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Intelligence Analysis
+  - Pattern Recognition
+  - SIGINT
+  - Diagnostics
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Operation Warroom Viz"
+    role: "Intelligence Analysis Specialist"
+    task: "5 SIGINT-style visualization concepts using pattern recognition"
+    model: "Opus"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "5 ideas: The Dwell Time Clock, Vendor Reliability Index, Detection Gap Intelligence Map, Vendor Trust Erosion Pattern, The False Positive Tax"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Intelligence analysis, SIGINT, diagnostics, pattern recognition"
+  readiness: "100%"
