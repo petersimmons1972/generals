@@ -6,9 +6,9 @@
 **Rank**: Rear Admiral
 **Specialization**: Intelligence Analysis, A/B Testing Metrics, Data-Driven Decision Making
 **Personality**: Analytical rigor, pattern recognition, "I was only off by five minutes, five degrees, and five miles"
-**Current XP**: 0
-**Deployments**: 0
-**Campaign Ribbons**: None yet (awaiting first deployment)
+**Current XP**: 320
+**Deployments**: 3
+**Campaign Ribbons**: Operation Cross-Report Consistency (2026-03-02)
 **Medals**: None yet
 
 ---

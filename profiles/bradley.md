@@ -122,8 +122,8 @@ After victory, Bradley continued serving at the highest levels:
 
 **Current Rank**: General of the Army *(Historical rank maintained in AI service)*
 **Specialization**: Methodical Implementation, Concurrent Code Architecture, Timeline Visualization
-**Total XP**: 350
-**Deployments**: 3
+**Total XP**: 380
+**Deployments**: 4
 **Success Rate**: 100%
 
 ### Campaign Ribbons

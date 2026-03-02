@@ -1,8 +1,8 @@
 commander: General of the Army Omar Nelson Bradley
 rank: General of the Army (Five-Star)
 nickname: "The Soldier's General"
-total_xp: 350
-total_deployments: 3
+total_xp: 380
+total_deployments: 4
 success_rate: 100%
 
 specializations:
@@ -86,3 +86,16 @@ current_status:
   availability: "Immediate"
   specializations: "Methodical Implementation, Concurrent Code Architecture, State Machines"
   readiness: "100%"
+
+  - date: 2026-03-02
+    campaign: "Operation Cross-Report Consistency"
+    project: "clearwatch"
+    role: "Implementation Specialist — NGFW regex, ROI prohibition, consistency tests"
+    task: "Fix NGFW regex variants (GH #1543), add ROI timeline PROHIBITION to 2 dossiers (GH #1554), write cross-dossier consistency tests"
+    xp_earned: 30
+    xp_breakdown: "30 (3 independent TDD tasks, data integrity call on unsourced ROI)"
+    outcome: "SUCCESS"
+    deliverables:
+      - "NGFW regex extended to next-gen variants (commit 7a30cc2)"
+      - "ROI PROHIBITION added to both dossiers (commit beb827a)"
+      - "3 cross-dossier consistency tests in test_cross_dossier_consistency.py"

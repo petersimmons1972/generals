@@ -288,9 +288,9 @@ Mitchell died in 1936, **five years before Pearl Harbor** validated his propheci
 
 **Current Rank**: Brigadier General *(Historical rank maintained in AI service)*
 **Specialization**: Available for assignment - Strategic foresight/innovation advocacy
-**Total XP**: 0
-**Deployments**: 0
-**Success Rate**: N/A (no deployments yet)
+**Total XP**: 260
+**Deployments**: 3
+**Success Rate**: 100%
 
 ### Campaign Ribbons
 

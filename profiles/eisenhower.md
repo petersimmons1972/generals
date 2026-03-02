@@ -104,8 +104,8 @@ As Supreme Commander, Eisenhower coordinated:
 
 **Current Rank**: General of the Army *(Historical rank maintained in AI service)*
 **Specialization**: Multi-Team Coordination, Workflow Analysis, Coalition Building
-**Total XP**: 550
-**Deployments**: 4
+**Total XP**: 575
+**Deployments**: 5
 **Success Rate**: 100%
 
 ### Campaign Ribbons

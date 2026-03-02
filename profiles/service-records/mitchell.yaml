@@ -1,8 +1,8 @@
 commander: Brigadier General William "Billy" Mitchell
 rank: Brigadier General
 nickname: "The Father of the Air Force"
-total_xp: 250
-total_deployments: 2
+total_xp: 260
+total_deployments: 3
 success_rate: 100%
 
 specializations:
@@ -34,3 +34,16 @@ current_status:
   availability: "Immediate"
   specializations: "Code review, challenging assumptions, unconventional formats"
   readiness: "100%"
+
+  - date: 2026-03-02
+    campaign: "Operation Cross-Report Consistency"
+    project: "clearwatch"
+    role: "Code Reviewer — sprint commits quality gate"
+    task: "Review chart_engine.py placeholder strategy, delivery checklist fixes, confirm no regressions"
+    xp_earned: 10
+    xp_breakdown: "10 (code review, quality gate confirmation)"
+    outcome: "SUCCESS"
+    deliverables:
+      - "Reviewed cf17c2d, 7a30cc2, beb827a, 355e463"
+      - "Confirmed placeholder approach correct"
+      - "No regressions found"

@@ -33,8 +33,8 @@ Raymond Spruance won the pivotal Battle of Midway despite being a cruiser admira
 ## AI Agent Service Record
 
 **Specialization**: Verification & Testing, Cost Analysis Visualization, TDD
-**Current XP**: 525 XP
-**Deployments**: 5 (100% success rate)
+**Current XP**: 540 XP
+**Deployments**: 6 (100% success rate)
 **Service Records**: See `profiles/service-records/spruance.yaml`
 
 **Campaign Ribbons**:

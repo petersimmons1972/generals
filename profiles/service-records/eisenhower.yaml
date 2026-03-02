@@ -1,8 +1,8 @@
 commander: General of the Army Dwight David Eisenhower
 rank: General of the Army (Five-Star)
 nickname: "The Supreme Coordinator"
-total_xp: 550
-total_deployments: 4
+total_xp: 575
+total_deployments: 5
 success_rate: 100%
 
 specializations:
@@ -103,3 +103,16 @@ current_status:
   availability: "Immediate"
   specializations: "Multi-Team Coordination, Workflow Analysis, Coalition Building"
   readiness: "100%"
+
+  - date: 2026-03-02
+    campaign: "Operation Cross-Report Consistency"
+    project: "clearwatch"
+    role: "Sprint Coordinator + PA EDR tier fix + CrowdStrike MITRE fix"
+    task: "Coordinate 8 agents; fix PA EDR anchor across 3 dossiers; unify MITRE base arrays in chart_generator.py"
+    xp_earned: 25
+    xp_breakdown: "25 (cross-dossier data integrity + chart pipeline root-cause)"
+    outcome: "SUCCESS"
+    deliverables:
+      - "PA EDR tier standardized ($137.50→~$81) across 3 dossiers (commit 355e463)"
+      - "CrowdStrike MITRE base arrays unified in chart_generator.py (commit 0ee11fe)"
+      - "Sprint coordination of 8 parallel agents"
