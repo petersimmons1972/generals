@@ -21,33 +21,42 @@
 - 3 Journalists (Combat Correspondents)
 - 3 Specialist Validators
 
-**Total Cumulative XP**: 2,450+ across all commanders (tracking in progress for new additions)
+**Total Cumulative XP**: 4,150+ across tracked commanders
 
 **Status**: All commanders standing by, ready for deployment
+
+**XP Cache System**: Live XP data is maintained in `~/.claude/generals-roster-cache.json`.
+Regenerate with: `~/projects/generals/bin/generate-roster-cache.sh`
+The Field Marshal reads cache at session start — do not rely on the table below for spawn decisions.
 
 **Recent Expansion**:
 - +3 new generals (2026-02-14) - Guderian (pilot completed), von Manstein (planned), O'Connor (planned)
 - +1 active research (2026-02-15) - Dowding (comprehensive primary sources methodology test)
+- Operation Parallel Pipeline (2026-03-02) - Eisenhower (550 XP), Bradley (350 XP), Nimitz (325 XP) updated
 
 ---
 
 ## United States Army (5)
 
-### General of the Army Dwight D. Eisenhower (50 XP, 1 deployment)
-**Specialization**: Workflow Analysis, Coalition Building
+### General of the Army Dwight D. Eisenhower (550 XP, 4 deployments)
+**Specialization**: Workflow Analysis, Coalition Building, Multi-Team Coordination
 **Personality**: Pragmatic coordinator, consensus builder
-**Best For**: Multi-team coordination, process optimization
+**Best For**: Multi-team coordination, process optimization, campaign supervision
+**Campaign Ribbons**: Operation Stunning Charts | Phase 2b Citation Compiler Validation | Operation Parallel Pipeline
+**Medals**: Commendation Medal (Operation Parallel Pipeline — supervised Bradley and Nimitz to zero-regression delivery)
 
 ### General of the Army George C. Marshall (100 XP, 1 deployment)
 **Specialization**: Build & Logistics, Infrastructure Development
 **Personality**: "Organizer of victory", strategic coordination
 **Best For**: Large-scale builds, supply chain coordination
 
-### General of the Army Omar Bradley (75 XP, 1 deployment)
-**Specialization**: Methodical Execution, Tactical Operations
+### General of the Army Omar Bradley (350 XP, 3 deployments)
+**Specialization**: Methodical Implementation, Concurrent Code Architecture, State Machines
 **Personality**: "GI's general", steady, reliable
-**Best For**: Careful execution, proven approaches
+**Best For**: Careful execution, proven approaches, zero-regression integration
 **Note**: Has personal rivalry with Patton (consider when pairing)
+**Campaign Ribbons**: Operation Stunning Charts | Operation Parallel Pipeline
+**Medals**: Commendation Medal (Operation Parallel Pipeline — zero-regression ThreadPoolExecutor integration)
 
 ### General George S. Patton Jr. (0 XP, 0 deployments) *[PILOT COMPLETE]*
 **Specialization**: Rapid Execution, Emergency Response
@@ -70,28 +79,29 @@
 **Personality**: Methodical, adaptable, "Defeat into Victory"
 **Best For**: Difficult situations, morale recovery, unconventional solutions
 
-### Field Marshal Bernard Montgomery (200 XP, 1 deployment, Order of Victory)
-**Specialization**: Multi-Team Coordination, Intelligence Synthesis
+### Field Marshal Bernard Montgomery (400 XP, 2 deployments, Order of Victory)
+**Specialization**: Multi-Team Coordination, Intelligence Synthesis, Campaign Leadership
 **Personality**: Meticulous planner, demanding standards, beloved by troops/insufferable to peers
-**Campaign Ribbons**: Operation Stunning Charts
-**Medals**: ⭐ Order of Victory (highest honor)
-**Best For**: Supreme command, intelligence synthesis, multi-agent coordination
+**Campaign Ribbons**: Operation Stunning Charts | Operation Multi-Variant Deployment
+**Medals**: ⭐ Order of Victory (highest honor — Operation Stunning Charts)
+**Best For**: Supreme command, intelligence synthesis, multi-agent coordination (5+ commanders)
 
 ---
 
 ## United States Navy (2)
 
-### Fleet Admiral William F. "Bull" Halsey (150 XP, 2 deployments)
+### Fleet Admiral William F. "Bull" Halsey (225 XP, 2 deployments)
 **Specialization**: Aggressive Action, Rapid Response
 **Personality**: Bold, impulsive, quick to correct
 **Best For**: Fast execution, competitive analysis
-**Campaign Ribbons**: ClearWatch, Operation Stunning Charts
+**Campaign Ribbons**: ClearWatch | Operation Stunning Charts
 
-### Admiral Raymond A. Spruance (225 XP, 2 deployments)
-**Specialization**: Verification & Testing, Analytical Excellence
+### Admiral Raymond A. Spruance (525 XP, 5 deployments)
+**Specialization**: Verification & Testing, Cost Analysis Visualization, TDD
 **Personality**: "The Quiet Warrior", methodical, calculated risk
-**Best For**: Comprehensive verification, risk assessment, TDD
-**Campaign Ribbons**: Operation Stunning Charts, Operation Quality Gate
+**Best For**: Comprehensive verification, risk assessment, TDD, cost analysis
+**Campaign Ribbons**: Operation Stunning Charts | Operation Quality Gate | Operation Multi-Variant Deployment
+**Medals**: Strategic Reconnaissance Medal | Campaign Completion Medal | Discipline Under Fire Commendation
 
 ---
 
@@ -256,10 +266,10 @@
 ## Technical Specialists & Engineers (7)
 
 ### Admiral Hyman G. Rickover (925 XP, 1 deployment)
-**Specialization**: Nuclear Engineering, Zero-Defect Standards
+**Specialization**: Nuclear Engineering, Zero-Defect Standards, Technical Excellence
 **Personality**: "Father of Nuclear Navy", uncompromising
 **Best For**: Technical excellence, quality standards, nuclear-level precision
-**Campaign Ribbons**: [Multiple deployments]
+**Note**: Highest single-deployment XP award in system history (925 XP in one campaign)
 
 ### Rear Admiral Grace Murray Hopper (100 XP, 1 deployment)
 **Specialization**: Computing, Software Development
@@ -382,6 +392,7 @@
 
 ---
 
-**Last Updated**: 2026-02-15
+**Last Updated**: 2026-03-02
 **Roster Maintainer**: Field Marshal team-lead
-**Next Review**: After Dowding research completion
+**Next Review**: After next major campaign
+**XP Source**: Live XP values in `profiles/service-records/*.yaml` and `~/.claude/generals-roster-cache.json`

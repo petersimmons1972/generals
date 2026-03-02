@@ -554,6 +554,36 @@ Skills contain essential workflows and critical warnings. Docs contain deep dive
 
 ---
 
+## XP Keeper Cache System
+
+**Introduced 2026-03-02** — The Field Marshal reads a pre-generated JSON cache at session start rather than scanning all Markdown tables. This keeps spawn context lean.
+
+```bash
+# Generate/refresh the roster cache
+~/projects/generals/bin/generate-roster-cache.sh
+
+# Cache location
+~/.claude/generals-roster-cache.json
+
+# Standalone refresh (also called from session-start hooks)
+~/.claude/refresh-generals-cache.sh
+```
+
+**Cache format:**
+```json
+{
+  "eisenhower": {"xp": 550, "model": "opus", "spec": "coordination"},
+  "spruance":   {"xp": 525, "model": "opus", "spec": "verification"},
+  "rickover":   {"xp": 925, "model": "opus", "spec": "zero-defect"},
+  ...
+  "_generated": "2026-03-02T05:04:45Z"
+}
+```
+
+**Operational reference**: See `~/AGENTS.md` for spawn patterns, team lookup tables, and the full current roster table.
+
+---
+
 ## Privacy & Data
 
 Generals is **completely local:**

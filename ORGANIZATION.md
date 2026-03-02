@@ -9,12 +9,15 @@
 **Looking for...** | **Check this file**
 ---|---
 Commander roster with current XP/ribbons | [COMMAND-ROSTER.md](COMMAND-ROSTER.md)
+**Live XP data (authoritative)** | `profiles/service-records/*.yaml` + `~/.claude/generals-roster-cache.json`
 Why Gordon Ramsay & CISO exist | [SPECIALISTS.md](SPECIALISTS.md)
 XP system, medals, competence stars | [PROGRESSION-SYSTEM.md](PROGRESSION-SYSTEM.md)
 Character portraits & narratives | [COMMAND-NARRATIVES.md](COMMAND-NARRATIVES.md)
 Individual commander profiles | [profiles/](profiles/) directory
 Deployment mission records | [deployments/](deployments/) directory
 Project overview & quick start | [README.md](README.md)
+**Change history** | [CHANGELOG.md](CHANGELOG.md)
+Spawn patterns & operational reference | `~/AGENTS.md` (local, not in repo)
 **THIS navigation guide** | [ORGANIZATION.md](ORGANIZATION.md) *(you are here)*
 
 ---
@@ -370,6 +373,6 @@ This system honors real WWII achievements while building a functional AI agent c
 
 ---
 
-**Last Updated**: 2026-02-08
+**Last Updated**: 2026-03-02
 
 **Questions?** Check the Quick Navigation table at the top of this file.
