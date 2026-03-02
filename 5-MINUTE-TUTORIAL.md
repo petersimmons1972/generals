@@ -186,7 +186,7 @@ git push
 
 - **Philosophy** → [PHILOSOPHY.md](PHILOSOPHY.md) — Why this works
 - **Advanced Features** → [ADVANCED-FEATURES.md](ADVANCED-FEATURES.md) — Memory, social media, testing
-- **Full Roster** → [COMMAND-ROSTER.md](COMMAND-ROSTER.md) — Meet all 20 commanders
+- **Full Roster** → [COMMAND-ROSTER.md](COMMAND-ROSTER.md) — Meet all 45 commanders
 - **Skills Reference** → [SKILLS.md](SKILLS.md) — Deep dive on the 4 core skills
 
 ---
@@ -204,7 +204,7 @@ Let Claude auto-match. The system analyzes:
 
 **No penalty for experimentation.** If Patton was too aggressive, deploy Spruance next time. The system learns from both approaches.
 
-### "Do I need all 20 commanders?"
+### "Do I need all 45 commanders?"
 
 No. Start with 3-5. Most work uses:
 - Patton (aggressive execution)
