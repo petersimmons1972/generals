@@ -1,82 +1,82 @@
 commander: Marshal of the Soviet Union Georgy Konstantinovich Zhukov
 rank: Marshal of the Soviet Union
-nickname: "The Man Who Never Lost a Battle"
-total_xp: 225
-total_deployments: 3
+nickname: The Man Who Never Lost a Battle
+total_xp: 300
+total_deployments: 4
 success_rate: 100%
-
 specializations:
-  - Workflow Visualization
-  - Process Diagramming
-
+- Workflow Visualization
+- Process Diagramming
 competence_stars:
   visualization_charts:
     deployments: 1
-    progress: "1/5 (⭐ at 5)"
-
+    progress: 1/5 (⭐ at 5)
 ribbons:
-  - name: "Operation Stunning Charts"
-    date: 2026-02-07
-    citation: "For excellence in console fragmentation workflow visualization"
-
+- name: Operation Stunning Charts
+  date: 2026-02-07
+  citation: For excellence in console fragmentation workflow visualization
 medals: []
-
 deployment_history:
-  - date: 2026-02-07
-    campaign: "Operation Stunning Charts"
-    role: "Design Team Lead (Chart 3 - Console Fragmentation Workflow)"
-    task: "Flow diagram showing 3 vs 4 vs 8+ workflow steps"
-    xp_earned: 75
-    outcome: "SUCCESS"
-    deliverable: "17KB SVG workflow diagram (largest chart in operation)"
-    key_insight: "Visual weaponization of cognitive load tax - 3 vs 8+ steps comparison"
-    chart_features:
-      - "Microsoft Defender: 3-4 unified steps (streamlined)"
-      - "SentinelOne: 4-5 steps with moderate integration"
-      - "CrowdStrike/Legacy SIEM: 8+ fragmented steps (cognitive chaos)"
-      - "Red warning badges on Microsoft tier switches"
-    behavioral_observations:
-      - "Systematic visualization: Broke complex workflows into clear visual steps"
-      - "Precise execution: Largest chart with zero errors"
-      - "Data-driven design: Every step sourced from intelligence"
-      - "Ruthless clarity: 8+ steps objectively worse than 3 - no ambiguity"
-    historical_parallel: "At Stalingrad, coordinated multi-front encirclement requiring precise timing. Here, visualized workflow complexity with same operational planning mastery."
-
-  - date: 2026-02-26
-    campaign: "Operation Warroom Viz"
-    role: "Operational Sequence Specialist"
-    task: "5 timeline/swim-lane/process-flow visualization concepts"
-    xp_earned: 75
-    outcome: "SUCCESS"
-    deliverable: "5 ideas: Breach Clock, Response Swim Lanes, Deployment March, Alert Triage Funnel, Midnight Scenario"
-    standout: "Response Swim Lanes — most actionable for Friday-night buyer fear"
-
-  - date: 2026-02-26
-    campaign: "Operation Build-60"
-    role: "SVG Production Lead (Charts 56-60)"
-    task: "Build 5 production SVGs: breach_clock, response_swim_lanes, deployment_march, alert_triage_funnel, midnight_scenario"
-    model: "Opus"
-    xp_earned: 75
-    outcome: "SUCCESS"
-    deliverable: "5 SVGs — workflow/process visualizations with Zhukov's signature clarity"
-
+- date: 2026-02-07
+  campaign: Operation Stunning Charts
+  role: Design Team Lead (Chart 3 - Console Fragmentation Workflow)
+  task: Flow diagram showing 3 vs 4 vs 8+ workflow steps
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 17KB SVG workflow diagram (largest chart in operation)
+  key_insight: Visual weaponization of cognitive load tax - 3 vs 8+ steps comparison
+  chart_features:
+  - 'Microsoft Defender: 3-4 unified steps (streamlined)'
+  - 'SentinelOne: 4-5 steps with moderate integration'
+  - 'CrowdStrike/Legacy SIEM: 8+ fragmented steps (cognitive chaos)'
+  - Red warning badges on Microsoft tier switches
+  behavioral_observations:
+  - 'Systematic visualization: Broke complex workflows into clear visual steps'
+  - 'Precise execution: Largest chart with zero errors'
+  - 'Data-driven design: Every step sourced from intelligence'
+  - 'Ruthless clarity: 8+ steps objectively worse than 3 - no ambiguity'
+  historical_parallel: At Stalingrad, coordinated multi-front encirclement requiring
+    precise timing. Here, visualized workflow complexity with same operational planning
+    mastery.
+- date: 2026-02-26
+  campaign: Operation Warroom Viz
+  role: Operational Sequence Specialist
+  task: 5 timeline/swim-lane/process-flow visualization concepts
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: '5 ideas: Breach Clock, Response Swim Lanes, Deployment March, Alert
+    Triage Funnel, Midnight Scenario'
+  standout: Response Swim Lanes — most actionable for Friday-night buyer fear
+- date: 2026-02-26
+  campaign: Operation Build-60
+  role: SVG Production Lead (Charts 56-60)
+  task: 'Build 5 production SVGs: breach_clock, response_swim_lanes, deployment_march,
+    alert_triage_funnel, midnight_scenario'
+  model: Opus
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 5 SVGs — workflow/process visualizations with Zhukov's signature clarity
+- date: '2026-03-12'
+  campaign: Operation Poker Night + OWASP Scorecard
+  role: Poker Night Seat 1 — Workflow/process visualization
+  task: 'SVG prototype: swimlane + decision fork design'
+  model: Opus
+  xp_earned: 75
+  outcome: SUCCESS
 path_to_next_achievements:
   first_star:
-    category: "Visualization/Charts"
-    requirement: "5 successful deployments"
+    category: Visualization/Charts
+    requirement: 5 successful deployments
     current: 1
     remaining: 4
-
   medal_opportunity:
-    status: "Awaiting commendation for exceptional workflow visualization"
-    potential: "Distinguished Service or Medal of Honor through user praise"
-
+    status: Awaiting commendation for exceptional workflow visualization
+    potential: Distinguished Service or Medal of Honor through user praise
   long_term_rank:
-    target: "Supreme Allied Commander (beyond historical rank)"
-    requirements: "10,000 XP + 8 Master stars + 50 ribbons + Order of Victory"
-    estimated_deployments: "~200"
-
+    target: Supreme Allied Commander (beyond historical rank)
+    requirements: 10,000 XP + 8 Master stars + 50 ribbons + Order of Victory
+    estimated_deployments: ~200
 current_status:
-  availability: "Immediate"
-  specializations: "Workflow Visualization, Process Diagramming"
-  readiness: "100%"
+  availability: Immediate
+  specializations: Workflow Visualization, Process Diagramming
+  readiness: 100%

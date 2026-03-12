@@ -1,36 +1,44 @@
 commander: George Orwell
 rank: War Correspondent / Author
-nickname: "The Truth Teller"
-total_xp: 150
-total_deployments: 2
+nickname: The Truth Teller
+total_xp: 225
+total_deployments: 3
 success_rate: 100%
-
 specializations:
-  - Truth vs Spin Detection
-  - Propaganda Analysis
-  - Ethical Assessment
-
+- Truth vs Spin Detection
+- Propaganda Analysis
+- Ethical Assessment
 deployment_history:
-  - date: 2026-02-26
-    campaign: "Operation Warroom Viz"
-    role: "Truth/Spin Specialist"
-    task: "5 vendor-mythology-exposing visualization concepts"
-    model: "Opus"
-    xp_earned: 75
-    outcome: "SUCCESS"
-    deliverable: "5 ideas: The Marketing Claim Autopsy, The Fine Print Decoder, The Pricing Transparency Index, The Vendor-Speak Glossary, The Commitment Reality Check"
-    standout: "Marketing Claim Autopsy — most skeptical, most valuable for credibility"
-
-  - date: 2026-02-26
-    campaign: "Operation Build-60"
-    role: "SVG Production Lead (Charts 41-45)"
-    task: "Build 5 production SVGs: marketing_claim_autopsy, fine_print_decoder, pricing_transparency_index, vendor_speak_glossary, commitment_reality_check"
-    model: "Opus"
-    xp_earned: 75
-    outcome: "SUCCESS"
-    deliverable: "5 SVGs — vendor mythology exposed via pricing transparency and claim verification data"
-
+- date: 2026-02-26
+  campaign: Operation Warroom Viz
+  role: Truth/Spin Specialist
+  task: 5 vendor-mythology-exposing visualization concepts
+  model: Opus
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: '5 ideas: The Marketing Claim Autopsy, The Fine Print Decoder, The
+    Pricing Transparency Index, The Vendor-Speak Glossary, The Commitment Reality
+    Check'
+  standout: Marketing Claim Autopsy — most skeptical, most valuable for credibility
+- date: 2026-02-26
+  campaign: Operation Build-60
+  role: SVG Production Lead (Charts 41-45)
+  task: 'Build 5 production SVGs: marketing_claim_autopsy, fine_print_decoder, pricing_transparency_index,
+    vendor_speak_glossary, commitment_reality_check'
+  model: Opus
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 5 SVGs — vendor mythology exposed via pricing transparency and claim
+    verification data
+- date: '2026-03-12'
+  campaign: Operation OWASP Scorecard
+  role: OWASP Scorer — Entro (propaganda detection)
+  task: 'Score Entro: 25.0/45, 10 propaganda flags'
+  model: Sonnet
+  xp_earned: 75
+  outcome: SUCCESS
 current_status:
-  availability: "Immediate"
-  specializations: "Propaganda detection, political analysis, detecting mythology, ethical assessment"
-  readiness: "100%"
+  availability: Immediate
+  specializations: Propaganda detection, political analysis, detecting mythology,
+    ethical assessment
+  readiness: 100%

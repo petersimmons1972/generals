@@ -1,0 +1,36 @@
+commander: Edward R. Murrow
+rank: Correspondent
+nickname: "The Voice of Truth"
+total_xp: 175
+total_deployments: 2
+success_rate: 100%
+
+specializations:
+  - Fact-Checking
+  - Statistical Verification
+
+deployment_history:
+  - date: 2026-02-26
+    campaign: "Prior deployment"
+    role: "Fact-checker"
+    xp_earned: 100
+    outcome: "SUCCESS"
+    note: "XP from prior deployments per AGENTS.md roster"
+
+  - date: 2026-03-12
+    campaign: "Operation OWASP Scorecard"
+    role: "OWASP Scorer — Astrix (fact-checking specialist)"
+    task: "Score Astrix against 45-question OWASP NHI rubric (23.5/45). Flagged brand-vs-documentation gap, Workday investor conflict, OWASP co-authorship bias."
+    model: "Sonnet"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "research/nhi/scorecards/astrix_owasp_scorecard.md (39KB)"
+    behavioral_observations:
+      - "Identified 4 integrity flags others would miss"
+      - "Distinguished independently verified (65%) from vendor-stated (35%) claims"
+      - "Conservative scoring aligned with rubric guidance"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Fact-Checking, Statistical Verification"
+  readiness: "100%"

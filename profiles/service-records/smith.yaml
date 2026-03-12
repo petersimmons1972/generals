@@ -1,0 +1,29 @@
+commander: General Walter Bedell Smith
+rank: General
+nickname: "Beetle"
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+
+specializations:
+  - Chief of Staff Operations
+  - Intel Coordination
+
+deployment_history:
+  - date: 2026-03-12
+    campaign: "Operation OWASP Scorecard"
+    role: "OWASP Scorer — Vorlon (intel/staff coordination)"
+    task: "Score Vorlon against 45-question OWASP NHI rubric (17.0/45). Correctly identified deliberate scope gaps vs research uncertainty."
+    model: "Sonnet"
+    xp_earned: 75
+    outcome: "SUCCESS"
+    deliverable: "research/nhi/scorecards/vorlon_owasp_scorecard.md (27KB)"
+    behavioral_observations:
+      - "Clean first deployment — no ramp-up issues"
+      - "Correctly distinguished deliberate product scope gaps from research uncertainty"
+      - "Scope note framing (ecosystem vs lifecycle) adds analytical value to final report"
+
+current_status:
+  availability: "Immediate"
+  specializations: "Chief of Staff Operations, Intel Coordination"
+  readiness: "100%"
