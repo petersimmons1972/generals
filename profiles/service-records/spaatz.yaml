@@ -1,0 +1,23 @@
+commander: General Carl Andrew "Tooey" Spaatz
+rank: General
+nickname: Tooey
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+specializations:
+- Precision Strikes
+- Strategic Campaigns
+- Code Audit
+deployment_history:
+- date: '2026-03-12'
+  campaign: Operation Red Storm
+  role: Zone 1 Auditor — Chart Monolith
+  task: Adversarial audit of chart_generator.py (8,638 LOC), chart_engine.py, chart_data.py, design_constants.py, SVG validators
+  model: Sonnet
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 9 issues filed (8 bugs incl. 3 High SVG injection, 1 code-health)
+current_status:
+  availability: Immediate
+  specializations: Precision strikes, strategic campaigns, SVG/chart auditing
+  readiness: 100%

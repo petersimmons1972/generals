@@ -1,0 +1,23 @@
+commander: Lieutenant General Leslie Richard Groves Jr.
+rank: Lieutenant General
+nickname: Groves
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+specializations:
+- Mega-Project Management
+- Data Integrity
+- Concurrency Auditing
+deployment_history:
+- date: '2026-03-12'
+  campaign: Operation Red Storm
+  role: Zone 7 Auditor — Concurrency & Caching
+  task: Adversarial audit of section_cache.py, learning_logger.py, learning/ directory (22 files)
+  model: Sonnet
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 10 issues filed (9 bugs incl. 1 Critical dirty-connection-pool, multiple race conditions, 1 code-health)
+current_status:
+  availability: Immediate
+  specializations: Mega-project management, data integrity, concurrency/race condition auditing
+  readiness: 100%

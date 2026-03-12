@@ -1,0 +1,23 @@
+commander: Grossadmiral Karl Doenitz
+rank: Grossadmiral
+nickname: Doenitz
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+specializations:
+- Submarine Warfare
+- Asymmetric Attack Vectors
+- Security Auditing
+deployment_history:
+- date: '2026-03-12'
+  campaign: Operation Red Storm
+  role: Zone 3 Auditor — Research Agent & Scraping
+  task: Adversarial audit of research_agent.py, searxng_client.py, url_cache.py, source validators
+  model: Sonnet
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 12 issues filed (11 bugs incl. SSRF gap, prompt injection, cache poisoning, 1 code-health)
+current_status:
+  availability: Immediate
+  specializations: Asymmetric attack vectors, security auditing, SSRF/injection
+  readiness: 100%

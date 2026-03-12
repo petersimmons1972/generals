@@ -1,0 +1,23 @@
+commander: Generalleutnant Adolf Galland
+rank: Generalleutnant
+nickname: Galland
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+specializations:
+- Fighter Operations
+- Air Superiority
+- HTML/Injection Auditing
+deployment_history:
+- date: '2026-03-12'
+  campaign: Operation Red Storm
+  role: Zone 2 Auditor — HTML Processing
+  task: Adversarial audit of semantic_html.py, pdf_generator.py, pdf_templates.py, report_parser.py, stage_5.py, stage_5_5.py
+  model: Sonnet
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 12 issues filed (11 bugs incl. 3 High injection chains, 1 code-health)
+current_status:
+  availability: Immediate
+  specializations: Air superiority, HTML/injection surface auditing
+  readiness: 100%

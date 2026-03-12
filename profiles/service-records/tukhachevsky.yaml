@@ -1,0 +1,23 @@
+commander: Marshal Mikhail Nikolayevich Tukhachevsky
+rank: Marshal
+nickname: Tukhachevsky
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+specializations:
+- Deep Operations Theory
+- Sequential Penetration
+- Pipeline Stage Auditing
+deployment_history:
+- date: '2026-03-12'
+  campaign: Operation Red Storm
+  role: Zone 4 Auditor — Pipeline Stages 0-4
+  task: Adversarial audit of stages 0-4, claims_extractor, sanitizer, orchestrator, input_validator
+  model: Sonnet
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 14 issues filed (13 bugs incl. 3 High crash/bypass vectors, 1 code-health)
+current_status:
+  availability: Immediate
+  specializations: Deep operations, sequential stage penetration, input validation auditing
+  readiness: 100%

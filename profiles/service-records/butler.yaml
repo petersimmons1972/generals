@@ -1,0 +1,23 @@
+commander: Major General Smedley Darlington Butler
+rank: Major General
+nickname: Butler
+total_xp: 75
+total_deployments: 1
+success_rate: 100%
+specializations:
+- Direct Action
+- Anti-Corruption
+- Dead Code Detection
+deployment_history:
+- date: '2026-03-12'
+  campaign: Operation Red Storm
+  role: Zone 6 Auditor — Legacy Code & Dead Imports
+  task: Adversarial audit of pipeline.py, pipeline_v2.py, zone_pipeline.py, dossier state management
+  model: Sonnet
+  xp_earned: 75
+  outcome: SUCCESS
+  deliverable: 11 issues filed (7 bugs incl. 1 Critical schema mismatch, 3 enhancement, 1 code-health)
+current_status:
+  availability: Immediate
+  specializations: Anti-corruption, dead code detection, legacy system analysis
+  readiness: 100%
